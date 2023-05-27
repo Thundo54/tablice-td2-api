@@ -1,0 +1,282 @@
+[{
+    "operators":
+        {
+            "2EN57-038+1715": ["KM"],
+            "EN57-1715": ["KM"],
+            "EN57-038": ["KM"],
+            "2EN57-1542+1747": ["PR"],
+            "2EN57-694+716": ["PR"],
+            "EN57-001": ["PR"],
+            "EN57-1072": ["PR"],
+            "EN57-1101": ["PR"],
+            "EN57-1337": ["PR"],
+            "EN57-1466": ["PR"],
+            "EN57-1542": ["PR"],
+            "EN57-1747": ["PR"],
+            "EN57-1777": ["PR"],
+            "EN57-1786": ["PR"],
+            "EN57-694": ["PR"],
+            "EN57-716": ["PR"],
+            "EN57-765": ["PR"],
+            "EN57-961": ["KD"],
+            "EN57-986": ["PR"],
+            "EN71-005": ["PR"],
+            "EN71-006": ["PR"],
+            "EN71-009": ["PR"],
+            "EN71-010": ["PR"],
+            "EN71-014": ["PR"],
+            "EN71-015": ["PR"],
+            "EN71-028": ["PR"],
+            "EN57-1914": ["PR"],
+            "EN57-1953": ["PR"],
+            "EN57-1149": ["SKM"],
+            "EN57-880": ["SKM"],
+            "EN57-838": ["SKM"],
+            "EN71-044": ["SKM"],
+            "EN71-046": ["SKM"],
+            "EN71-049": ["SKM"],
+            "EP08-006": ["IC"],
+            "EP08-006v2": ["IC"],
+            "EU07-334": ["IC"],
+            "EP07-1031": ["IC"],
+            "EP07-1056": ["IC"],
+            "EP07-384": ["IC"],
+            "EU07-324": ["IC"],
+            "EP07-1008": ["IC"],
+            "EP07-1009": ["IC"],
+            "EP07-1025": ["IC"],
+            "EP07-1038": ["IC"],
+            "EP07-1039": ["IC"],
+            "EP07-1043": ["IC"],
+            "EP07-1054": ["IC"],
+            "EP07-1055": ["PR"],
+            "EP07-355": ["IC"],
+            "EP07-356": ["IC"],
+            "EP07-391": ["IC"],
+            "EP07-408": ["IC"],
+            "EP07-444": ["IC"],
+            "EP07-480": ["IC"],
+            "EP07-544": ["IC"],
+            "EU07-368": ["IC"],
+            "EU07-150": ["IC"],
+            "EP07-1002": ["IC"],
+            "EP07-1048": ["IC"],
+            "EU07-234": ["IC"],
+            "SM42-329": ["PR"],
+            "SM42-329_PLREG": ["PR"],
+            "SM42-506": ["IC"],
+            "SN81-001": ["PR"],
+            "110a_PKPIC_Bcdu_01": ["IC"],
+            "110a_PKPIC_Bcdu_02": ["IC"],
+            "111a_PKP_Bdnu_01": ["IC", "PR"],
+            "111a_PKP_Bdnu_02": ["IC", "PR"],
+            "111a_PKP_Bnouz_01": ["IC", "PR"],
+            "111a_PKP_Brdu_01": ["IC", "PR"],
+            "111a_PKPIC_B10ou_0": ["IC"],
+            "111a_PKPIC_B9nopuvz_01": ["IC"],
+            "111a_PKPIC_B9nopuvz_02": ["IC"],
+            "111a_PKPIC_B9ouv_01": ["IC"],
+            "111a_PKPIC_Bnouz_01": ["IC"],
+            "111a_PRREG_A9ou_01": ["PR"],
+            "111a_PRREG_A9ou_02": ["PR"],
+            "111a_PRREG_A9ouy_01": ["PR"],
+            "111a_PRREG_B10_01": ["PR"],
+            "111a_PRREG_Bbnopuvz_01": ["PR"],
+            "111a_PRREG_Bbnopuvz_02": ["PR"],
+            "112a_PKP_A9nou_01": ["IC", "PR"],
+            "112a_PKP_A9ou_02": ["IC", "PR"],
+            "112a_PKP_Adnu_01": ["IC", "PR"],
+            "112a_PKP_Adu_01": ["IC", "PR"],
+            "112a_PKPIC_A9ou_01": ["IC"],
+            "112a_PKPIC_A9ou_02": ["IC"],
+            "112a_PRREG_A9ou_01": ["PR"],
+            "112a_PRREG_A9ou_02": ["PR"],
+            "113a_PKP_WRbd_01": ["IC","PR"],
+            "113a_PKPIC_WRbd_01": ["IC"],
+            "113a_PLPREG_Wro_01": ["PR"],
+            "120a_PRREG_B11p_01": ["PR"],
+            "120a_PRREG_B11p_02": ["PR"],
+            "120a_PRREG_B11pv_01": ["PR"],
+            "120a_PRREG_B51p_01": ["PR"],
+            "120a_PRREG_B51p_02": ["PR"],
+            "120a_PRREG_B51p_03": ["PR"],
+            "120a_PRREG_B51p_04": ["PR"],
+            "120a_PRREG_B9pv_01": ["PR"],
+            "154a_PKP_B10mnouz_01": ["IC"],
+            "154a_PKPIC_B10mnouz_01": ["IC"],
+            "154a_PKPIC_B10mnouz_02": ["IC"],
+            "158a_PKPIC_A9mnopuz_01": ["IC"],
+            "159a_PKPIC_B9mnopuz_01": ["IC"],
+            "612a_PKPIC_BD4osuv_01": ["IC"],
+            "Bau84_CD_B10nou_01": ["IC","KŚ"],
+            "Bau84_CD_B249_01": ["IC","KŚ"],
+            "Bau84_PKP_B10nou_02": ["IC","KŚ"],
+            "Bau84_PKPIC_B10nou_01": ["IC"],
+            "Bau84_PKPIC_B10nou_02": ["IC"],
+            "Gor77_PKP_Bhp_01": ["PR"],
+            "Gor77_PKP_Bhp_02": ["PR"],
+            "Gor77_PKP_Bhp_03": ["PR"],
+            "Gor89_CD_Bmto_01": ["IC"],
+            "Gor89_CD_Bmto_02": ["IC"],
+            "Gor89_PKP_B16mnopux_01": ["IC","PR"],
+            "Gor89_PKP_B16mnopux_02": ["IC","PR"],
+            "Gor89_PKP_B16mnopux_03": ["IC","PR"],
+            "Gor89_PKP_B16mnopux_04": ["IC","PR"],
+            "Gor89_PKP_B16mnopux_05": ["PR"],
+            "Gor89_PKP_B16mnopux_06": ["PR"]
+        },
+    "categories":
+    [
+        {
+            "operator": "KM",
+            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" }
+        },
+        {
+            "operator": "PR",
+            "category": { "RO": "R", "RP": "RP", "MP": "RP", "EI": "sR" }
+        },
+        {
+            "operator": "SKM",
+            "category": { "RO": "", "RP": "", "MP": "", "EI": "" }
+        },
+        {
+            "operator": "KD",
+            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "P" }
+        },
+        {
+            "operator": "IC",
+            "category": { "RO": "TLK", "RP": "TLK", "MP": "IC", "EI": "EIC" }
+        },
+        {
+            "operator": "KŚ",
+            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" }
+        }
+    ],
+    "overwrite":
+    [
+        {
+            "operator": "PR",
+            "operatorOverwrite": "PR",
+            "trainNoStartsWith": ["395"],
+            "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
+            "remarks": "SKA2"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "PR",
+            "trainNoStartsWith": ["307"],
+            "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
+            "remarks": "SKA3"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "ŁKA",
+            "trainNoStartsWith": ["911"],
+            "category": { "RO": "Ł", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
+            "remarks": "Bajkowy"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "ŁKA",
+            "trainNoStartsWith": ["112", "212"],
+            "category": { "RO": "Ł", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
+            "remarks": ""
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["94"],
+            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
+            "remarks": "S5"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["40"],
+            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
+            "remarks": "S1"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["431", "341"],
+            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
+            "remarks": "S3 Gibki Cug"
+        }
+    ],
+    "trainNames":
+    [
+        {
+            "operator": "IC",
+            "trainNo:": ["1350", "1351", "3150", "3151"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Tatry"
+        },
+        {
+            "operator": "IC",
+            "trainNo:": ["1352", "1353", "3152", "3153"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Kościuszko"
+        },
+        {
+            "operator": "IC",
+            "trainNo:": ["1410", "1411", "4110", "4111"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Ondraszek"
+        },
+        {
+            "operator": "IC",
+            "trainNo:": ["1540", "1541", "5140", "5141"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Jantar"
+        },
+        {
+            "operator": "IC",
+            "trainNo:": ["1544", "1545", "5144", "5145"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Kaszub"
+        },
+        {
+            "operator": "IC",
+            "trainNo:": ["1546", "1547", "5146", "5147"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Neptun"
+        },
+        {
+            "operator": "IC",
+            "trainNo:": ["1600", "1601", "6100", "6101"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Panorama"
+        },
+        {
+            "operator": "IC",
+            "trainNo:": ["1800", "1801", "8100", "8101"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Chrobry"
+        },
+        {
+            "operator": "IC",
+            "trainNo:": ["1850", "1851", "8150", "8151"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Posejdon"
+        },
+        {
+            "operator": "IC",
+            "trainNo:": ["4550", "4551", "5450", "5451"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Wysocki"
+        },
+        {
+            "operator": "IC",
+            "trainNo:": ["4850", "4851", "8450", "8451"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Fregata"
+        },
+        {
+            "operator": "IC",
+            "trainNo:": ["5850", "5851", "8550", "8551"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Chrobry"
+        }
+    ]
+}]
