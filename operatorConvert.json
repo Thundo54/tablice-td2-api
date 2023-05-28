@@ -123,7 +123,19 @@
             "Gor89_PKP_B16mnopux_03": ["IC","PR"],
             "Gor89_PKP_B16mnopux_04": ["IC","PR"],
             "Gor89_PKP_B16mnopux_05": ["PR"],
-            "Gor89_PKP_B16mnopux_06": ["PR"]
+            "Gor89_PKP_B16mnopux_06": ["PR"],
+            "111a_PKP_Bwxz_01": ["PKP"],
+            "110a_PKP_Bcwxz_01": ["PKP"],
+            "101a_PKP_Bhixt_01": ["PKP"],
+            "102a_PKP_Bh_01": ["PKP"],
+            "112a_A9ou_511-6": ["PKP"],
+            "112a_A9ouy_172-5": ["PKP"],
+            "112a_A9ouy_501-7": ["PKP"],
+            "112a_PKP_Awxz_01": ["PKP"],
+            "113a_PKP_BJwxz_01": ["PKP"],
+            "120a_PKP_Bwix_01": ["PKP"],
+            "504a_PKP_Sk_01": ["PKP"],
+            "Bau84_PKP_As_01": ["PKP"]
         },
     "categories":
     [
@@ -134,10 +146,6 @@
         {
             "operator": "PR",
             "category": { "RO": "R", "RP": "RP", "MP": "RP", "EI": "sR" }
-        },
-        {
-            "operator": "SKM",
-            "category": { "RO": "", "RP": "", "MP": "", "EI": "" }
         },
         {
             "operator": "KD",
