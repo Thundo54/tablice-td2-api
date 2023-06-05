@@ -301,6 +301,12 @@
             "trainName": "Leskowiec"
         },
         {
+            "operator": "IC",
+            "trainNo:": ["53102", "35103", "83152", "83153"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Lubomirski"
+        },
+        {
             "operator": "PR",
             "trainNo:": ["30534", "30535"],
             "categoryOverwrite": "R",
