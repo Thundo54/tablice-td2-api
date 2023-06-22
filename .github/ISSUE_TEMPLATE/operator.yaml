@@ -1,0 +1,40 @@
+name: Przewoźnik
+description: Zasugeruj nowego przewoźnika
+title: "[Sugestia - przewoźnik]: "
+assignees:
+  - Thundo
+body:
+  - type: input
+    attributes:
+      label: Nazwa przewoźnika
+      description: W polu poniżej napisz pełną nazwe przewoźnika
+      placeholder: Łódzka Kolej Aglomeracyjna
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Skrót nazwy przewoźnika
+      description: W polu ponieżej napisz skrót od nazwy przewoźnika
+      placeholder: ŁKA
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Początek numeru pociągów
+      description: W polu ponieżej napisz od jakich cyfr zaczynają się numery pociagów danego przewoźnika
+      placeholder: '212, 122' 
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Skrót kategorii przewoźnika
+      description: W polu ponieżej napisz skrót kategorii handlowych przewoźnika (zgodnie z szablonem). Oznacznia "RO", "RP", "MP", "EI" są początkami kategorii z TD2, a "Ł", "ŁS" odpowiadającymi im skrótami przewoźnika. UWAGA! Jeśli przewoźnik nie ma takich skrótów zostaw pole puste
+      placeholder: '"RO": "Ł", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS"'
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Informacje o przewoźniku
+      description: Dodaj infomacje o przewoźniku (np. potwierdzające autentyczność danych wpisanych wyżej)
+    validations:
+      required: true
