@@ -180,27 +180,6 @@
         },
         {
             "operator": "PR",
-            "operatorOverwrite": "KŚ",
-            "trainNoStartsWith": ["94"],
-            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
-            "remarks": "S5"
-        },
-        {
-            "operator": "PR",
-            "operatorOverwrite": "KŚ",
-            "trainNoStartsWith": ["40"],
-            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
-            "remarks": "S1"
-        },
-        {
-            "operator": "PR",
-            "operatorOverwrite": "KŚ",
-            "trainNoStartsWith": ["431", "341"],
-            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
-            "remarks": "S3 Gibki Cug"
-        },
-        {
-            "operator": "PR",
             "operatorOverwrite": "DB",
             "trainNoStartsWith": ["80643", "80645", "80647", "80649", "80651", "80653", "80655", "80641", "80659"],
             "category": { "RO": "R", "RP": "R", "MP": "R", "EI": "R" },
@@ -226,6 +205,55 @@
             "trainNoStartsWith": ["775"],
             "category": { "RO": "R", "RP": "R", "MP": "R", "EI": "R" },
             "remarks": "PKM4"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["4061", "4062", "4063", "4085", "4065", "4066", "4067", "4068"],
+            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
+            "remarks": "S1"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["4310", "3410"],
+            "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
+            "remarks": "S3 Gibki Cug"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["404", "405"],
+            "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
+            "remarks": "S4"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["4010", "4011"],
+            "category": { "RO": "OsP", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
+            "remarks": "S41 Sprinter"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["94850", "94752", "94801", "94754", "94703", "94805", "94756", "94707", "94758", "94809", "94860", "94811", "94713", "94672", "94864", "94815", "94866", "94717", "94768", "94917", "94721", "94770", "94872", "94723", "94774", "94725", "94776", "94727", "94878", "94729", "94880", "94782", "94831", "94733", "94884", "94786", "94835", "94737", "94888", "94839"],
+            "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
+            "remarks": "S5"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["94120", "94122", "94124", "94111", "94113", "94115"],
+            "category": { "RO": "OsP", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
+            "remarks": "S5 Sprinter"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["43108", "43109", "34108", "34109"],
+            "category": { "RO": "OsP", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
+            "remarks": "Sprinter Ornak"
         }
     ],
     "trainNames":
