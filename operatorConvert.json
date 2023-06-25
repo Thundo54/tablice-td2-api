@@ -546,7 +546,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["82102", "82103", "28102", "28103"],
+            "trainNo": ["3804", "3805", "8304", "8305"],
             "categoryOverwrite": "IC",
             "trainName": "Matejko"
         },
