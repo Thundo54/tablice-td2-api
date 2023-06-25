@@ -225,6 +225,20 @@
             "trainNoStartsWith": ["80643", "80645", "80647", "80649", "80651", "80653", "80655", "80641", "80659"],
             "category": { "RO": "R", "RP": "R", "MP": "R", "EI": "R" },
             "remarks": "Stadttore-Linie"
+        },
+        {
+            "operator": "KD",
+            "operatorOverwrite": "KD",
+            "trainNoStartsWith": ["693"],
+            "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
+            "remarks": "DKA"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "PR",
+            "trainNoStartsWith": ["775"],
+            "category": { "RO": "R", "RP": "R", "MP": "R", "EI": "R" },
+            "remarks": "PKM4"
         }
     ],
     "trainNames":
@@ -1497,13 +1511,6 @@
         },
         {
             "operator": "PR",
-            "operatorOverwrite": "PR",
-            "trainNoStartsWith": ["775"],
-            "category": { "RO": "R", "RP": "R", "MP": "R", "EI": "R" },
-            "remarks": "PKM4"
-        },
-        {
-            "operator": "PR",
             "trainNo": ["78533", "87532"],
             "categoryOverwrite": "R",
             "trainName": "Kłodawka"
@@ -1741,13 +1748,6 @@
             "trainNo": ["69750", "69751"],
             "categoryOverwrite": "Os",
             "trainName": "Widawa"
-        },
-        {
-            "operator": "KD",
-            "operatorOverwrite": "Os",
-            "trainNoStartsWith": ["693"],
-            "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
-            "remarks": "DKA"
         },
         {
             "operator": "KD",
