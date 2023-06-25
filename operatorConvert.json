@@ -1552,7 +1552,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["78500", "78501",],
+            "trainNo": ["78500", "78501"],
             "categoryOverwrite": "R",
             "trainName": "Odrzanka"
         },
@@ -1639,7 +1639,7 @@
             "trainNo": ["88226", "88326", "88243"],
             "categoryOverwrite": "R",
             "trainName": "Drawa"
-        }
+        },
         {
             "operator": "PR",
             "trainNo": ["90100", "90101", "90112", "90113"],
