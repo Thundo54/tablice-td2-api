@@ -227,6 +227,13 @@
             "remarks": "Stadttore-Linie"
         },
         {
+            "operator": "PR",
+            "operatorOverwrite": "KD",
+            "trainNoStartsWith": ["69"],
+            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "P" },
+            "remarks": ""
+        },
+        {
             "operator": "KD",
             "operatorOverwrite": "KD",
             "trainNoStartsWith": ["693"],
