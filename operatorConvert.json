@@ -370,595 +370,595 @@
             "operator": "IC",
             "trainNo": ["2620", "2621", "6220", "6221"],
             "categoryOverwrite": "IC",
-            "trainName": "Konopnicka"    
+            "trainName": "Konopnicka"
         },
         {
             "operator": "IC",
             "trainNo": ["38172", "38173", "78172", "78173", "83172", "83173", "87172", "87173"],
             "categoryOverwrite": "IC",
-            "trainName": "Przemyślanin"    
+            "trainName": "Przemyślanin"
         },
         {
             "operator": "IC",
             "trainNo": ["1628", "1629", "6128", "6129"],
             "categoryOverwrite": "IC",
-            "trainName": "Oleńka"    
+            "trainName": "Oleńka"
         },
         {
             "operator": "IC",
             "trainNo": ["68100", "68101", "86100", "86101"],
             "categoryOverwrite": "IC",
-            "trainName": "Dąbrowska"    
+            "trainName": "Dąbrowska"
         },
         {
             "operator": "IC",
             "trainNo": ["35172", "35173", "53172", "53173"],
             "categoryOverwrite": "TLK",
-            "trainName": "Rozewie"    
+            "trainName": "Rozewie"
         },
         {
             "operator": "IC",
             "trainNo": ["16170", "16171", "61170", "61171"],
             "categoryOverwrite": "TLK",
-            "trainName": "Karkonosze"    
+            "trainName": "Karkonosze"
         },
         {
             "operator": "IC",
             "trainNo": ["6126", "6127", "1626", "1627"],
             "categoryOverwrite": "IC",
-            "trainName": "Łużyce"    
+            "trainName": "Łużyce"
         },
         {
             "operator": "IC",
             "trainNo": ["24102", "24103", "26102", "26103", "42102", "42103", "62102", "62103"],
             "categoryOverwrite": "IC",
-            "trainName": "Morcinek"    
+            "trainName": "Morcinek"
         },
         {
             "operator": "IC",
             "trainNo": ["68104", "68105", "68154", "68155", "86104", "86105", "86154", "86155"],
             "categoryOverwrite": "IC",
-            "trainName": "Swarożyc"    
+            "trainName": "Swarożyc"
         },
         {
             "operator": "IC",
             "trainNo": ["16104", "16105", "61104", "61105"],
             "categoryOverwrite": "IC",
-            "trainName": "Nałkowska"    
+            "trainName": "Nałkowska"
         },
         {
             "operator": "IC",
             "trainNo": ["6504", "6505", "5604", "5605"],
             "categoryOverwrite": "IC",
-            "trainName": "Mieszko"    
+            "trainName": "Mieszko"
         },
         {
             "operator": "IC",
             "trainNo": ["5614", "5615"],
             "categoryOverwrite": "IC",
-            "trainName": "Mieszko-Bis"    
+            "trainName": "Mieszko-Bis"
         },
         {
             "operator": "IC",
             "trainNo": ["6300", "6301", "3600", "3601"],
             "categoryOverwrite": "IC",
-            "trainName": "Wyspiański"    
+            "trainName": "Wyspiański"
         },
         {
             "operator": "IC",
             "trainNo": ["7300", "7301", "3700", "3701"],
             "categoryOverwrite": "IC",
-            "trainName": "Ślązak"    
+            "trainName": "Ślązak"
         },
         {
             "operator": "IC",
             "trainNo": ["48100", "48101", "84100", "84101", "48150", "84150"],
             "categoryOverwrite": "IC",
-            "trainName": "Gwarek"    
+            "trainName": "Gwarek"
         },
         {
             "operator": "IC",
             "trainNo": ["35150", "35150", "45150", "45151", "54150", "54151", "53150", "53150"],
             "categoryOverwrite": "IC",
-            "trainName": "Halny"    
+            "trainName": "Halny"
         },
         {
             "operator": "IC",
             "trainNo": ["56102", "56103", "65102", "65103"],
             "categoryOverwrite": "IC",
-            "trainName": "Mamry"    
+            "trainName": "Mamry"
         },
         {
             "operator": "IC",
             "trainNo": ["63104", "63105", "36104", "36105"],
             "categoryOverwrite": "IC",
-            "trainName": "Siemiradzki"    
+            "trainName": "Siemiradzki"
         },
         {
             "operator": "IC",
             "trainNo": ["38104", "38105", "83104", "83105"],
             "categoryOverwrite": "IC",
-            "trainName": "Chełmoński"    
+            "trainName": "Chełmoński"
         },
         {
             "operator": "IC",
             "trainNo": ["37104", "37105", "60105", "66104", "73104", "73105"],
             "categoryOverwrite": "IC",
-            "trainName": "Mehoffer"    
+            "trainName": "Mehoffer"
         },
         {
             "operator": "IC",
             "trainNo": ["3806", "3807", "8306", "8307"],
             "categoryOverwrite": "IC",
-            "trainName": "Malczewski"    
+            "trainName": "Malczewski"
         },
         {
             "operator": "IC",
             "trainNo": ["62100", "62101", "26100", "26101"],
             "categoryOverwrite": "IC",
-            "trainName": "Bolko"    
+            "trainName": "Bolko"
         },
         {
             "operator": "IC",
             "trainNo": ["5600", "5601", "6500", "6501"],
             "categoryOverwrite": "IC",
-            "trainName": "Pomorzanin"    
+            "trainName": "Pomorzanin"
         },
         {
             "operator": "IC",
             "trainNo": ["5602", "5603", "6502", "6503"],
             "categoryOverwrite": "IC",
-            "trainName": "Heweliusz"    
+            "trainName": "Heweliusz"
         },
         {
             "operator": "IC",
             "trainNo": ["82102", "82103", "28102", "28103"],
             "categoryOverwrite": "TLK",
-            "trainName": "Wyczółkowski"    
+            "trainName": "Wyczółkowski"
         },
         {
             "operator": "IC",
             "trainNo": ["82102", "82103", "28102", "28103"],
             "categoryOverwrite": "IC",
-            "trainName": "Matejko"    
+            "trainName": "Matejko"
         },
         {
             "operator": "IC",
             "trainNo": ["38150", "38151", "83150", "83151"],
             "categoryOverwrite": "IC",
-            "trainName": "Krakowianka"    
+            "trainName": "Krakowianka"
         },
         {
             "operator": "IC",
             "trainNo": ["38176","38177", "68176", "68177", "83156", "83157"],
             "categoryOverwrite": "TLK",
-            "trainName": "Jamno"    
+            "trainName": "Jamno"
         },
         {
             "operator": "IC",
             "trainNo": ["16100", "16101", "61100", "61101"],
             "categoryOverwrite": "TLK",
-            "trainName": "Orzeszkowa"    
+            "trainName": "Orzeszkowa"
         },
         {
             "operator": "IC",
             "trainNo": ["38174", "38175", "46174", "46175", "64174", "64175", "83174", "83175"],
             "categoryOverwrite": "TLK",
-            "trainName": "Wolin"    
+            "trainName": "Wolin"
         },
         {
             "operator": "IC",
             "trainNo": ["56150", "56151", "57106", "57107", "65150", "65151", "75106", "75107"],
             "categoryOverwrite": "IC",
-            "trainName": "Lednica"    
+            "trainName": "Lednica"
         },
         {
             "operator": "IC",
             "trainNo": ["1650", "1651", "60151", "6150", "6151", "66150"],
             "categoryOverwrite": "IC",
-            "trainName": "Śnieżka"    
+            "trainName": "Śnieżka"
         },
         {
             "operator": "IC",
             "trainNo": ["3514", "3515", "5314", "5315", "3554", "3555", "5354", "5355"],
             "categoryOverwrite": "IC",
-            "trainName": "Artus"    
+            "trainName": "Artus"
         },
         {
             "operator": "IC",
             "trainNo": ["20100", "20101", "22100", "22101", "2700", "2701", "7200", "7201"],
             "categoryOverwrite": "IC",
-            "trainName": "Hetman"    
+            "trainName": "Hetman"
         },
         {
             "operator": "IC",
             "trainNo": ["48102", "48103", "84102", "84103"],
             "categoryOverwrite": "IC",
-            "trainName": "Szyndzielnia"    
+            "trainName": "Szyndzielnia"
         },
         {
             "operator": "IC",
             "trainNo": ["37000", "37001", "73000", "73001"],
             "categoryOverwrite": "IC",
-            "trainName": "Wawel"    
+            "trainName": "Wawel"
         },
         {
             "operator": "IC",
             "trainNo": ["5620", "5621", "6520", "6521"],
             "categoryOverwrite": "IC",
-            "trainName": "Słowacki"    
+            "trainName": "Słowacki"
         },
         {
             "operator": "IC",
             "trainNo": ["68102", "68103", "86102", "86103"],
             "categoryOverwrite": "IC",
-            "trainName": "Szkuner"    
+            "trainName": "Szkuner"
         },
         {
             "operator": "IC",
             "trainNo": ["68100", "68101", "86100", "86101"],
             "categoryOverwrite": "IC",
-            "trainName": "Bosman"    
+            "trainName": "Bosman"
         },
         {
             "operator": "IC",
             "trainNo": ["3512", "3513", "5312", "5313"],
             "categoryOverwrite": "IC",
-            "trainName": "Piast"    
+            "trainName": "Piast"
         },
         {
             "operator": "IC",
             "trainNo": ["56100", "56101", "65100", "65101"],
             "categoryOverwrite": "IC",
-            "trainName": "Jeziorak"    
+            "trainName": "Jeziorak"
         },
         {
             "operator": "IC",
             "trainNo": ["1622", "1623", "6122", "6123", "2622", "2623"],
             "categoryOverwrite": "IC",
-            "trainName": "Baczyński"    
+            "trainName": "Baczyński"
         },
         {
             "operator": "IC",
             "trainNo": ["1620", "1621", "6120", "6121"],
             "categoryOverwrite": "IC",
-            "trainName": "Asnyk"    
+            "trainName": "Asnyk"
         },
         {
             "operator": "IC",
             "trainNo": ["47010", "47011", "74010", "74011"],
             "categoryOverwrite": "IC",
-            "trainName": "Nightjet"    
+            "trainName": "Nightjet"
         },
         {
             "operator": "IC",
             "trainNo": ["17000", "17001", "71000", "71001", "17002", "17003", "71002", "71003", "17004", "17005", "71004", "71005", "17006", "17007", "71006", "71007", "17008", "17009", "71008", "71009", "17010", "17011", "71010", "71011"],
             "categoryOverwrite": "EIC",
-            "trainName": "Berlin - Warszawa - Express"    
+            "trainName": "Berlin - Warszawa - Express"
         },
         {
             "operator": "IC",
             "trainNo": ["1300", "1301", "1302", "1303", "1304", "1305", "1306", "1307", "1308", "1309", "1310", "1311", "1312", "1313", "1400", "1401", "1500", "1501", "1502", "1503", "1600", "1601", "1602", "1603", "3100", "3101", "3102", "3103", "3104", "3105", "3106", "3107", "3108", "3109", "3110", "3111", "3112", "3113", "3500", "3501", "3502", "3503", "3504", "3505", "3506", "3507", "3508", "3509", "3510", "3511", "3800", "3801", "3840", "3841", "4500", "4501", "4502", "4503", "4504", "4505", "4506", "4507", "4508", "4509", "5100", "5101", "5102", "5103", "5104", "5105", "5300", "5301", "5302", "5303", "5304", "5305", "5306", "5307", "5308", "5309", "5310", "5311", "5350", "5351", "5400", "5401", "5402", "5403", "5404", "5405", "5406", "5407", "6100", "6101", "6102", "6103", "8300", "8301", "8340", "8341"],
             "categoryOverwrite": "EIP",
-            "trainName": ""    
+            "trainName": ""
         },
         {
             "operator": "IC",
             "trainNo": ["57000", "57001", "75000", "75001"],
             "categoryOverwrite": "IC",
-            "trainName": "Gedania"    
+            "trainName": "Gedania"
         },
         {
             "operator": "IC",
             "trainNo": ["21010", "21011", "12010", "12011"],
             "categoryOverwrite": "IC",
-            "trainName": "Kiev express"    
+            "trainName": "Kiev express"
         },
         {
             "operator": "IC",
             "trainNo": ["3604", "3605", "6304", "6305"],
             "categoryOverwrite": "IC",
-            "trainName": "Grottger"    
+            "trainName": "Grottger"
         },
         {
             "operator": "IC",
             "trainNo": ["44000", "40001"],
             "categoryOverwrite": "IC",
-            "trainName": "Moravia"    
+            "trainName": "Moravia"
         },
         {
             "operator": "IC",
             "trainNo": ["41002", "41003", "14002", "14003"],
             "categoryOverwrite": "IC",
-            "trainName": "Polonia"    
+            "trainName": "Polonia"
         },
         {
             "operator": "IC",
             "trainNo": ["43002", "43003", "34002", "34003"],
             "categoryOverwrite": "IC",
-            "trainName": "Porta Moravica"    
+            "trainName": "Porta Moravica"
         },
         {
             "operator": "IC",
             "trainNo": ["45000", "45001", "54000", "54001"],
             "categoryOverwrite": "IC",
-            "trainName": "Sobieski"    
+            "trainName": "Sobieski"
         },
         {
             "operator": "IC",
             "trainNo": ["45000", "45001", "54000", "54001"],
             "categoryOverwrite": "IC",
-            "trainName": "Batory"    
+            "trainName": "Batory"
         },
         {
             "operator": "IC",
             "trainNo": ["85100", "85101", "518100", "58101"],
             "categoryOverwrite": "IC",
-            "trainName": "Albatros"    
+            "trainName": "Albatros"
         },
         {
             "operator": "IC",
             "trainNo": ["13000", "13001", "31000", "31001"],
             "categoryOverwrite": "IC",
-            "trainName": "Hańcza"    
+            "trainName": "Hańcza"
         },
         {
             "operator": "IC",
             "trainNo": ["34004", "34005", "43004", "43005"],
             "categoryOverwrite": "IC",
-            "trainName": "Galicja"    
+            "trainName": "Galicja"
         },
         {
             "operator": "IC",
             "trainNo": ["22001", "22002", "22008", "22009", "33001", "33002", "33025", "33026", "33007", "33008"],
             "categoryOverwrite": "TLK",
-            "trainName": ""    
+            "trainName": ""
         },
         {
             "operator": "IC",
             "trainNo": ["33010", "33013", "33014", "33017", "15146", "15147", "15154", "15155"],
             "categoryOverwrite": "IC",
-            "trainName": ""    
+            "trainName": ""
         },
         {
             "operator": "IC",
             "trainNo": ["24000", "24001", "42000", "42001"],
             "categoryOverwrite": "TLK",
-            "trainName": "Roztocze"    
+            "trainName": "Roztocze"
         },
         {
             "operator": "IC",
             "trainNo": ["54070", "54071", "45070", "45071"],
             "categoryOverwrite": "TLK",
-            "trainName": "Wydmy"    
+            "trainName": "Wydmy"
         },
         {
             "operator": "IC",
             "trainNo": ["84070", "84071", "48070", "48071"],
             "categoryOverwrite": "TLK",
-            "trainName": "Pirat"    
+            "trainName": "Pirat"
         },
         {
             "operator": "IC",
             "trainNo": ["1000", "1001", "1100", "1101", "1150", "1151", "1000", "1001", "1150", "1151"],
             "categoryOverwrite": "IC",
-            "trainName": "Narew"    
+            "trainName": "Narew"
         },
         {
             "operator": "IC",
             "trainNo": ["1002", "1003", "1102", "1103"],
             "categoryOverwrite": "IC",
-            "trainName": "Zamenhof"    
+            "trainName": "Zamenhof"
         },
         {
             "operator": "IC",
             "trainNo": ["10100", "10101", "10110", "10111"],
             "categoryOverwrite": "TLK",
-            "trainName": "Żubr"    
+            "trainName": "Żubr"
         },
         {
             "operator": "IC",
             "trainNo": ["11100", "11101", "11110", "11111"],
             "categoryOverwrite": "IC",
-            "trainName": "Skaryna"    
+            "trainName": "Skaryna"
         },
         {
             "operator": "IC",
             "trainNo": ["11102", "11103", "11112", "11113"],
             "categoryOverwrite": "IC",
-            "trainName": "Mickiewicz"    
+            "trainName": "Mickiewicz"
         },
         {
             "operator": "IC",
             "trainNo": ["11104", "11105", "11114", "11115"],
             "categoryOverwrite": "IC",
-            "trainName": "Starzyński"    
+            "trainName": "Starzyński"
         },
         {
             "operator": "IC",
             "trainNo": ["11106", "11107", "11116", "11117"],
             "categoryOverwrite": "IC",
-            "trainName": "Niemcewicz"    
+            "trainName": "Niemcewicz"
         },
         {
             "operator": "IC",
             "trainNo": ["11150", "11151", "11152", "11153"],
             "categoryOverwrite": "IC",
-            "trainName": "Kraszewski"    
+            "trainName": "Kraszewski"
         },
         {
             "operator": "IC",
             "trainNo": ["1200", "1201", "2100", "2101"],
             "categoryOverwrite": "IC",
-            "trainName": "Czartoryski"    
+            "trainName": "Czartoryski"
         },
         {
             "operator": "IC",
             "trainNo": ["1206", "1207", "1906", "1907", "9106", "9107"],
             "categoryOverwrite": "IC",
-            "trainName": "Rubinstein"    
+            "trainName": "Rubinstein"
         },
         {
             "operator": "IC",
             "trainNo": ["12100", "12101", "21000", "21101"],
             "categoryOverwrite": "IC",
-            "trainName": "Chełmianin"    
+            "trainName": "Chełmianin"
         },
         {
             "operator": "IC",
             "trainNo": ["12110", "12111", "21110", "21111"],
             "categoryOverwrite": "IC",
-            "trainName": "Nida"    
+            "trainName": "Nida"
         },
         {
             "operator": "IC",
             "trainNo": ["12120", "12121", "21120", "21121"],
             "categoryOverwrite": "TLK",
-            "trainName": "Inka"    
+            "trainName": "Inka"
         },
         {
             "operator": "IC",
             "trainNo": ["12122", "12123", "21112", "21113"],
             "categoryOverwrite": "TLK",
-            "trainName": "Czechowicz"    
+            "trainName": "Czechowicz"
         },
         {
             "operator": "IC",
             "trainNo": ["12170", "12171", "21170", "21171", "38170", "38171", "83170", "83171"],
             "categoryOverwrite": "TLK",
-            "trainName": "Ustronie"    
+            "trainName": "Ustronie"
         },
         {
             "operator": "IC",
             "trainNo": ["18152", "18153", "81152", "81153"],
             "categoryOverwrite": "IC",
-            "trainName": "Parsęta"    
+            "trainName": "Parsęta"
         },
         {
             "operator": "IC",
             "trainNo": ["13100", "13101", "31100", "31101"],
             "categoryOverwrite": "IC",
-            "trainName": "Malinowski"    
+            "trainName": "Malinowski"
         },
         {
             "operator": "IC",
             "trainNo": ["13102", "13103", "31102", "31103"],
             "categoryOverwrite": "IC",
-            "trainName": "Marszałek Piłsudski"    
+            "trainName": "Marszałek Piłsudski"
         },
         {
             "operator": "IC",
             "trainNo": ["13104", "13105", "31104", "31105"],
             "categoryOverwrite": "IC",
-            "trainName": "Witos"    
+            "trainName": "Witos"
         },
         {
             "operator": "IC",
             "trainNo": ["13106", "13107", "31106", "31107"],
             "categoryOverwrite": "IC",
-            "trainName": "San"    
+            "trainName": "San"
         },
         {
             "operator": "IC",
             "trainNo": ["13108", "13109", "31108", "31109"],
             "categoryOverwrite": "IC",
-            "trainName": "Reymont"    
+            "trainName": "Reymont"
         },
         {
             "operator": "IC",
             "trainNo": ["13110", "13111", "31110", "31111"],
             "categoryOverwrite": "IC",
-            "trainName": "Kinga"    
+            "trainName": "Kinga"
         },
         {
             "operator": "IC",
             "trainNo": ["13112", "13113", "31112", "31113"],
             "categoryOverwrite": "IC",
-            "trainName": "Karłowicz"    
+            "trainName": "Karłowicz"
         },
         {
             "operator": "IC",
             "trainNo": ["1334", "1335", "3134", "3135", "3534", "3535", "5334", "5335"],
             "categoryOverwrite": "IC",
-            "trainName": "Kazimierz"    
+            "trainName": "Kazimierz"
         },
         {
             "operator": "IC",
             "trainNo": ["14100", "14101", "41100", "41101"],
             "categoryOverwrite": "TLK",
-            "trainName": "Chemik"    
+            "trainName": "Chemik"
         },
         {
             "operator": "IC",
             "trainNo": ["1420", "1421", "1460", "1461", "4120", "4121", "4160", "4161"],
             "categoryOverwrite": "IC",
-            "trainName": "Daszyński"    
+            "trainName": "Daszyński"
         },
         {
             "operator": "IC",
             "trainNo": ["1422", "1423", "4122", "4123"],
             "categoryOverwrite": "IC",
-            "trainName": "Pilecki"    
+            "trainName": "Pilecki"
         },
         {
             "operator": "IC",
             "trainNo": ["1510", "1511", "5110", "5111"],
             "categoryOverwrite": "IC",
-            "trainName": "Słowiniec"    
+            "trainName": "Słowiniec"
         },
         {
             "operator": "IC",
             "trainNo": ["15102", "15103", "51102", "51103"],
             "categoryOverwrite": "TLK",
-            "trainName": "Biebrza"    
+            "trainName": "Biebrza"
         },
         {
             "operator": "IC",
             "trainNo": ["1512", "1513", "5112", "5113"],
             "categoryOverwrite": "IC",
-            "trainName": "Wybrzeże"    
+            "trainName": "Wybrzeże"
         },
         {
             "operator": "IC",
             "trainNo": ["1522", "1523", "5122", "5123"],
             "categoryOverwrite": "IC",
-            "trainName": "Mazury"    
+            "trainName": "Mazury"
         },
         {
             "operator": "IC",
             "trainNo": ["15122", "15123", "51122", "51123"],
             "categoryOverwrite": "IC",
-            "trainName": "Mazury-Bis"    
+            "trainName": "Mazury-Bis"
         },
         {
             "operator": "IC",
             "trainNo": ["5700", "5701", "7500", "7501"],
             "categoryOverwrite": "IC",
-            "trainName": "Bałtyk"    
+            "trainName": "Bałtyk"
         },
         {
             "operator": "IC",
             "trainNo": ["5750", "5751"],
             "categoryOverwrite": "IC",
-            "trainName": "Bałtyk-Bis"    
+            "trainName": "Bałtyk-Bis"
         },
         {
             "operator": "IC",
             "trainNo": ["15150", "15151", "51150", "51151"],
             "categoryOverwrite": "TLK",
-            "trainName": "Delfin"    
+            "trainName": "Delfin"
         },
         {
             "operator": "IC",
             "trainNo": ["1520", "1521", "5328", "5329"],
             "categoryOverwrite": "IC",
-            "trainName": "Warmia"    
+            "trainName": "Warmia"
         },
         {
             "operator": "IC",
             "trainNo": ["1524", "1525", "5124", "5125"],
             "categoryOverwrite": "IC",
-            "trainName": "Kopernik"    
+            "trainName": "Kopernik"
         }
     ]
 }]
