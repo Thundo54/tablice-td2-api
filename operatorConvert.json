@@ -959,6 +959,474 @@
             "trainNo": ["1524", "1525", "5124", "5125"],
             "categoryOverwrite": "IC",
             "trainName": "Kopernik"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1526", "1527", "5126", "5127"],
+            "categoryOverwrite": "IC",
+            "trainName": "Moniuszko"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1528", "1529", "5128", "5129"],
+            "categoryOverwrite": "IC",
+            "trainName": "Rejewski"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1530", "1531", "5130", "5131"],
+            "categoryOverwrite": "IC",
+            "trainName": "Brda"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1532", "1533", "5132", "5133"],
+            "categoryOverwrite": "IC",
+            "trainName": "Kociewie"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1542", "1543", "5142", "5143"],
+            "categoryOverwrite": "IC",
+            "trainName": "Laguna"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["17100", "17101", "71100", "71101", "78101", "87100"],
+            "categoryOverwrite": "IC",
+            "trainName": "Dionizos"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["17102", "17103", "71102", "71103"],
+            "categoryOverwrite": "IC",
+            "trainName": "Zielonogórzanin"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["17104", "17105", "71104", "71105"],
+            "categoryOverwrite": "IC",
+            "trainName": "Warta"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18100", "18101", "81000", "81101"],
+            "categoryOverwrite": "IC",
+            "trainName": "Gałczyński"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18102", "18103", "81102", "81103"],
+            "categoryOverwrite": "IC",
+            "trainName": "Podlasiak"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18104", "18105", "81104", "81105"],
+            "categoryOverwrite": "IC",
+            "trainName": "Rybak"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18106", "18107", "81106", "81107"],
+            "categoryOverwrite": "IC",
+            "trainName": "Mewa"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18108", "18109", "81108", "81109"],
+            "categoryOverwrite": "IC",
+            "trainName": "Włókniarz"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18110", "18111", "81110", "81111"],
+            "categoryOverwrite": "IC",
+            "trainName": "Noteć"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18114", "18115", "81114", "81115"],
+            "categoryOverwrite": "IC",
+            "trainName": "Pobrzeże"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18150", "18151", "81150", "81151"],
+            "categoryOverwrite": "IC",
+            "trainName": "Słupia"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18154", "18155", "81154", "81155"],
+            "categoryOverwrite": "IC",
+            "trainName": "Lazur"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18170", "18171", "81170", "81171"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Uznam"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1900", "1901"],
+            "categoryOverwrite": "IC",
+            "trainName": "Boryna"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1902", "1903", "9102", "9103"],
+            "categoryOverwrite": "IC",
+            "trainName": "Łęcka"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1904", "1905", "9104", "9105"],
+            "categoryOverwrite": "IC",
+            "trainName": "Prząśniczka"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1908", "1909", "9108", "9109"],
+            "categoryOverwrite": "IC",
+            "trainName": "Jagna"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1910", "1911", "9110", "9111"],
+            "categoryOverwrite": "IC",
+            "trainName": "Tuwim"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["19100", "19101", "91100", "91101"],
+            "categoryOverwrite": "IC",
+            "trainName": "Łodzianin"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1912", "1913", "9112", "9113"],
+            "categoryOverwrite": "IC",
+            "trainName": "Soplica"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["19130", "19131", "91130", "91131"],
+            "categoryOverwrite": "IC",
+            "trainName": "Zosia"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["19132", "19133", "91132", "91133"],
+            "categoryOverwrite": "IC",
+            "trainName": "Korczak"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["23100", "23101", "32100", "32101"],
+            "categoryOverwrite": "IC",
+            "trainName": "Jagiełło"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["24100", "24101", "42100", "42101"],
+            "categoryOverwrite": "IC",
+            "trainName": "Sztygar"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["25100", "25101", "52100", "52101"],
+            "categoryOverwrite": "IC",
+            "trainName": "Kujawiak"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["25150", "25151", "52150", "52151"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Mierzeja"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["27100", "27101", "72100", "72101", "78103", "87102"],
+            "categoryOverwrite": "IC",
+            "trainName": "Lubuszanin"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["27102", "27103", "72102", "72103"],
+            "categoryOverwrite": "IC",
+            "trainName": "Koziołek"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["28100", "18101", "82100", "82101"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Staszic"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["28104", "28105", "82104", "82105", "80104", "88105"],
+            "categoryOverwrite": "IC",
+            "trainName": "Zamoyski"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["30104", "30105", "33104", "33105", "35104", "35105", "53104", "53105"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Małopolska"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["30110", "30111", "33110", "33111", "36110", "36111", "63110", "63111"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Wetlina"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["30112", "30113", "33112", "33113", "30162", "30163", "33162", "33163"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Bieszczady"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["30160", "30161", "33160", "33161"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Połoniny"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["30170", "30171", "33170", "33171", "35170", "35171", "53170", "53171"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Karpaty"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["3128", "3129"],
+            "categoryOverwrite": "IC",
+            "trainName": "Łokietek"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["35190", "35191", "53190", "53191", "50190", "50191", "55190", "55191"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Korsarz"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["3520", "3521", "5320", "5321"],
+            "categoryOverwrite": "IC",
+            "trainName": "Żeromski"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["3522", "3523", "5322", "5323"],
+            "categoryOverwrite": "IC",
+            "trainName": "Sienkiewicz"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["3524", "3525", "5324", "5325"],
+            "categoryOverwrite": "IC",
+            "trainName": "Kolberg"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["3526", "3527", "5326", "5327"],
+            "categoryOverwrite": "IC",
+            "trainName": "Orłowicz"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["3532", "3533", "5332", "5333"],
+            "categoryOverwrite": "IC",
+            "trainName": "Kochanowski"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["36100", "36101", "63100", "63101"],
+            "categoryOverwrite": "IC",
+            "trainName": "Boznańska"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["36102", "36103", "63102", "63103"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Sudety"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["37100", "37101", "73100", "73101"],
+            "categoryOverwrite": "IC",
+            "trainName": "Pułaski"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["37102", "37103", "73102", "73103"],
+            "categoryOverwrite": "IC",
+            "trainName": "Wybicki"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["3720", "3721", "7320", "7321"],
+            "categoryOverwrite": "IC",
+            "trainName": "Cegielski"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["3722", "3723", "7322", "7323"],
+            "categoryOverwrite": "IC",
+            "trainName": "Barbakan"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["38100", "38101", "83100", "83101"],
+            "categoryOverwrite": "IC",
+            "trainName": "Górski"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["38102", "38103", "83102", "83103"],
+            "categoryOverwrite": "IC",
+            "trainName": "Osterwa"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["38106", "38107", "83106", "83107"],
+            "categoryOverwrite": "IC",
+            "trainName": "Miechowita"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["38190", "38191", "83190", "83191"],
+            "categoryOverwrite": "IC",
+            "trainName": "Bursztyn"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["38192", "38193", "83192", "83193"],
+            "categoryOverwrite": "IC",
+            "trainName": "Podhalanin"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["45100", "45101", "54100", "54101"],
+            "categoryOverwrite": "IC",
+            "trainName": "Doker"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["45102", "45103", "54102", "54103"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Flisak"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["4520", "4521", "5420", "5421"],
+            "categoryOverwrite": "IC",
+            "trainName": "Hutnik"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["4522", "4523", "5422", "5423"],
+            "categoryOverwrite": "IC",
+            "trainName": "Skarbek"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["4524", "4525", "5424", "5425"],
+            "categoryOverwrite": "IC",
+            "trainName": "Kormoran"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["47100", "47101", "74100", "74101"],
+            "categoryOverwrite": "IC",
+            "trainName": "Spodek"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["50104", "50105", "55104", "55105"],
+            "categoryOverwrite": "IC",
+            "trainName": "Niegocin"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["50151", "55150"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Sarbsko"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["50157", "55156"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Gardno"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["57100", "57101", "75100", "75101"],
+            "categoryOverwrite": "IC",
+            "trainName": "Ukiel"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["57102", "57103", "75102", "75103"],
+            "categoryOverwrite": "IC",
+            "trainName": "Drwęca"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["57104", "57105", "75104", "75105"],
+            "categoryOverwrite": "IC",
+            "trainName": "Bachus"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["57108", "57109", "75108", "75109"],
+            "categoryOverwrite": "IC",
+            "trainName": "Stoczniowiec"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["57150", "57151", "75150", "75151"],
+            "categoryOverwrite": "IC",
+            "trainName": "Zatoka"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["58102", "58103", "85102", "85103"],
+            "categoryOverwrite": "IC",
+            "trainName": "Żuławy"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["58104", "58105", "85104", "85105"],
+            "categoryOverwrite": "IC",
+            "trainName": "Bryza"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["58106", "58107", "85106", "85107"],
+            "categoryOverwrite": "IC",
+            "trainName": "Gryf"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["58108", "58109", "85108", "85109"],
+            "categoryOverwrite": "IC",
+            "trainName": "Stańczyk"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["58110", "58111", "85110", "85111"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Bory Tucholskie"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["80150", "88150"],
+            "categoryOverwrite": "IC",
+            "trainName": "Rowokół"
         }
     ]
 }]
