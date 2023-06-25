@@ -166,20 +166,6 @@
     [
         {
             "operator": "PR",
-            "operatorOverwrite": "PR",
-            "trainNoStartsWith": ["395"],
-            "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
-            "remarks": "SKA2"
-        },
-        {
-            "operator": "PR",
-            "operatorOverwrite": "PR",
-            "trainNoStartsWith": ["307"],
-            "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
-            "remarks": "SKA3"
-        },
-        {
-            "operator": "PR",
             "operatorOverwrite": "ŁKA",
             "trainNoStartsWith": ["911"],
             "category": { "RO": "Ł", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
@@ -212,13 +198,6 @@
             "trainNoStartsWith": ["431", "341"],
             "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
             "remarks": "S3 Gibki Cug"
-        },
-        {
-            "operator": "PR",
-            "operatorOverwrite": "PR",
-            "trainNoStartsWith": ["3057", "3058", "3059"],
-            "category": { "RO": "R", "RP": "RP", "MP": "RP", "EI": "sR" },
-            "remarks": "Podhalańska Kolej Regionalna"
         },
         {
             "operator": "PR",
@@ -663,7 +642,7 @@
             "operator": "IC",
             "trainNo": ["17000", "17001", "71000", "71001", "17002", "17003", "71002", "71003", "17004", "17005", "71004", "71005", "17006", "17007", "71006", "71007", "17008", "17009", "71008", "71009", "17010", "17011", "71010", "71011"],
             "categoryOverwrite": "EIC",
-            "trainName": "Berlin - Warszawa - Express"
+            "trainName": "Berlin Warszawa Express"
         },
         {
             "operator": "IC",
@@ -681,7 +660,7 @@
             "operator": "IC",
             "trainNo": ["21010", "21011", "12010", "12011"],
             "categoryOverwrite": "IC",
-            "trainName": "Kiev express"
+            "trainName": "Kiev Express"
         },
         {
             "operator": "IC",
@@ -2044,6 +2023,24 @@
             "trainNo": ["69005", "69008", "69024", "69026"],
             "categoryOverwrite": "P",
             "trainName": "Pociąg do kultury"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["30574", "30576", "30578", "33268", "30580", "30582", "30584", "30586", "30588", "30590", "30592", "30594", "30596", "30551", "30553", "30555", "30557", "30559", "30561", "30563", "30565", "30549", "30569"],
+            "categoryOverwrite": "R",
+            "trainName": "Podhalańska Kolej Regionalna"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["23844", "23845", "23850", "23851", "23200", "23201", "32826", "32827", "32320", "32321", "32830", "32831"],
+            "categoryOverwrite": "Os",
+            "trainName": "SKA2"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["30706", "30707", "30712", "30713", "30724", "30725", "30726", "30727", "30734", "30735", "30756", "30757", "30764", "30765", "30770", "30771", "30784", "30785", "30786", "30787", "33428", "33429"],
+            "categoryOverwrite": "Os",
+            "trainName": "SKA3"
         }
     ]
 }]
