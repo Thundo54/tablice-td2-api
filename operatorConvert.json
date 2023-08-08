@@ -670,7 +670,7 @@
             "operator": "IC",
             "trainNo": ["17000", "17001", "71000", "71001", "17002", "17003", "71002", "71003", "17004", "17005", "71004", "71005", "17006", "17007", "71006", "71007", "17008", "17009", "71008", "71009", "17010", "17011", "71010", "71011"],
             "categoryOverwrite": "EIC",
-            "trainName": "Berlin Warszawa Express"
+            "trainName": "Berlin-Warszawa-Express"
         },
         {
             "operator": "IC",
