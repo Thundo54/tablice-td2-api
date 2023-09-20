@@ -333,7 +333,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["35102", "35103", "83102", "83103"],
+            "trainNo": ["35102", "35103", "83152", "83153", "53102", "53103"],
             "categoryOverwrite": "TLK",
             "trainName": "Lubomirski"
         },
