@@ -688,7 +688,7 @@
         {
             "operator": "IC",
             "trainNo": ["21010", "21011", "12010", "12011"],
-            "categoryOverwrite": "IC",
+            "categoryOverwrite": "TLK",
             "trainName": "Kiev Express"
         },
         {
