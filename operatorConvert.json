@@ -2073,6 +2073,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["14000", "14001", "41000", "41001", "14006", "14007", "41006", "41007", "14008", "14009", "41008", "41009"],
+            "categoryOverwrite": "IC",
+            "trainName": "Silesia"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["34000", "34001", "43000", "43001", "14008", "14009", "41008", "41009"],
             "categoryOverwrite": "IC",
             "trainName": "Cracovia"
