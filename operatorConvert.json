@@ -723,7 +723,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["45000", "45001", "54000", "54001"],
+            "trainNo": ["41004", "41005", "14004", "14005"],
             "categoryOverwrite": "IC",
             "trainName": "Batory"
         },
