@@ -2073,6 +2073,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["34000", "34001", "43000", "43001", "14008", "14009", "41008", "41009"],
+            "categoryOverwrite": "IC",
+            "trainName": "Cracovia"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["14010", "14011", "41010", "41011"],
             "categoryOverwrite": "IC",
             "trainName": "Chopin"
