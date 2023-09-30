@@ -148,7 +148,7 @@
         },
         {
             "operator": "PR",
-            "category": { "RO": "R", "RP": "RP", "MP": "RP", "EI": "sR" }
+            "category": { "RO": "R", "RP": "RP", "MP": "RP", "EI": "sR", "AP": "R" }
         },
         {
             "operator": "KD",
