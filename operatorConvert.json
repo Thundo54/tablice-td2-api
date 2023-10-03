@@ -257,6 +257,13 @@
             "trainNoStartsWith": ["43108", "43109", "34108", "34109"],
             "category": { "RO": "OsP", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
             "remarks": "Sprinter Ornak"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KMŁ",
+            "trainNoStartsWith": ["3320", "3321", "3322", "3323", "3324", "3325", "3326", "3330", "3331", "3332", "3333", "3334", "3335", "3336"],
+            "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
+            "remarks": "SKA1"
         }
     ],
     "trainNames":
