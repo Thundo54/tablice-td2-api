@@ -1476,7 +1476,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["76110", "76111", "67112", "67113"],
+            "trainNo": ["76110", "76111", "67112", "67113", "67900", "67901"],
             "categoryOverwrite": "RP",
             "trainName": "Kamieńczyk"
         },
