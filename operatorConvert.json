@@ -2121,6 +2121,12 @@
             "trainNo": ["38500", "38501", "83500", "83501"],
             "categoryOverwrite": "TLK",
             "trainName": "Podhalanin"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["35510", "35511", "53510", "53511"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Tetmajer"
         }
     ]
 }]
