@@ -2139,6 +2139,12 @@
             "trainNo": ["36126", "36127", "63126", "63127"],
             "categoryOverwrite": "IR",
             "trainName": "Giewont"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["13416", "13417", "31416", "31417"],
+            "categoryOverwrite": "Ex",
+            "trainName": "Morskie Oko"
         }
     ]
 }]
