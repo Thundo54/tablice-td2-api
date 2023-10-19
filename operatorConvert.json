@@ -2145,6 +2145,12 @@
             "trainNo": ["13416", "13417", "31416", "31417"],
             "categoryOverwrite": "Ex",
             "trainName": "Morskie Oko"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["13504", "13505", "31504", "31505"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Janusz Korczak"
         }
     ]
 }]
