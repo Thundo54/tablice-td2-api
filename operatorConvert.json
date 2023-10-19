@@ -2127,6 +2127,12 @@
             "trainNo": ["35510", "35511", "53510", "53511"],
             "categoryOverwrite": "TLK",
             "trainName": "Tetmajer"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["13520", "13521", "31520", "31521"],
+            "categoryOverwrite": "IR",
+            "trainName": "Gubałówka"
         }
     ]
 }]
