@@ -2157,6 +2157,12 @@
             "trainNo": ["13414", "13415", "31414", "31415"],
             "categoryOverwrite": "Ex",
             "trainName": "Karłowicz"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["35500", "35501", "53500", "53501"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Warmia"
         }
     ]
 }]
