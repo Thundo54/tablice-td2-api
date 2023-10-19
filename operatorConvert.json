@@ -2133,6 +2133,12 @@
             "trainNo": ["13520", "13521", "31520", "31521"],
             "categoryOverwrite": "IR",
             "trainName": "Gubałówka"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["36126", "36127", "63126", "63127"],
+            "categoryOverwrite": "IR",
+            "trainName": "Giewont"
         }
     ]
 }]
