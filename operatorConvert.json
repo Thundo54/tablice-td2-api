@@ -2103,6 +2103,12 @@
             "trainNo": ["13202", "13203", "31202", "31203", "35202", "35203", "53202", "53203"],
             "categoryOverwrite": "TLK",
             "trainName": "Monciak-Krupówki"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["13510", "13511", "31510", "31511"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Nosal"
         }
     ]
 }]
