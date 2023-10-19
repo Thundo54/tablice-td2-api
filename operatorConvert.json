@@ -2151,6 +2151,12 @@
             "trainNo": ["13504", "13505", "31504", "31505"],
             "categoryOverwrite": "TLK",
             "trainName": "Janusz Korczak"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["13414", "13415", "31414", "31415"],
+            "categoryOverwrite": "Ex",
+            "trainName": "Karłowicz"
         }
     ]
 }]
