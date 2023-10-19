@@ -2097,6 +2097,12 @@
             "trainNo": ["14010", "14011", "41010", "41011"],
             "categoryOverwrite": "IC",
             "trainName": "Chopin"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["13202", "13203", "31202", "31203", "35202", "35203", "53202", "53203"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Monciak-Krupówki"
         }
     ]
 }]
