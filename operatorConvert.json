@@ -2115,6 +2115,12 @@
             "trainNo": ["35506", "35507", "53506", "53507"],
             "categoryOverwrite": "TLK",
             "trainName": "Regle"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["38500", "38501", "83500", "83501"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Podhalanin"
         }
     ]
 }]
