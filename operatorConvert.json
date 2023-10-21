@@ -1968,7 +1968,7 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["66109", ""],
+            "trainNo": ["66109"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Włodarz"
         },
