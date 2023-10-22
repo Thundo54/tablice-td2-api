@@ -2163,6 +2163,12 @@
             "trainNo": ["35500", "35501", "53500", "53501"],
             "categoryOverwrite": "TLK",
             "trainName": "Warmia"
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["25136", "25137"],
+            "categoryOverwrite": "RE90",
+            "trainName": "Kamienna"
         }
     ]
 }]
