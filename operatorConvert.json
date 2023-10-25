@@ -888,6 +888,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["30150", "30151", "33150"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Malinowski"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["13102", "13103", "31102", "31103"],
             "categoryOverwrite": "IC",
             "trainName": "Marszałek Piłsudski"
