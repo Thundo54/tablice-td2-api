@@ -163,6 +163,10 @@
         {
             "operator": "KŚ",
             "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" }
+        },
+        {
+            "operator": "PKP",
+            "category": { "RO": "Os", "RP": "P", "MP": "P", "EI": "Ex" }
         }
     ],
     "overwrite":
