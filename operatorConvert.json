@@ -2191,6 +2191,12 @@
             "trainNo": ["1712", "1713", "7112", "7113"],
             "categoryOverwrite": "Ex",
             "trainName": "Przemysław"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["16106", "16107", "61106", "61107"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Opolanin"
         }
     ]
 }]
