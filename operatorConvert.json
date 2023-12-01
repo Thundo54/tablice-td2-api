@@ -2179,6 +2179,12 @@
             "trainNo": ["25136", "25137"],
             "categoryOverwrite": "RE90",
             "trainName": "Kamienna"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1810", "1811", "8112", "8113"],
+            "categoryOverwrite": "Ex",
+            "trainName": "Bolesław Prus"
         }
     ]
 }]
