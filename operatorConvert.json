@@ -2197,6 +2197,12 @@
             "trainNo": ["16106", "16107", "61106", "61107"],
             "categoryOverwrite": "TLK",
             "trainName": "Opolanin"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["5704", "5705", "7502", "7503"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Pomerania"
         }
     ]
 }]
