@@ -112,21 +112,6 @@
         ]
     },
     {
-        "sceneryName": "Lębork",
-        "mainCheckpoint": "Lębork",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Lębork Mosty",
-                "suffix": ", po."
-            },
-            {
-                "name": "Lębork Nowy Świat",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
         "sceneryName": "Lisków",
         "mainCheckpoint": "Lisków",
         "mainCheckpointSuffix": null,
@@ -471,6 +456,17 @@
         ]
     },
     {
+        "sceneryName": "Łask",
+        "mainCheckpoint": "Łask",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Borszewice",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
         "sceneryName": "Lutol Suchy",
         "mainCheckpoint": "Lutol Suchy",
         "mainCheckpointSuffix": null,
@@ -534,23 +530,6 @@
             {
                 "name": "Wielicz Kopalnia",
                 "suffix": null
-            }
-        ]
-    },
-    {
-        "sceneryName": "Nakło",
-        "mainCheckpoint": "Nakło",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Kszęty",
-        "mainCheckpoint": "Kszęty",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Kszęty Podlesie",
-                "suffix": ", po."
             }
         ]
     },
@@ -650,17 +629,6 @@
         "checkpoints": []
     },
     {
-        "sceneryName": "Bystra Woda",
-        "mainCheckpoint": "Bystra Woda",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Bystra Jezioro",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
         "sceneryName": "Otok",
         "mainCheckpoint": "Otok",
         "mainCheckpointSuffix": null,
@@ -733,12 +701,6 @@
                 "suffix": ", po."
             }
         ]
-    },
-    {
-        "sceneryName": "Radzikowo",
-        "mainCheckpoint": "Radzikowo",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
     },
     {
         "sceneryName": "Włoszczowa Północ",
@@ -975,21 +937,6 @@
             {
                 "name": "Tomaszów Maz. Białobrzegi",
                 "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "LCS Perzów",
-        "mainCheckpoint": "Perzów",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Osowo",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Rogalin",
-                "suffix": null
             }
         ]
     },
@@ -1566,14 +1513,61 @@
         ]
     },
     {
-        "sceneryName": "Lilianowo",
-        "mainCheckpoint": "Beznazwa",
+        "sceneryName": "LCS Perzów",
+        "mainCheckpoint": "Perzów",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Ciermięcice",
+                "name": "Osowo",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Rogalin",
+                "suffix": null
+            }
+        ]
+    },
+    {
+        "checkpoints": []
+    },
+    {
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Lilianowo",
+        "mainCheckpoint": "Lilianowo",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Lilianowo Wieś",
+                "suffix": null
+            }
+        ]
+    },
+    {
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Bystra Woda",
+        "mainCheckpoint": "Bystra Woda",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Bystra Jezioro",
                 "suffix": ", po."
             }
         ]
+    },
+    {
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Radzikowo",
+        "mainCheckpoint": "Radzikowo",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "checkpoints": []
     }
 ]
