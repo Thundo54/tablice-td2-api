@@ -1528,9 +1528,20 @@
         ]
     },
     {
-        "checkpoints": []
+        "sceneryName": "Łąck",
+        "mainCheckpoint": "Łąck",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Rogożew",
+                "suffix": ", po."
+            }
+        ]
     },
     {
+        "sceneryName": "Wijewo",
+        "mainCheckpoint": "Wijewo",
+        "mainCheckpointSuffix": null,
         "checkpoints": []
     },
     {
@@ -1545,6 +1556,9 @@
         ]
     },
     {
+        "sceneryName": "Wasilków",
+        "mainCheckpoint": "Wasilków",
+        "mainCheckpointSuffix": null,
         "checkpoints": []
     },
     {
@@ -1559,6 +1573,9 @@
         ]
     },
     {
+        "sceneryName": "Sufczyn",
+        "mainCheckpoint": "Sufczyn",
+        "mainCheckpointSuffix": null,
         "checkpoints": []
     },
     {
@@ -1568,6 +1585,18 @@
         "checkpoints": []
     },
     {
-        "checkpoints": []
+        "sceneryName": "LCS Sandomierz",
+        "mainCheckpoint": "Sandomierz",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Wielowieś",
+                "suffix": ", po."
+            },
+            {
+                "name": "Zalesie Gorzyckie",
+                "suffix": ", podg."
+            }
+        ]
     }
 ]
