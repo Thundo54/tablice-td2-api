@@ -877,6 +877,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["12160", "12161", "26160", "26161"],
+            "categoryOverwrite": "IC",
+            "trainName": "Chełmianin Bis"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["12110", "12111", "21110", "21111"],
             "categoryOverwrite": "IC",
             "trainName": "Nida"
