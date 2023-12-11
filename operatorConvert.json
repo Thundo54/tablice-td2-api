@@ -2260,6 +2260,12 @@
             "trainNo": ["36106", "36107", "63106", "63107"],
             "categoryOverwrite": "TLK",
             "trainName": "Szczeliniec"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["37002", "37003", "73002", "73003"],
+            "categoryOverwrite": "IC",
+            "trainName": "Odra"
         }
     ]
 }]
