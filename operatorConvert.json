@@ -1429,7 +1429,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["50151", "55150"],
+            "trainNo": ["50150", "50151", "55150", "55151"],
             "categoryOverwrite": "TLK",
             "trainName": "Sarbsko"
         },
