@@ -1034,7 +1034,7 @@
         {
             "operator": "IC",
             "trainNo": ["15150", "15151", "51150", "51151"],
-            "categoryOverwrite": "TLK",
+            "categoryOverwrite": "IC",
             "trainName": "Delfin"
         },
         {
