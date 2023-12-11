@@ -505,9 +505,9 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["5614", "5615"],
+            "trainNo": ["51128", "51129"],
             "categoryOverwrite": "IC",
-            "trainName": "Mieszko-Bis"
+            "trainName": "Mieszko Bis"
         },
         {
             "operator": "IC",
