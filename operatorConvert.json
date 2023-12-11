@@ -1071,7 +1071,7 @@
             "operator": "IC",
             "trainNo": ["17100", "17101", "71100", "71101", "78101", "87100"],
             "categoryOverwrite": "IC",
-            "trainName": "Dionizos"
+            "trainName": "Strzelecki"
         },
         {
             "operator": "IC",
