@@ -553,12 +553,6 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["37104", "37105", "60105", "66104", "73104", "73105"],
-            "categoryOverwrite": "IC",
-            "trainName": "Mehoffer"
-        },
-        {
-            "operator": "IC",
             "trainNo": ["3806", "3807", "8306", "8307"],
             "categoryOverwrite": "IC",
             "trainName": "Malczewski"
