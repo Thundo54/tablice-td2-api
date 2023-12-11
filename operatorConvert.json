@@ -439,7 +439,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["2620", "2621", "6220", "6221"],
+            "trainNo": ["16102", "16103", "61102", "61103"],
             "categoryOverwrite": "IC",
             "trainName": "Konopnicka"
         },
