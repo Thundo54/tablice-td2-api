@@ -264,6 +264,13 @@
         },
         {
             "operator": "PR",
+            "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["94140", "94146"],
+            "category": { "RO": "OsP", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
+            "remarks": "Kubalonka"
+        },
+        {
+            "operator": "PR",
             "operatorOverwrite": "KMŁ",
             "trainNoStartsWith": ["3320", "3321", "3322", "3323", "3324", "3325", "3326", "3330", "3331", "3332", "3333", "3334", "3335", "3336"],
             "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
