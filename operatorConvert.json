@@ -2248,6 +2248,12 @@
             "trainNo": ["12102", "12103", "21102", "21103"],
             "categoryOverwrite": "IC",
             "trainName": "Bystrzyca"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["30103", "33108"],
+            "categoryOverwrite": "IC",
+            "trainName": "Łukasiewicz"
         }
     ]
 }]
