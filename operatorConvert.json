@@ -2230,6 +2230,12 @@
             "trainNo": ["5704", "5705", "7502", "7503"],
             "categoryOverwrite": "TLK",
             "trainName": "Pomerania"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["10160", "10161", "11160", "11161"],
+            "categoryOverwrite": "IC",
+            "trainName": "Esperanto"
         }
     ]
 }]
