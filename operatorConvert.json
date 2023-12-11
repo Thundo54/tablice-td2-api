@@ -829,7 +829,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["11100", "11101", "11110", "11111"],
+            "trainNo": ["1104", "1105", "1114", "1115"],
             "categoryOverwrite": "IC",
             "trainName": "Skaryna"
         },
