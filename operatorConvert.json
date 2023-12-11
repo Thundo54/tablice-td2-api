@@ -1142,7 +1142,7 @@
         {
             "operator": "IC",
             "trainNo": ["18170", "18171", "81170", "81171"],
-            "categoryOverwrite": "TLK",
+            "categoryOverwrite": "IC",
             "trainName": "Uznam"
         },
         {
