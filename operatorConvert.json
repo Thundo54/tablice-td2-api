@@ -2254,6 +2254,12 @@
             "trainNo": ["30103", "33108"],
             "categoryOverwrite": "IC",
             "trainName": "Łukasiewicz"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["36106", "36107", "63106", "63107"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Szczeliniec"
         }
     ]
 }]
