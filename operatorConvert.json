@@ -457,7 +457,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["68100", "68101", "86100", "86101"],
+            "trainNo": ["61106", "61107"],
             "categoryOverwrite": "IC",
             "trainName": "Dąbrowska"
         },
