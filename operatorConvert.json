@@ -1057,7 +1057,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1528", "1529", "5128", "5129"],
+            "trainNo": ["2520", "2521", "5220", "5221"],
             "categoryOverwrite": "IC",
             "trainName": "Rejewski"
         },
