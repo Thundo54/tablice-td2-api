@@ -463,7 +463,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["35172", "35173", "53172", "53173"],
+            "trainNo": ["35172", "35173", "53172", "53173", "60103", "66102"],
             "categoryOverwrite": "TLK",
             "trainName": "Rozewie"
         },
