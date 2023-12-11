@@ -578,7 +578,7 @@
         {
             "operator": "IC",
             "trainNo": ["82102", "82103", "28102", "28103"],
-            "categoryOverwrite": "TLK",
+            "categoryOverwrite": "IC",
             "trainName": "Wyczółkowski"
         },
         {
