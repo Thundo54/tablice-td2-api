@@ -2242,6 +2242,12 @@
             "trainNo": ["11100", "11101", "11110", "11111"],
             "categoryOverwrite": "IC",
             "trainName": "Podlasie"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["1906", "1907", "9106", "9107"],
+            "categoryOverwrite": "IC",
+            "trainName": "Leśmian"
         }
     ]
 }]
