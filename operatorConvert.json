@@ -2236,6 +2236,12 @@
             "trainNo": ["10160", "10161", "11160", "11161"],
             "categoryOverwrite": "IC",
             "trainName": "Esperanto"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["11100", "11101", "11110", "11111"],
+            "categoryOverwrite": "IC",
+            "trainName": "Podlasie"
         }
     ]
 }]
