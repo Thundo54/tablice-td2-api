@@ -2242,6 +2242,12 @@
             "trainNo": ["1906", "1907", "9106", "9107"],
             "categoryOverwrite": "IC",
             "trainName": "Leśmian"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["12102", "12103", "21102", "21103"],
+            "categoryOverwrite": "IC",
+            "trainName": "Bystrzyca"
         }
     ]
 }]
