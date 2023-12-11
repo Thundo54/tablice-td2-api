@@ -895,6 +895,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["12106", "12107", "21106", "21107"],
+            "categoryOverwrite": "IC",
+            "trainName": "Inka"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["12122", "12123", "21112", "21113"],
             "categoryOverwrite": "TLK",
             "trainName": "Czechowicz"
