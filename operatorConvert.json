@@ -451,7 +451,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1628", "1629", "6128", "6129"],
+            "trainNo": ["16108", "16109", "61108", "61109"],
             "categoryOverwrite": "IC",
             "trainName": "Oleńka"
         },
