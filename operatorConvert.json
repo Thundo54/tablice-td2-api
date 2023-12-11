@@ -577,7 +577,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["5602", "5603", "6502", "6503"],
+            "trainNo": ["5602", "5603", "6502", "6503", "60107", "66106"],
             "categoryOverwrite": "IC",
             "trainName": "Heweliusz"
         },
