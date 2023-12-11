@@ -2227,7 +2227,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["16106", "16107", "61106", "61107"],
+            "trainNo": ["16106", "16107"],
             "categoryOverwrite": "TLK",
             "trainName": "Opolanin"
         },
