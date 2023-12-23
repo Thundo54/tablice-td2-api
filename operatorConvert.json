@@ -2269,9 +2269,15 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["34006", "34007","43006", "43007", "64000", "64001", "46000", "46001"],
+            "trainNo": ["34006", "34007", "43006", "43007", "64000", "64001", "46000", "46001"],
             "categoryOverwrite": "IC",
             "trainName": "Danubius"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["34609", "43602"],
+            "categoryOverwrite": "R",
+            "trainName": "Stanisław Stojałowski"
         }
     ]
 }]
