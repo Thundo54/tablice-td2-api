@@ -45,7 +45,7 @@
       "111a_PKP_Bnouz_01": "j",
       "111a_PKP_Brdu_01": "j",
       "111a_PKPIC_B10ou_0": "j",
-      "111a_PKPIC_B9nopuvz_01": "j",
+      "111a_PKPIC_B9nopuvz_01": "j@",
       "111a_PKPIC_B9nopuvz_02": "j",
       "111a_PKPIC_B9ouv_01": "j",
       "111a_PKPIC_Bnouz_01": "j",
@@ -76,10 +76,10 @@
       "120a_PRREG_B51p_04": "j",
       "120a_PRREG_B9pv_01": "j",
       "154a_PKP_B10mnouz_01": "j",
-      "154a_PKPIC_B10mnouz_01": "jwby",
-      "154a_PKPIC_B10mnouz_02": "jwby",
-      "158a_PKPIC_A9mnopuz_01": "hwy",
-      "159a_PKPIC_B9mnopuz_01": "jwby",
+      "154a_PKPIC_B10mnouz_01": "jwby@",
+      "154a_PKPIC_B10mnouz_02": "jwby@",
+      "158a_PKPIC_A9mnopuz_01": "hwy@",
+      "159a_PKPIC_B9mnopuz_01": "jwby@",
       "612a_PKPIC_BD4osuv_01": "jwb",
       "Bau84_CD_B10nou_01": "j",
       "Bau84_CD_B249_01": "j",
@@ -120,6 +120,7 @@
       "d": "airline_seat_individual_suite",
       "c": "airline_seat_flat",
       "p": "mail",
-      "y": "ac_unit"
+      "y": "ac_unit",
+      "@": "wifi"
     }
 }
