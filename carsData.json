@@ -122,5 +122,6 @@
       "p": "mail",
       "y": "ac_unit",
       "@": "rss_feed"
-    }
+    },
+    "symbols-order": ["h", "j", "a", "b", "@", "c", "d", "e", "y", "w"]
 }
