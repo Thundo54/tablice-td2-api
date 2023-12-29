@@ -547,9 +547,9 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["38104", "38105", "83104", "83105"],
+            "trainNo": ["3820", "3821", "8320", "8321"],
             "categoryOverwrite": "IC",
-            "trainName": "Chełmoński"
+            "trainName": "Osterwa"
         },
         {
             "operator": "IC",
@@ -1365,7 +1365,7 @@
             "operator": "IC",
             "trainNo": ["38102", "38103", "83102", "83103"],
             "categoryOverwrite": "IC",
-            "trainName": "Osterwa"
+            "trainName": "Chełmoński"
         },
         {
             "operator": "IC",
