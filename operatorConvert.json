@@ -337,7 +337,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1800", "1801", "8100", "8101", "5850", "5851", "8550", "8551"],
+            "trainNo": ["1800", "1801", "8100", "8101"],
             "categoryOverwrite": "EIC",
             "trainName": "Chrobry"
         },
