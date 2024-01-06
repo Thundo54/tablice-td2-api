@@ -865,7 +865,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["12160", "12161", "26160", "26161"],
+            "trainNo": ["12160", "12161", "21160", "21161"],
             "categoryOverwrite": "IC",
             "trainName": "Chełmianin Bis"
         },
