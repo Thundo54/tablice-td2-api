@@ -1112,7 +1112,7 @@
         {
             "operator": "IC",
             "trainNo": ["18108", "18109", "81108", "81109"],
-            "categoryOverwrite": "IC",
+            "categoryOverwrite": "TLK",
             "trainName": "Włókniarz"
         },
         {
