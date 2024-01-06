@@ -331,6 +331,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["6302", "6303", "3602", "3603"],
+            "categoryOverwrite": "IC",
+            "trainName": "Siemiradzki"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["1600", "1601", "6100", "6101"],
             "categoryOverwrite": "EIC",
             "trainName": "Panorama"
