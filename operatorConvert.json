@@ -2120,7 +2120,7 @@
         {
             "operator": "PR",
             "trainNo": ["30503", "30540"],
-            "categoryOverwrite": "R"
+            "categoryOverwrite": "R",
             "trainName": "Pięć Stawów"
         },
         {
