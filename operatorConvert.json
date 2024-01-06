@@ -373,7 +373,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["30534", "30535"],
+            "trainNo": ["30515", "30514", "30534", "30535"],
             "categoryOverwrite": "R",
             "trainName": "Podhale"
         },
