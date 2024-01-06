@@ -469,7 +469,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["16170", "16171", "61170", "61171"],
+            "trainNo": ["16190", "16191", "61190", "61191"],
             "categoryOverwrite": "TLK",
             "trainName": "Karkonosze"
         },
