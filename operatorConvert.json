@@ -319,7 +319,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1544", "1545", "5144", "5145"],
+            "trainNo": ["1548", "1549", "5148", "5149"],
             "categoryOverwrite": "EIC",
             "trainName": "Kaszub"
         },
