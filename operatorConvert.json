@@ -1237,7 +1237,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["28100", "18101", "82100", "82101"],
+            "trainNo": ["28100", "28101", "82100", "82101"],
             "categoryOverwrite": "TLK",
             "trainName": "Staszic"
         },
