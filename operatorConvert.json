@@ -884,7 +884,7 @@
         {
             "operator": "IC",
             "trainNo": ["12106", "12107", "21106", "21107"],
-            "categoryOverwrite": "IC",
+            "categoryOverwrite": "TLK",
             "trainName": "Inka"
         },
         {
