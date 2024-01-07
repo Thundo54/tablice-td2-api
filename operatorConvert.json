@@ -1399,7 +1399,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["45100", "45101", "54100", "54101"],
+            "trainNo": ["4526", "4527", "5426", "5427"],
             "categoryOverwrite": "IC",
             "trainName": "Doker"
         },
