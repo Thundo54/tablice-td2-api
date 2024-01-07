@@ -859,7 +859,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1206", "1207", "1906", "1907", "9106", "9107"],
+            "trainNo": ["1206", "1207", "1904", "1905", "9104", "9105"],
             "categoryOverwrite": "IC",
             "trainName": "Rubinstein"
         },
