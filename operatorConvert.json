@@ -949,7 +949,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["13110", "13111", "31110", "31111"],
+            "trainNo": ["1322", "1323", "3122", "3123"],
             "categoryOverwrite": "IC",
             "trainName": "Kinga"
         },
