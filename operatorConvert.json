@@ -973,6 +973,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["1424", "1425", "4124", "4125"],
+            "categoryOverwrite": "IC",
+            "trainName": "Chemik"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["1420", "1421", "1460", "1461", "4120", "4121", "4160", "4161"],
             "categoryOverwrite": "IC",
             "trainName": "Daszyński"
