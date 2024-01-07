@@ -877,7 +877,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["12110", "12111", "21110", "21111"],
+            "trainNo": ["1220", "1221", "2120", "2121"],
             "categoryOverwrite": "IC",
             "trainName": "Nida"
         },
