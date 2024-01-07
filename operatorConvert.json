@@ -955,7 +955,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["13112", "13113", "31112", "31113"],
+            "trainNo": ["1320", "1321", "3120", "3121"],
             "categoryOverwrite": "IC",
             "trainName": "Karłowicz"
         },
