@@ -258,6 +258,13 @@
         {
             "operator": "PR",
             "operatorOverwrite": "KŚ",
+            "trainNoStartsWith": ["4012", "4013", "4014", "4015"],
+            "category": { "RO": "Os", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
+            "remarks": "S9"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "KŚ",
             "trainNoStartsWith": ["43108", "43109", "34108", "34109"],
             "category": { "RO": "OsP", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
             "remarks": "Sprinter Ornak"
