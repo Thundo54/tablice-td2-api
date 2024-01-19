@@ -1412,6 +1412,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["45100", "45101", "54100", "54101"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Doker"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["45102", "45103", "54102", "54103"],
             "categoryOverwrite": "TLK",
             "trainName": "Flisak"
