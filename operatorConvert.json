@@ -1430,7 +1430,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["4524", "4525", "5424", "5425"],
+            "trainNo": ["4524", "4525", "5424", "5425", "4560", "4561", "5460", "5461"],
             "categoryOverwrite": "IC",
             "trainName": "Kormoran"
         },
