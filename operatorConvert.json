@@ -140,7 +140,15 @@
             "113a_PKP_BJwxz_01": ["PKP"],
             "120a_PKP_Bwix_01": ["PKP"],
             "504a_PKP_Sk_01": ["PKP"],
-            "Bau84_PKP_As_01": ["PKP"]
+            "Bau84_PKP_As_01": ["PKP"],
+            "EU07-305": ["IC"],
+            "EU07-380": ["IC"],
+            "EU07-498": ["IC"],
+            "EP07-338": ["IC"],
+            "EP07-374": ["IC"],
+            "EP07-376": ["IC"],
+            "EP07-381": ["IC"],
+            "EP07-383": ["IC"]
         },
     "categories":
     [
