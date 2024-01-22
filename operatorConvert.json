@@ -2514,7 +2514,7 @@
         {
             "operator": "IC",
             "trainNo": ["61200", "61201"],
-            "categoryOverwrite": "P",
+            "categoryOverwrite": "S",
             "trainName": "Włókniarz"
         },
         {
