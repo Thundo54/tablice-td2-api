@@ -1565,7 +1565,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["78440", "78441", "87444", "87445"],
+            "trainNo": ["78941", "87944"],
             "categoryOverwrite": "R",
             "trainName": "Muszelka"
         },
@@ -1595,7 +1595,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["78320", "78321", "87320", "87321"],
+            "trainNo": ["78930", "78931", "87930"],
             "categoryOverwrite": "R",
             "trainName": "Radew"
         },
@@ -1619,13 +1619,13 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["78443", "87340", "87341"],
+            "trainNo": ["78443", "87350", "87351"],
             "categoryOverwrite": "R",
             "trainName": "Kotwica"
         },
         {
             "operator": "PR",
-            "trainNo": ["78445", "87442", "87443"],
+            "trainNo": ["78945", "87942"],
             "categoryOverwrite": "R",
             "trainName": "Gwda"
         },
@@ -1637,19 +1637,19 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["78447", "87440"],
+            "trainNo": ["78947", "78961", "87940"],
             "categoryOverwrite": "R",
             "trainName": "Trygław"
         },
         {
             "operator": "PR",
-            "trainNo": ["79604", "79605", "70406", "70407"],
+            "trainNo": ["79604", "79605", "70404", "70405"],
             "categoryOverwrite": "R",
             "trainName": "Rusałka"
         },
         {
             "operator": "PR",
-            "trainNo": ["79606", "79607", "70400", "70401"],
+            "trainNo": ["79610", "79611", "70400", "70401"],
             "categoryOverwrite": "R",
             "trainName": "Łącza"
         },
@@ -1685,7 +1685,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["77434", "77435", "70404", "70405"],
+            "trainNo": ["70404", "70405", "79602", "79603"],
             "categoryOverwrite": "R",
             "trainName": "Gęśnik"
         },
