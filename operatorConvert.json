@@ -2594,6 +2594,228 @@
             "trainNo": ["11215", "11214"],
             "categoryOverwrite": "S",
             "trainName": "Miłośnik"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["58102", "58103", "85115", "85114"],
+            "categoryOverwrite": "MR",
+            "trainName": "Sharwood"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["58116", "58117", "85118", "85119"],
+            "categoryOverwrite": "MR",
+            "trainName": "Hey Joe"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["85108", "85109"],
+            "categoryOverwrite": "MR",
+            "trainName": "Przytulaniec"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["85124", "85125"],
+            "categoryOverwrite": "MR",
+            "trainName": "Willow"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["58114", "58115", "85112", "85113"],
+            "categoryOverwrite": "MR",
+            "trainName": "Przystanek Broda"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["58118", "58119"],
+            "categoryOverwrite": "MR",
+            "trainName": "Pędząca kłoda"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["58112", "58113"],
+            "categoryOverwrite": "MR",
+            "trainName": "Upiór Północy"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["18118", "18119", "81122", "81123"],
+            "categoryOverwrite": "MR",
+            "trainName": "Skubi"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["85110", "85111"],
+            "categoryOverwrite": "MR",
+            "trainName": "Się kręci"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["81102", "81103"],
+            "categoryOverwrite": "MR",
+            "trainName": "Niekończąca się opowieść"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["81126", "81127"],
+            "categoryOverwrite": "MR",
+            "trainName": "To już jest koniec"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["78101", "78103", "78105"],
+            "categoryOverwrite": "MR",
+            "trainName": "Woodstock Express"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["18114", "18115"],
+            "categoryOverwrite": "MR",
+            "trainName": "Zaraz będzie ciemno"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["18111"],
+            "categoryOverwrite": "MR",
+            "trainName": "Ućstok"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["18116"],
+            "categoryOverwrite": "MR",
+            "trainName": "Wschód Słońca"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["18117", "81124", "81125"],
+            "categoryOverwrite": "MR",
+            "trainName": "Złoty Bączek"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["18103"],
+            "categoryOverwrite": "MR",
+            "trainName": "Szalona włókniarka"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["18110"],
+            "categoryOverwrite": "MR",
+            "trainName": "Houston"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["28102", "28103"],
+            "categoryOverwrite": "MR",
+            "trainName": "Miłość przyjaźń muzyka"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["87100", "87102"],
+            "categoryOverwrite": "MR",
+            "trainName": "Poznań Ex"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["81110", "81111"],
+            "categoryOverwrite": "MR",
+            "trainName": "Między nocą a dniem"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["81114", "81115"],
+            "categoryOverwrite": "MR",
+            "trainName": "Ale lipa"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["81106", "81107"],
+            "categoryOverwrite": "MR",
+            "trainName": "Kulki mocy"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["81118", "81119"],
+            "categoryOverwrite": "MR",
+            "trainName": "Marzena"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["38110", "38111", "83126", "83127"],
+            "categoryOverwrite": "MR",
+            "trainName": "Stalowy pęcherz"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["48100", "48101"],
+            "categoryOverwrite": "MR",
+            "trainName": "Cień wielkiej góry"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["68103"],
+            "categoryOverwrite": "MR",
+            "trainName": "Siema"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["38114", "38115", "83124", "83125"],
+            "categoryOverwrite": "MR",
+            "trainName": "Wehikuł Czasu"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["38116", "38117", "83116", "83117"],
+            "categoryOverwrite": "MR",
+            "trainName": "Rockowy schabowy"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["28100", "82100", "82101"],
+            "categoryOverwrite": "MR",
+            "trainName": "Scyzoryk"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["48104", "48105"],
+            "categoryOverwrite": "MR",
+            "trainName": "Rysiek"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["84104", "28101"],
+            "categoryOverwrite": "MR",
+            "trainName": "Woodstockowa bana"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["83110", "83111"],
+            "categoryOverwrite": "MR",
+            "trainName": "Woodolino"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["83118", "83119"],
+            "categoryOverwrite": "MR",
+            "trainName": "Jabol Punk"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["84120", "83121"],
+            "categoryOverwrite": "MR",
+            "trainName": "Maciek"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["83114", "83115"],
+            "categoryOverwrite": "MR",
+            "trainName": "Wojtek"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["83112", "83113"],
+            "categoryOverwrite": "MR",
+            "trainName": "Ostatnia paróweczka"
         }
     ]
 }
