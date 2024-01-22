@@ -1540,8 +1540,14 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["76110", "76111", "67112", "67113", "67900", "67901"],
+            "trainNo": ["76108", "76109"],
             "categoryOverwrite": "RP",
+            "trainName": "Kamieńczyk"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["67900", "67901", "67112", "67113"],
+            "categoryOverwrite": "R",
             "trainName": "Kamieńczyk"
         },
         {
@@ -1834,43 +1840,43 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["69750", "69751"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["69750", "69751", "69752", "69753"],
+            "categoryOverwrite": "OsP",
             "trainName": "Widawa"
         },
         {
             "operator": "KD",
-            "trainNo": ["69604", "69605", "69690"],
+            "trainNo": ["69609", "60664", "60666", "60668"],
             "categoryOverwrite": "Os",
             "trainName": "Śnieżnik"
         },
         {
             "operator": "KD",
-            "trainNo": ["69734", "69735", "69754", "69755", "69796", "69797"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["69755", "69736"],
+            "categoryOverwrite": "OsP",
             "trainName": "Karp"
         },
         {
             "operator": "KD",
-            "trainNo": ["67001", "76002"],
+            "trainNo": ["67001", "76002", "5626", "5629"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Telemann"
         },
         {
             "operator": "KD",
-            "trainNo": ["69609", "69678"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["60651", "6282", ],
+            "categoryOverwrite": "OsP",
             "trainName": "Wilczka"
         },
         {
             "operator": "KD",
-            "trainNo": ["69151", "69162"],
+            "trainNo": ["69151", "69162", "69163"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Łużyce"
         },
         {
             "operator": "KD",
-            "trainNo": ["69101", "69122"],
+            "trainNo": ["69101", "69118"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Szrenica"
         },
@@ -1882,25 +1888,25 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["69904", "69905", "60248"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["69907", "60246", "60248"],
+            "categoryOverwrite": "OsP",
             "trainName": "Radunia"
         },
         {
             "operator": "KD",
-            "trainNo": ["67762", "67763", "76716", "76717"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["76704", "76705", "67791"],
+            "categoryOverwrite": "OsP",
             "trainName": "Barycz"
         },
         {
             "operator": "KD",
-            "trainNo": ["69201", "69218"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["69201", "69216"],
+            "categoryOverwrite": "OsP",
             "trainName": "Wielka Sowa"
         },
         {
             "operator": "KD",
-            "trainNo": ["60121", "60124"],
+            "trainNo": ["66116", "60121"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Szczeliniec"
         },
@@ -1912,14 +1918,14 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["66132", "66143"],
+            "trainNo": ["66132", "66141"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Tadeusz Zastawnik"
         },
         {
             "operator": "KD",
-            "trainNo": ["60244", "60221", "69926"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["60254", "60221"],
+            "categoryOverwrite": "OsP",
             "trainName": "Wieżyca"
         },
         {
@@ -1930,14 +1936,14 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["69155", "69160"],
+            "trainNo": ["69153", "69160"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Nysa"
         },
         {
             "operator": "KD",
-            "trainNo": ["69772", "69773", "69710", "69711", "76710", "76711"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["69773", "76702", "69710", "69773"],
+            "categoryOverwrite": "OsP",
             "trainName": "Szczupak"
         },
         {
@@ -1948,13 +1954,25 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["60209", "60260", "60261"],
+            "trainNo": ["60213", "60264"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Ślęża"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["60265"],
             "categoryOverwrite": "Os",
             "trainName": "Ślęża"
         },
         {
             "operator": "KD",
-            "trainNo": ["66567", "66506"],
+            "trainNo": ["66143"],
+            "categoryOverwrite": "OsP",
+            "trainName": "KD Sprinter Malachit"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["66576"],
             "categoryOverwrite": "OsP",
             "trainName": "Malachit"
         },
@@ -1972,19 +1990,19 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["69107", "69118"],
+            "trainNo": ["69107", "69114"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Chełmiec"
         },
         {
             "operator": "KD",
-            "trainNo": ["69724", "69725"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["69726"],
+            "categoryOverwrite": "OsP",
             "trainName": "Karaś"
         },
         {
             "operator": "KD",
-            "trainNo": ["67003", "76000"],
+            "trainNo": ["67003", "76000", "5628", "5627"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Witelon"
         },
@@ -1996,38 +2014,32 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["69205", "69212"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["69205", "69210"],
+            "categoryOverwrite": "OsP",
             "trainName": "Wilhelm Rotkiewicz"
         },
         {
             "operator": "KD",
-            "trainNo": ["66151", "66136"],
+            "trainNo": ["66145", "66134"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Jerzy Wilhelm"
         },
         {
             "operator": "KD",
-            "trainNo": ["69111", "69112"],
+            "trainNo": ["69109", "69110"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Książ"
         },
         {
             "operator": "KD",
-            "trainNo": ["60123", "60126"],
-            "categoryOverwrite": "OsP",
-            "trainName": "KD Sprinter Błędne Skały"
-        },
-        {
-            "operator": "KD",
-            "trainNo": ["69157", "69164"],
+            "trainNo": ["69155", "69166"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Kaczawa"
         },
         {
             "operator": "KD",
-            "trainNo": ["69287"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["69291"],
+            "categoryOverwrite": "OsP",
             "trainName": "Rudawy"
         },
         {
@@ -2038,37 +2050,37 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["67103", "66112", "66113"],
+            "trainNo": ["67105", "76104"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Kepler"
         },
         {
             "operator": "KD",
-            "trainNo": ["69526"],
-            "categoryOverwrite": "Os",
+            "trainNo": ["69583", "69526"],
+            "categoryOverwrite": "OsP",
             "trainName": "Skora"
         },
         {
             "operator": "KD",
-            "trainNo": ["66155"],
+            "trainNo": ["66147"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Cuprum"
         },
         {
             "operator": "KD",
-            "trainNo": ["66504"],
+            "trainNo": ["66574"],
             "categoryOverwrite": "OsP",
             "trainName": "Cuprum"
         },
         {
             "operator": "KD",
-            "trainNo": ["66522"],
+            "trainNo": ["76406", "66522"],
             "categoryOverwrite": "Os",
             "trainName": "Odra"
         },
         {
             "operator": "KD",
-            "trainNo": ["66510",  "69779"],
+            "trainNo": ["66580", "66547"],
             "categoryOverwrite": "OsP",
             "trainName": "Bornit"
         },
@@ -2086,7 +2098,7 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["66820", "66825"],
+            "trainNo": ["66822", "66827"],
             "categoryOverwrite": "OsP",
             "trainName": "Jawornik"
         },
@@ -2098,31 +2110,43 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["69732", "69733"],
+            "trainNo": ["69732"],
             "categoryOverwrite": "OsP",
             "trainName": "Okoń"
         },
         {
             "operator": "KD",
-            "trainNo": ["66553", "66514"],
+            "trainNo": ["66130"],
             "categoryOverwrite": "OsP",
+            "trainName": "KD Sprinter Chalkozyn"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["66533"],
+            "categoryOverwrite": "Os",
             "trainName": "Chalkozyn"
         },
         {
             "operator": "KD",
-            "trainNo": ["66555", "66138"],
+            "trainNo": ["66590"],
             "categoryOverwrite": "OsP",
             "trainName": "Azuryt"
         },
         {
             "operator": "KD",
-            "trainNo": ["66130"],
+            "trainNo": ["66535"],
+            "categoryOverwrite": "Os",
+            "trainName": "Azuryt"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["66584"],
             "categoryOverwrite": "OsP",
             "trainName": "Iglica"
         },
         {
             "operator": "KD",
-            "trainNo": ["69005", "69008", "69024", "69026"],
+            "trainNo": ["69007", "5826", "69005", "5838", "69026", "5837", "59024", "5839"],
             "categoryOverwrite": "P",
             "trainName": "Pociąg do kultury"
         },
@@ -2317,6 +2341,180 @@
             "trainNo": ["34609", "43602"],
             "categoryOverwrite": "R",
             "trainName": "Stanisław Stojałowski"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["76300", "67241"],
+            "categoryOverwrite": "R",
+            "trainName": "Winnica"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69557"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Henryk Pobożny"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["66543", "66586"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Tadeusz Glazór"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["76302", "67243"],
+            "categoryOverwrite": "R",
+            "trainName": "Śmielec"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69573"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Żak"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["67107", "76106"],
+            "categoryOverwrite": "OsP",
+            "trainName": "KD Sprinter Jan Wyżykowski"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69507", "69506"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Kwisa"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["66100"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Boleslavia"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69164", "69165"],
+            "categoryOverwrite": "OsP",
+            "trainName": "KD Sprinter Czocha"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69451", "69430"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Zimnica"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["66820"],
+            "categoryOverwrite": "Os",
+            "trainName": "Strzegomka"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["6801", "8600"],
+            "categoryOverwrite": "P",
+            "trainName": "KD Premium Nadmorski"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69834"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Skalniak"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["66202", "66203"],
+            "categoryOverwrite": "OsP",
+            "trainName": "KD Sprinter Charlotta"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["60424", "60425", "60446", "60447"],
+            "categoryOverwrite": "OsP",
+            "trainName": "KD Sprinter Grodno"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69116"],
+            "categoryOverwrite": "OsP",
+            "trainName": "KD Sprinter Antracyt"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["60451", "60402"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Borowa"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69236"],
+            "categoryOverwrite": "OsP",
+            "trainName": "KD Sprinter Sztygar"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69103", "69112"],
+            "categoryOverwrite": "OsP",
+            "trainName": "KD Sprinter Szklarka"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69212"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Kalenica"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69120"],
+            "categoryOverwrite": "OsP",
+            "trainName": "KD Sprinter Trójgarb"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["66861", "66876"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Radon"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["66853", "66878"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Izery"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69740"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Sum"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["69934", "69935"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Karolina"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["60676", "6290"],
+            "categoryOverwrite": "OsP",
+            "trainName": "KD Sprinter Twierdza"
+        },
+        {
+            "operator": "KD",
+            "trainNo": ["60452"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Błędne Skały"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["61200", "61201"],
+            "categoryOverwrite": "P",
+            "trainName": "Włókniarz"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["666002", "666003", "666008", "666009"],
+            "categoryOverwrite": "IC",
+            "trainName": "Próba"
         }
     ]
 }
