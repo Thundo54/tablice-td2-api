@@ -1871,7 +1871,7 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["60651", "6282", ],
+            "trainNo": ["60651", "6282"],
             "categoryOverwrite": "OsP",
             "trainName": "Wilczka"
         },
@@ -2522,6 +2522,72 @@
             "trainNo": ["666002", "666003", "666008", "666009"],
             "categoryOverwrite": "IC",
             "trainName": "Próba"
+        },
+        {
+            "operator": "KW",
+            "trainNo": ["77102"],
+            "categoryOverwrite": "S",
+            "trainName": "Szlakiem Kolei Górniczych"
+        },
+        {
+            "operator": "KW",
+            "trainNo": ["77418", "77419", "77480", "77481"],
+            "categoryOverwrite": "Os",
+            "trainName": "Zdziechowa"
+        },
+        {
+            "operator": "KW",
+            "trainNo": ["71214", "17211"],
+            "categoryOverwrite": "Os",
+            "trainName": "Powstaniec Wielkopolski"
+        },
+        {
+            "operator": "KW",
+            "trainNo": ["77851", "77834", "77305", "77318"],
+            "categoryOverwrite": "Os",
+            "trainName": "Odwach"
+        },
+        {
+            "operator": "KW",
+            "trainNo": ["77216", "77358", "77351"],
+            "categoryOverwrite": "Os",
+            "trainName": "Cytadela"
+        },
+        {
+            "operator": "KW",
+            "trainNo": ["77616", "77617"],
+            "categoryOverwrite": "Os",
+            "trainName": "Rzepicha"
+        },
+        {
+            "operator": "KW",
+            "trainNo": ["77982", "77105"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Ostrovia"
+        },
+        {
+            "operator": "KW",
+            "trainNo": ["77138", "77107"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Calisia"
+        },
+        {
+            "operator": "KW",
+            "trainNo": ["77103"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Andrut"
+        },
+        {
+            "operator": "KW",
+            "trainNo": ["77822", "77313"],
+            "categoryOverwrite": "Os",
+            "trainName": "Sokół"
+        },
+        {
+            "operator": "KW",
+            "trainNo": ["77400", "77265"],
+            "categoryOverwrite": "Os",
+            "trainName": "Poznańczyk"
         }
     ]
 }
