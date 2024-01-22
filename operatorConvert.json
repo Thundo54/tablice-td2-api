@@ -2588,6 +2588,12 @@
             "trainNo": ["77400", "77265"],
             "categoryOverwrite": "Os",
             "trainName": "Poznańczyk"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["11215", "11214"],
+            "categoryOverwrite": "S",
+            "trainName": "Miłośnik"
         }
     ]
 }
