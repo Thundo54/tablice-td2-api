@@ -881,7 +881,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1206", "1207", "1904", "1905"],
+            "trainNo": ["1206", "1207", "1904", "1905", "2106", "2107", "9104", "9105"],
             "categoryOverwrite": "IC",
             "trainName": "Rubinstein"
         },
@@ -1190,12 +1190,6 @@
             "trainNo": ["1902", "1903", "9102", "9103"],
             "categoryOverwrite": "IC",
             "trainName": "Łęcka"
-        },
-        {
-            "operator": "IC",
-            "trainNo": ["1904", "1905", "9104", "9105"],
-            "categoryOverwrite": "IC",
-            "trainName": "Prząśniczka"
         },
         {
             "operator": "IC",
