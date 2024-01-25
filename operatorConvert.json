@@ -259,7 +259,7 @@
         {
             "operator": "PR",
             "operatorOverwrite": "KŚ",
-            "trainNoStartsWith": ["94120", "94122", "94124", "94111", "94113", "94115"],
+            "trainNoStartsWith": ["94124", "94111", "94113", "94115"],
             "category": { "RO": "OsP", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
             "remarks": "S5 Sprinter"
         },
@@ -815,7 +815,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["54070", "54071", "45070", "45071", "50175", "55174", "55175", "50175"],
+            "trainNo": ["54070", "54071", "45070", "45071", "50175", "55174", "55175"],
             "categoryOverwrite": "TLK",
             "trainName": "Wydmy"
         },
@@ -827,7 +827,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1000", "1001", "1100", "1101", "1150", "1151", "1000", "1001", "1150", "1151"],
+            "trainNo": ["1000", "1001", "1100", "1101", "1150", "1151"],
             "categoryOverwrite": "IC",
             "trainName": "Narew"
         },
@@ -881,7 +881,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1206", "1207", "1904", "1905", "9104", "9105"],
+            "trainNo": ["1206", "1207", "1904", "1905"],
             "categoryOverwrite": "IC",
             "trainName": "Rubinstein"
         },
@@ -1571,7 +1571,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["79600", "79601", "70402", "70402"],
+            "trainNo": ["79600", "79601", "70402"],
             "categoryOverwrite": "R",
             "trainName": "Malta"
         },
@@ -1643,7 +1643,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["79604", "79605", "70404", "70405"],
+            "trainNo": ["79604", "79605"],
             "categoryOverwrite": "R",
             "trainName": "Rusałka"
         },
@@ -1697,7 +1697,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["80245", "80222"],
+            "trainNo": ["80222"],
             "categoryOverwrite": "R",
             "trainName": "Sztorm"
         },
@@ -1949,13 +1949,13 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["69773", "76702", "69710", "69773"],
+            "trainNo": ["69773", "76702", "69710"],
             "categoryOverwrite": "OsP",
             "trainName": "Szczupak"
         },
         {
             "operator": "KD",
-            "trainNo": ["69104", "69105", "69114", "69115", "69124", "69125", "69134", "69135"],
+            "trainNo": ["69104", "69105", "69115", "69124", "69125", "69134", "69135"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Bystrzyca"
         },
@@ -1988,12 +1988,6 @@
             "trainNo": ["67101", "76100"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Bóbr"
-        },
-        {
-            "operator": "KD",
-            "trainNo": ["67101", "66102"],
-            "categoryOverwrite": "OsP",
-            "trainName": "KD Sprinter Karolina"
         },
         {
             "operator": "KD",
@@ -2183,7 +2177,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["14000", "14001", "41000", "41001", "14004", "14005", "41004", "41005", "14006", "14007", "41006", "41007", "14008", "14009", "41008", "41009"],
+            "trainNo": ["14000", "14001", "41000", "41001", "14006", "14007", "41006", "41007", "14008", "14009", "41008", "41009"],
             "categoryOverwrite": "IC",
             "trainName": "Silesia"
         },
@@ -2426,12 +2420,6 @@
             "trainNo": ["69834"],
             "categoryOverwrite": "OsP",
             "trainName": "Skalniak"
-        },
-        {
-            "operator": "KD",
-            "trainNo": ["66202", "66203"],
-            "categoryOverwrite": "OsP",
-            "trainName": "KD Sprinter Charlotta"
         },
         {
             "operator": "KD",
