@@ -2798,7 +2798,7 @@
             "trainNo": ["83112", "83113"],
             "categoryOverwrite": "MR",
             "trainName": "Ostatnia paróweczka"
-        }
+        },
         {
             "operator": "PKP",
             "trainNo": ["55201", "55200"],
