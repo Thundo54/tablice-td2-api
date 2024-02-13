@@ -18,7 +18,7 @@
             "EN57-694": ["PR"],
             "EN57-716": ["PR"],
             "EN57-765": ["PR"],
-            "EN57-961": ["KD"],
+            "EN57-961": ["PR"],
             "EN57-986": ["PR"],
             "EN57-952": ["PR"],
             "EN71-005": ["PR"],
@@ -1637,7 +1637,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["79604", "79605"],
+            "trainNo": ["79604", "79605", "70404", "70405"],
             "categoryOverwrite": "R",
             "trainName": "Rusałka"
         },
@@ -1829,7 +1829,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["10134", "10135", "10136", "10137", "10138", "10139", "10140", "10141", "11126", "11127", "11130", "11131", "17214", "17215", "71200", "71201", "99110", "99111"],
+            "trainNo": ["10134", "10135", "10136", "10137", "10138", "10139", "10140", "10141", "11126", "11127", "11131", "17214", "17215", "71200", "71201", "99110", "99111", "36124"],
             "categoryOverwrite": "IR",
             "trainName": ""
         },
@@ -1943,7 +1943,7 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["69773", "76702", "69710"],
+            "trainNo": ["69773", "76702", "69710", "69773"],
             "categoryOverwrite": "OsP",
             "trainName": "Szczupak"
         },
@@ -2501,7 +2501,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["666002", "666003", "666008", "666009"],
+            "trainNo": ["666002", "666003", "666008", "666009", "576000", "576001", "756000", "756001"],
             "categoryOverwrite": "IC",
             "trainName": "Próba"
         },
@@ -2621,7 +2621,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["18118", "18119", "81122", "81123"],
+            "trainNo": ["18118", "18119", "81123"],
             "categoryOverwrite": "MR",
             "trainName": "Skubi"
         },
@@ -2804,6 +2804,216 @@
             "trainNo": ["55201", "55200"],
             "categoryOverwrite": "S",
             "trainName": "Dolina Drwęcy"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["11121", "11130"],
+            "categoryOverwrite": "IR",
+            "trainName": "Żubr"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["12125", "21124"],
+            "categoryOverwrite": "IR",
+            "trainName": "Cisy"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["13126", "31122"],
+            "categoryOverwrite": "IR",
+            "trainName": "Jan Matejko"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["13130", "31130"],
+            "categoryOverwrite": "IR",
+            "trainName": "Semafor"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["15207", "61128"],
+            "categoryOverwrite": "IR",
+            "trainName": "Rudawy"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["16126", "61126"],
+            "categoryOverwrite": "IR",
+            "trainName": "Piast"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["16128", "51204"],
+            "categoryOverwrite": "IR",
+            "trainName": "Szczeliniec"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["17111", "71110"],
+            "categoryOverwrite": "IR",
+            "trainName": "Wielkopolska"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["17123", "71120"],
+            "categoryOverwrite": "IR",
+            "trainName": "Ner"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["18120", "81122"],
+            "categoryOverwrite": "IR",
+            "trainName": "Portowiec"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["18520", "81522"],
+            "categoryOverwrite": "IR",
+            "trainName": "Bosman"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["23422", "26120", "62120"],
+            "categoryOverwrite": "IR",
+            "trainName": "Łysica"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["27113", "72112"],
+            "categoryOverwrite": "IR",
+            "trainName": "Koziołek"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["36120"],
+            "categoryOverwrite": "IR",
+            "trainName": "Galicja"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["36122", "63120"],
+            "categoryOverwrite": "IR",
+            "trainName": "Łużyce"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["40110"],
+            "categoryOverwrite": "IR",
+            "trainName": "Torunianin"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["43421"],
+            "categoryOverwrite": "IR",
+            "trainName": "Orlik"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["46121", "64126"],
+            "categoryOverwrite": "IR",
+            "trainName": "Spodek"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["46123"],
+            "categoryOverwrite": "IR",
+            "trainName": "Ostrów Tumski"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["46125", "64122"],
+            "categoryOverwrite": "IR",
+            "trainName": "Oleńka"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["46140", "46142", "64102"],
+            "categoryOverwrite": "IR",
+            "trainName": "Szyndzielnia"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["56110"],
+            "categoryOverwrite": "IR",
+            "trainName": "Sokoliki"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["57110", "65114"],
+            "categoryOverwrite": "IR",
+            "trainName": "Mamry"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["75110", "57112"],
+            "categoryOverwrite": "IR",
+            "trainName": "Drwęca"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["75112"],
+            "categoryOverwrite": "IR",
+            "trainName": "Niegocin"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["57120", "75116"],
+            "categoryOverwrite": "IR",
+            "trainName": "Lednica"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["64124"],
+            "categoryOverwrite": "IR",
+            "trainName": "Lompa"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["70110", "77111"],
+            "categoryOverwrite": "IR",
+            "trainName": "Rusałka"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["78111", "87114"],
+            "categoryOverwrite": "IR",
+            "trainName": "Delfin"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["78113", "87110"],
+            "categoryOverwrite": "IR",
+            "trainName": "Merkury"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["78115"],
+            "categoryOverwrite": "IR",
+            "trainName": "Wały Chrobrego"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["78117", "87116"],
+            "categoryOverwrite": "IR",
+            "trainName": "Wilda"
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["78510", "87512"],
+            "categoryOverwrite": "IR",
+            "trainName": "Wolin"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["33101", "31112"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Brzechwa"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["33103"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Wisłok"
         }
     ]
 }
