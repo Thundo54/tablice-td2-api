@@ -2500,12 +2500,6 @@
             "trainName": "Włókniarz"
         },
         {
-            "operator": "IC",
-            "trainNo": ["666002", "666003", "666008", "666009", "576000", "576001", "756000", "756001"],
-            "categoryOverwrite": "IC",
-            "trainName": "Próba"
-        },
-        {
             "operator": "KW",
             "trainNo": ["77102"],
             "categoryOverwrite": "S",
