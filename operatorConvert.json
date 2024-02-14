@@ -3008,6 +3008,12 @@
             "trainNo": ["33103"],
             "categoryOverwrite": "TLK",
             "trainName": "Wisłok"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["31150", "31151", "43150", "43151"],
+            "categoryOverwrite": "IC",
+            "trainName": "Oscypek"
         }
     ]
 }
