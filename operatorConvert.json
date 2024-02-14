@@ -1637,7 +1637,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["79604", "79605", "70404", "70405"],
+            "trainNo": ["79604", "79605"],
             "categoryOverwrite": "R",
             "trainName": "Rusałka"
         },
@@ -1943,7 +1943,7 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["69773", "76702", "69710", "69773"],
+            "trainNo": ["69773", "76702", "69710"],
             "categoryOverwrite": "OsP",
             "trainName": "Szczupak"
         },
