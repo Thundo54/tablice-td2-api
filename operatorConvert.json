@@ -3014,6 +3014,108 @@
             "trainNo": ["31150", "31151", "43150", "43151"],
             "categoryOverwrite": "IC",
             "trainName": "Oscypek"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["36200", "36201", "63200", "63201", "17208", "17209", "71200", "71201", "81200", "81201", "18200", "18201", "88203", "88204", "14209", "35202", "35203", "53200", "53201", "53202", "53203"],
+            "categoryOverwrite": "P",
+            "trainName": "Kibice"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["14210", "14211"],
+            "categoryOverwrite": "P",
+            "trainName": "Kibice I"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["68200", "14230" ,"14231", "86200", "86201", "41234", "41235"],
+            "categoryOverwrite": "P",
+            "trainName": "Kibice II"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["14232", "14233", "41214", "41215"],
+            "categoryOverwrite": "P",
+            "trainName": "Kibice III"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["41222", "41223"],
+            "categoryOverwrite": "P",
+            "trainName": "Kibice IV"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["77206"],
+            "categoryOverwrite": "P",
+            "trai,nName": "Pyra"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["57200", "57201"],
+            "categoryOverwrite": "P",
+            "trainName": "Mebelek"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["77230", "77231"],
+            "categoryOverwrite": "P",
+            "trainName": "Franek"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["14216", "14217", "41210", "41211"],
+            "categoryOverwrite": "P",
+            "trainName": "Pielgrzymka 1"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["14212", "14213", "41206", "41207"],
+            "categoryOverwrite": "P",
+            "trainName": "Pielgrzymka 2"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["42200", "42201"],
+            "categoryOverwrite": "P",
+            "trainName": "Pielgrzymka 3"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["54202", "54203", "45202", "45203"],
+            "categoryOverwrite": "P",
+            "trainName": "Pielgrzymka 4"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["34206", "34207", "43202", "43203"],
+            "categoryOverwrite": "P",
+            "trainName": "Pielgrzymka 5"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["84202", "84203", "48202", "48203"],
+            "categoryOverwrite": "P",
+            "trainName": "Pielgrzymka 6"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["84200", "84201", "48200", "48201"],
+            "categoryOverwrite": "P",
+            "trainName": "Pielgrzymka 7"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["44254", "44255"],
+            "categoryOverwrite": "P",
+            "trainName": "Pilot"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["35200", "35201"],
+            "categoryOverwrite": "P",
+            "trainName": "X-KOM"
         }
     ]
 }
