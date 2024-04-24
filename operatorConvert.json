@@ -175,10 +175,6 @@
         {
             "operator": "PKP",
             "category": { "RO": "Os", "RP": "P", "MP": "P", "EI": "Ex" }
-        },
-        {
-            "operator": "RJ",
-            "category": { "RO": "RJ", "RP": "RJ", "MP": "RJ", "EI": "RJ" }
         }
     ],
     "overwrite":
@@ -315,6 +311,13 @@
             "trainNoStartsWith": ["593", "594", "595", "596", "597", "598", "953", "954", "955", "956", "957", "958"],
             "category": { "RO": "Os", "RP": "Os", "MP": "Os", "EI": "Os" },
             "remarks": "S1"
+        },
+        {
+            "operator": "IC",
+            "operatorOverwrite": "RJ",
+            "trainNoStartsWith": ["34012", "34013", "43012", "43013"],
+            "category": { "RO": "RJ", "RP": "RJ", "MP": "RJ", "EI": "RJ" },
+            "remarks": "Regiojet"
         }
     ],
     "trainNames":
@@ -819,7 +822,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["54070", "54071", "45070", "45071", "50175", "55174", "55175", "45504", "54504", "45254", "54254", "55255", "55258", "45250", "45251", "54250", "54251", "45190", "45191", "50192", "54190", "54191", "55191"],
+            "trainNo": ["54070", "54071", "45070", "45071", "50175", "55174", "55175", "54504", "45254", "54254", "55255", "55258", "45250", "45251", "54250", "54251", "45190", "45191", "50192", "54190", "54191"],
             "categoryOverwrite": "TLK",
             "trainName": "Wydmy"
         },
@@ -3152,10 +3155,34 @@
             "trainName": "Szczecinianin"
         },
         {
-            "operator": "RJ",
-            "trainNo": ["34012", "34013", "43012", "43013"],
-            "categoryOverwrite": "RJ",
-            "trainName": "Regiojet"   
+            "operator": "KM",
+            "trainNo": ["11254", "11255"],
+            "categoryOverwrite": "R6",
+            "trainName": "Zielony"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["91150", "91151"],
+            "categoryOverwrite": "RE1",
+            "trainName": "Wiedenka"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["10164", "10165"],
+            "categoryOverwrite": "RE2",
+            "trainName": "Siedlecki"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["21124", "21125"],
+            "categoryOverwrite": "RE80",
+            "trainName": "Radomianka"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["21122", "21123"],
+            "categoryOverwrite": "RE80",
+            "trainName": "Radomiak"   
         }
     ]
 }
