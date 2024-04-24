@@ -175,6 +175,10 @@
         {
             "operator": "PKP",
             "category": { "RO": "Os", "RP": "P", "MP": "P", "EI": "Ex" }
+        },
+        {
+            "operator": "RJ",
+            "category": { "RO": "RJ", "RP": "RJ", "MP": "RJ", "EI": "RJ" }
         }
     ],
     "overwrite":
@@ -3146,6 +3150,12 @@
             "trainNo": ["18201", "18203", "81201", "81203", "88200", "88203", "88260", "88262"],
             "categoryOverwrite": "TLK",
             "trainName": "Szczecinianin"
+        },
+        {
+            "operator": "RJ",
+            "trainNo": ["34012", "34013", "43012", "43013"],
+            "categoryOverwrite": "RJ",
+            "trainName": "Regiojet"   
         }
     ]
 }
