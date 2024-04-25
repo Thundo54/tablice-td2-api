@@ -324,7 +324,7 @@
             "operatorOverwrite": "PR",
             "trainNoStartsWith": ["309", "332", "335", "337", "392", "398"],
             "category": { "RO": "R", "RP": "R", "MP": "R", "EI": "R" },
-            "remarks": "PKA"
+            "remarks": "Podkarpacka Kolej Aglomeracyjna"
         }
     ],
     "trainNames":
