@@ -3309,6 +3309,54 @@
             "trainNo": ["15120", "15121", "51120", "51121"],
             "categoryOverwrite": "RE9",
             "trainName": "Słoneczny BIS"   
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["10490", "10484", "10485"],
+            "categoryOverwrite": "R",
+            "trainName": "Nurzec"   
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["10132", "10133", "11124", "11125"],
+            "categoryOverwrite": "IR",
+            "trainName": "Mały Powstaniec"   
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["30536", "30537", "30507"],
+            "categoryOverwrite": "R",
+            "trainName": "Janosik"   
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["88666", "88667", "88696", "88697"],
+            "categoryOverwrite": "R",
+            "trainName": "Pomerania"   
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["10480", "10481", "10493"],
+            "categoryOverwrite": "R",
+            "trainName": "Leśna"   
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["10482", "10483", "10486", "10487"],
+            "categoryOverwrite": "R",
+            "trainName": "Orlanka"   
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["80247", "80234"],
+            "categoryOverwrite": "R",
+            "trainName": "Dzierżęcinka"   
+        },
+        {
+            "operator": "PR",
+            "trainNo": ["30897", "30892"],
+            "categoryOverwrite": "R",
+            "trainName": "Bieszczadzki Żaczek"   
         }
     ]
 }
