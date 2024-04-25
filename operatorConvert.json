@@ -3162,7 +3162,7 @@
         },
         {
             "operator": "KM",
-            "trainNo": ["91150", "91151"],
+            "trainNo": ["91150", "91151", "19152", "19153"],
             "categoryOverwrite": "RE1",
             "trainName": "Wiedenka"   
         },
@@ -3174,15 +3174,141 @@
         },
         {
             "operator": "KM",
-            "trainNo": ["21124", "21125"],
+            "trainNo": ["21124", "21125", "12126", "12127"],
             "categoryOverwrite": "RE80",
             "trainName": "Radomianka"   
         },
         {
             "operator": "KM",
-            "trainNo": ["21122", "21123"],
+            "trainNo": ["21122", "21123", "12130", "12131"],
             "categoryOverwrite": "RE80",
             "trainName": "Radomiak"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["91120", "91121", "19127"],
+            "categoryOverwrite": "RE3",
+            "trainName": "Mazovia"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["19127"],
+            "categoryOverwrite": "RE31",
+            "trainName": "Mazovia"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["91122", "91123", "19124", "19125"],
+            "categoryOverwrite": "RE3",
+            "trainName": "Mazoviak"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["19124", "19125"],
+            "categoryOverwrite": "RE31",
+            "trainName": "Mazoviak"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["11154", "11155", "11165"],
+            "categoryOverwrite": "RE2",
+            "trainName": "Łukowiak"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["11156", "11157", "11162", "11163"],
+            "categoryOverwrite": "RE2",
+            "trainName": "Łukowianka"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["11970", "11971"],
+            "categoryOverwrite": "RE6",
+            "trainName": "Kurpiak"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["10970", "10971"],
+            "categoryOverwrite": "RE61",
+            "trainName": "Kurpiak"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["25120"],
+            "categoryOverwrite": "RE90",
+            "trainName": "Kamienna"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["25121", "12132", "12133"],
+            "categoryOverwrite": "RE80",
+            "trainName": "Kamienna"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["51128", "15109"],
+            "categoryOverwrite": "RE90",
+            "trainName": "Działdowiak"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["11238", "19110", "19111"],
+            "categoryOverwrite": "RE6",
+            "trainName": "Czyżyk"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["99120"],
+            "categoryOverwrite": "RE2",
+            "trainName": "Czeremszak"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["99109"],
+            "categoryOverwrite": "RE21",
+            "trainName": "Czeremszak"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["51136", "15138", "15139"],
+            "categoryOverwrite": "RE90",
+            "trainName": "Ciechan"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["91140", "91141", "19141"],
+            "categoryOverwrite": "RE3",
+            "trainName": "Bzura"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["93160", "19162"],
+            "categoryOverwrite": "RE1",
+            "trainName": "Bolimek"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["93161"],
+            "categoryOverwrite": "RE2",
+            "trainName": "Bolimek"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["19163"],
+            "categoryOverwrite": "RE20",
+            "trainName": "Bolimek"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["18112", "18113", "81112", "81113"],
+            "categoryOverwrite": "RE9",
+            "trainName": "Słoneczny"   
+        },
+        {
+            "operator": "KM",
+            "trainNo": ["15120", "15121", "51120", "51121"],
+            "categoryOverwrite": "RE9",
+            "trainName": "Słoneczny BIS"   
         }
     ]
 }
