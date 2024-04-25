@@ -3186,7 +3186,7 @@
         },
         {
             "operator": "KM",
-            "trainNo": ["91120", "91121", "19127"],
+            "trainNo": ["91120", "91121"],
             "categoryOverwrite": "RE3",
             "trainName": "Mazovia"   
         },
@@ -3198,7 +3198,7 @@
         },
         {
             "operator": "KM",
-            "trainNo": ["91122", "91123", "19124", "19125"],
+            "trainNo": ["91122", "91123"],
             "categoryOverwrite": "RE3",
             "trainName": "Mazoviak"   
         },
@@ -3297,18 +3297,6 @@
             "trainNo": ["19163"],
             "categoryOverwrite": "RE20",
             "trainName": "Bolimek"   
-        },
-        {
-            "operator": "KM",
-            "trainNo": ["18112", "18113", "81112", "81113"],
-            "categoryOverwrite": "RE9",
-            "trainName": "Słoneczny"   
-        },
-        {
-            "operator": "KM",
-            "trainNo": ["15120", "15121", "51120", "51121"],
-            "categoryOverwrite": "RE9",
-            "trainName": "Słoneczny BIS"   
         }
     ]
 }
