@@ -318,6 +318,13 @@
             "trainNoStartsWith": ["34012", "34013", "43012", "43013"],
             "category": { "RO": "RJ", "RP": "RJ", "MP": "RJ", "EI": "RJ" },
             "remarks": "Regiojet"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "PR",
+            "trainNoStartsWith": ["309", "332", "335", "337", "392", "398"],
+            "category": { "RO": "R", "RP": "R", "MP": "R", "EI": "R" },
+            "remarks": "PKA"
         }
     ],
     "trainNames":
