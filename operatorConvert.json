@@ -3364,6 +3364,30 @@
             "trainNo": ["30897", "30892"],
             "categoryOverwrite": "R",
             "trainName": "Bieszczadzki Żaczek"   
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["48108", "48109", "84108", "84109"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Klimczok"   
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["5410", "5411", "4510", "4511"],
+            "categoryOverwrite": "EIC",
+            "trainName": "Klimczok"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["45106", "45107", "54106", "54107"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Beskidy"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18254", "18255", "81254", "81255"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Tetyda"
         }
     ]
 }
