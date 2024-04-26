@@ -325,6 +325,48 @@
             "trainNoStartsWith": ["309", "332", "335", "337", "392", "398"],
             "category": { "RO": "R", "RP": "R", "MP": "R", "EI": "R" },
             "remarks": "Podkarpacka Kolej Aglomeracyjna"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "ŁKA",
+            "trainNoStartsWith": ["19100", "19101", "91112", "91113"],
+            "category": { "RO": "ŁS", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
+            "remarks": "Syrena"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "ŁKA",
+            "trainNoStartsWith": ["19108", "19109", "91108", "91109"],
+            "category": { "RO": "ŁS", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
+            "remarks": "Powidoki"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "ŁKA",
+            "trainNoStartsWith": ["19110", "19111", "91117", "91116"],
+            "category": { "RO": "ŁS", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
+            "remarks": "Fabrykant"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "ŁKA",
+            "trainNoStartsWith": ["19112", "19113", "91110", "91111"],
+            "category": { "RO": "ŁS", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
+            "remarks": "Pogonowski"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "ŁKA",
+            "trainNoStartsWith": ["91106", "91107", "99116", "99117"],
+            "category": { "RO": "ŁS", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
+            "remarks": "Anders"
+        },
+        {
+            "operator": "PR",
+            "operatorOverwrite": "ŁKA",
+            "trainNoStartsWith": ["91106", "91107", "99116", "99117"],
+            "category": { "RO": "ŁS", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
+            "remarks": "Marszałek"
         }
     ],
     "trainNames":
