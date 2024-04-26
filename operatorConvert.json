@@ -458,7 +458,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["35102", "35103", "83152", "83153", "53102", "53103", "38152", "38153", "35106", "35107", "53106", "53107", "85152", "85153"],
+            "trainNo": ["35102", "35103", "83152", "83153", "53102", "53103", "38152", "38153", "35106", "35107", "53106", "53107"],
             "categoryOverwrite": "TLK",
             "trainName": "Lubomirski"
         },
@@ -1793,12 +1793,6 @@
             "trainNo": ["88116", "88117"],
             "categoryOverwrite": "RP",
             "trainName": "Błękitny Bis"
-        },
-        {
-            "operator": "PR",
-            "trainNo": ["88666", "88667"],
-            "categoryOverwrite": "R",
-            "trainName": "Pomierania"
         },
         {
             "operator": "PR",
