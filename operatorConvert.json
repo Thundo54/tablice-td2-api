@@ -458,7 +458,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["35102", "35103", "83152", "83153", "53102", "53103", "38152", "38153"],
+            "trainNo": ["35102", "35103", "83152", "83153", "53102", "53103", "38152", "38153", "35106", "35107", "53106", "53107", "85152", "85153"],
             "categoryOverwrite": "TLK",
             "trainName": "Lubomirski"
         },
@@ -1408,6 +1408,12 @@
             "operator": "IC",
             "trainNo": ["3532", "3533", "5332", "5333"],
             "categoryOverwrite": "IC",
+            "trainName": "Kochanowski"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["25102", "25103", "32102", "32103", "58152", "58153", "85152", "85153"],
+            "categoryOverwrite": "TLK",
             "trainName": "Kochanowski"
         },
         {
