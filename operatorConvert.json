@@ -329,7 +329,7 @@
         {
             "operator": "PR",
             "operatorOverwrite": "ŁKA",
-            "trainNoStartsWith": ["19100", "19101", "91112", "91113"],
+            "trainNoStartsWith": ["19101", "91112", "91113"],
             "category": { "RO": "ŁS", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
             "remarks": "Syrena"
         },
@@ -343,7 +343,7 @@
         {
             "operator": "PR",
             "operatorOverwrite": "ŁKA",
-            "trainNoStartsWith": ["19110", "19111", "91117", "91116"],
+            "trainNoStartsWith": ["19110", "91100"],
             "category": { "RO": "ŁS", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
             "remarks": "Fabrykant"
         },
@@ -357,7 +357,7 @@
         {
             "operator": "PR",
             "operatorOverwrite": "ŁKA",
-            "trainNoStartsWith": ["91106", "91107", "99116", "99117"],
+            "trainNoStartsWith": ["19116", "19117", "91116", "91117"],
             "category": { "RO": "ŁS", "RP": "ŁS", "MP": "ŁS", "EI": "ŁS" },
             "remarks": "Anders"
         },
@@ -1268,7 +1268,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["19100", "19101", "91100", "91101"],
+            "trainNo": ["19100", "91101"],
             "categoryOverwrite": "IC",
             "trainName": "Łodzianin"
         },
@@ -3308,7 +3308,7 @@
         },
         {
             "operator": "KM",
-            "trainNo": ["11238", "19110", "19111"],
+            "trainNo": ["11238" "19111"],
             "categoryOverwrite": "RE6",
             "trainName": "Czyżyk"   
         },
