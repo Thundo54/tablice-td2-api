@@ -3308,7 +3308,7 @@
         },
         {
             "operator": "KM",
-            "trainNo": ["11238" "19111"],
+            "trainNo": ["11238", "19111"],
             "categoryOverwrite": "RE6",
             "trainName": "Czyżyk"   
         },
