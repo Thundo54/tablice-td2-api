@@ -1,19 +1,270 @@
 [
     {
-        "sceneryName": "Imielin 2015",
-        "mainCheckpoint": "Imielin",
+        "sceneryName": "Aleksandrów Kujawski",
+        "mainCheckpoint": "Aleksandrów Kujawski",
         "mainCheckpointSuffix": null,
         "checkpoints": []
     },
     {
-        "sceneryName": "Witonia",
-        "mainCheckpoint": "Witonia",
+        "sceneryName": "Arkadia Zdrój 2012",
+        "mainCheckpoint": "ARKADIA ZDRÓJ",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Wyraj",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Arkadia Zdrój 2022",
+        "mainCheckpoint": "Arkadia Zdrój",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Bocznica ACT",
+                "suffix": null
+            },
+            {
+                "name": "Nawia",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Wyraj",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Berety Kamielskie",
+        "mainCheckpoint": "Berety Kamielskie",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Ostrachowice",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Beznazwa",
+        "mainCheckpoint": "Beznazwa",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Ciermięcice",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Bełchów",
+        "mainCheckpoint": "Bełchów",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Bobrowniki",
+                "suffix": ", po."
+            },
+            {
+                "name": "Sierakowice Skierniewickie",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Biała Sudecka",
+        "mainCheckpoint": "Biała Sudecka",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "B. Sudecka BSA",
+                "suffix": ", podg."
+            },
+            {
+                "name": "B. Sudecka BSB",
+                "suffix": ", podg."
+            },
+            {
+                "name": "B. Sudecka Duczków",
+                "suffix": ", po."
+            },
+            {
+                "name": "B. Sudecka GT",
+                "suffix": null
+            },
+            {
+                "name": "Podkowa Polna",
+                "suffix": ", po."
+            },
+            {
+                "name": "Podkowa Polna",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Stare Przytuły",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Blaszki",
+        "mainCheckpoint": "Blaszki",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Blaszki",
+                "suffix": ", po."
+            },
+            {
+                "name": "Prawylas",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Prawylas",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Borki",
+        "mainCheckpoint": "Borki",
+        "mainCheckpointSuffix": ", podg.",
+        "checkpoints": [
+            {
+                "name": "Borki Miasto",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Brenno",
+        "mainCheckpoint": "Brenno",
         "mainCheckpointSuffix": null,
         "checkpoints": []
     },
     {
-        "sceneryName": "Wola",
-        "mainCheckpoint": "Wola",
+        "sceneryName": "Brzezinka Średzka",
+        "mainCheckpoint": "Brzezinka Średzka",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Czerna Mała",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Bystra Woda",
+        "mainCheckpoint": "Bystra Woda",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Bystra Jezioro",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Chełmik Wołowski",
+        "mainCheckpoint": "Chełmik Wołowski",
+        "mainCheckpointSuffix": ", podg.",
+        "checkpoints": [
+            {
+                "name": "Chełmik Wołowski",
+                "suffix": ", po."
+            },
+            {
+                "name": "Tymowa",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Chlorkowice",
+        "mainCheckpoint": "Chlorkowice",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Czermin",
+        "mainCheckpoint": "Czermin",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Czermin Kolonia",
+                "suffix": ", po."
+            },
+            {
+                "name": "Czermin Podgórze",
+                "suffix": ", po."
+            },
+            {
+                "name": "Czermin Południe",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Dobrzyca Towarowa",
+        "mainCheckpoint": "Dobrzyca DTA",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Dobrzyca DTB",
+                "suffix": null
+            },
+            {
+                "name": "Dobrzyca DTC",
+                "suffix": null
+            }
+        ]
+    },
+    {
+        "sceneryName": "Dobrzyniec",
+        "mainCheckpoint": "Dobrzyniec",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "DOBRZ. MĄCICE",
+                "suffix": null
+            },
+            {
+                "name": "Kasztanki",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Kościerzyn Mały",
+                "suffix": ", po."
+            },
+            {
+                "name": "Kruszki",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Kruszki",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Dziewoszyce",
+        "mainCheckpoint": "Dziewoszyce",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Jasienice",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Jasienice Wielkie",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Falewo",
+        "mainCheckpoint": "Falewo",
         "mainCheckpointSuffix": null,
         "checkpoints": []
     },
@@ -29,6 +280,240 @@
             {
                 "name": "Smardzew",
                 "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Gostynin",
+        "mainCheckpoint": "Gostynin",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Grabów",
+        "mainCheckpoint": "Grabów",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Grabów Wschodni",
+                "suffix": null
+            }
+        ]
+    },
+    {
+        "sceneryName": "Grzebowilk",
+        "mainCheckpoint": "Grzebowilk",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Grębów",
+        "mainCheckpoint": "Grębów",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Gutkowo",
+        "mainCheckpoint": "Gutkowo",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Jaskrów",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Góra Włodowska",
+        "mainCheckpoint": "Góra Włodowska",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Głębce",
+        "mainCheckpoint": "Głębce",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Głębce Kopydło",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Głęboszów",
+        "mainCheckpoint": "Głęboszów",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Borsk",
+                "suffix": ", po."
+            },
+            {
+                "name": "Strzelno",
+                "suffix": ", po."
+            },
+            {
+                "name": "Torków",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Torków Centrum",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Hel",
+        "mainCheckpoint": "Hel",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Hetmanice",
+        "mainCheckpoint": "Hetmanice",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Imielin 2015",
+        "mainCheckpoint": "Imielin",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Kowalewo",
+        "mainCheckpoint": "Kowalewo",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Kraśnica",
+        "mainCheckpoint": "Kraśnica",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Szymbielinowice",
+                "suffix": ", po."
+            },
+            {
+                "name": "Wieś Wielinska",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Krnów",
+        "mainCheckpoint": "Krnów",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Krnów-Cwilin",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Krzemienice",
+        "mainCheckpoint": "Krzemienice",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Barczewko",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Krzęcz",
+        "mainCheckpoint": "Krzęcz",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Kaziopole",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "LCS Byki",
+        "mainCheckpoint": "Byki Zachód",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Byki Południe",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Byki Północ",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Byki Wiadukt",
+                "suffix": ", po."
+            },
+            {
+                "name": "Byki Wschód",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Gądów",
+                "suffix": null
+            },
+            {
+                "name": "Kociewie Małe",
+                "suffix": ", po."
+            },
+            {
+                "name": "Stogi",
+                "suffix": null
+            }
+        ]
+    },
+    {
+        "sceneryName": "LCS Grodzisk Mazowiecki",
+        "mainCheckpoint": "GRODZ MAZ",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Brwinów",
+                "suffix": ", po."
+            },
+            {
+                "name": "Jaktorów",
+                "suffix": ", po."
+            },
+            {
+                "name": "Józefinów",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Milanówek",
+                "suffix": ", po."
+            },
+            {
+                "name": "Międzyborów",
+                "suffix": ", po."
+            },
+            {
+                "name": "PRUSZKÓW",
+                "suffix": null
+            },
+            {
+                "name": "Parzniew",
+                "suffix": ", po."
+            },
+            {
+                "name": "Piastów",
+                "suffix": ", po."
+            },
+            {
+                "name": "W-wa Ursus-Niedźwiadek",
+                "suffix": ", po."
+            },
+            {
+                "name": "Żyrardów",
+                "suffix": null
             }
         ]
     },
@@ -56,73 +541,21 @@
         ]
     },
     {
-        "sceneryName": "Łęczyca",
-        "mainCheckpoint": "Łęczyca",
+        "sceneryName": "LCS Kleszczów",
+        "mainCheckpoint": "KLESZCZÓW",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Gawrony",
-                "suffix": ", po."
-            },
-            {
-                "name": "Sierpów",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Stryków",
-        "mainCheckpoint": "Stryków",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Bratoszewice",
-                "suffix": ", po."
-            },
-            {
-                "name": "Swędów",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Zwardoń",
-        "mainCheckpoint": "Zwardoń",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Laliki",
-                "suffix": ", po."
-            },
-            {
-                "name": "Skalite-Serafinov",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Głębce",
-        "mainCheckpoint": "Głębce",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Głębce Kopydło",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Lisków",
-        "mainCheckpoint": "Lisków",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Lisków Przedmieście",
-                "suffix": ", po."
-            },
-            {
-                "name": "TEFAMA",
+                "name": "Bronowice",
                 "suffix": null
+            },
+            {
+                "name": "Straszków",
+                "suffix": ", po."
+            },
+            {
+                "name": "Zaborów",
+                "suffix": ", podg."
             }
         ]
     },
@@ -142,140 +575,32 @@
         ]
     },
     {
-        "sceneryName": "Zgierz Kontrewers",
-        "mainCheckpoint": "Zgierz Kontrewers",
+        "sceneryName": "LCS Perzów",
+        "mainCheckpoint": "Perzów",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Grotniki",
-                "suffix": ", po."
-            },
-            {
-                "name": "Zgierz Północ",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Sulechów",
-        "mainCheckpoint": "Sulechów",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Łęgowo Sulechowskie",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Zgierz",
-        "mainCheckpoint": "Zgierz",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Zgierz Jaracza",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Sowi Bór",
-        "mainCheckpoint": "Sowi Bór",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Chłopki",
-                "suffix": ", po."
-            },
-            {
-                "name": "Dominików",
-                "suffix": ", podst."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Skawce",
-        "mainCheckpoint": "Skawce",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Zembrzyce",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Lisków Miasto",
-        "mainCheckpoint": "Lisków Miasto",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Lisków Dąbrówka",
-                "suffix": ", po."
-            },
-            {
-                "name": "Lisków Rynek",
-                "suffix": ", po."
-            },
-            {
-                "name": "Lisków Rynek",
+                "name": "Osowo",
                 "suffix": ", podg."
             },
             {
-                "name": "Lisków Zarzecze",
-                "suffix": ", po."
-            },
-            {
-                "name": "Spedpol",
+                "name": "Rogalin",
                 "suffix": null
             }
         ]
     },
     {
-        "sceneryName": "Radostowice",
-        "mainCheckpoint": "Radostowice",
+        "sceneryName": "LCS Sandomierz",
+        "mainCheckpoint": "Sandomierz",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Pszczyna Czarków",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Rajcza",
-        "mainCheckpoint": "Rajcza",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Rajcza Centrum",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Milówka",
-        "mainCheckpoint": "Milówka",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Milówka Zabawa",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Sól",
-        "mainCheckpoint": "Sól",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Rycerka",
+                "name": "Wielowieś",
                 "suffix": ", po."
             },
             {
-                "name": "Sól Kiczora",
-                "suffix": ", po."
+                "name": "Zalesie Gorzyckie",
+                "suffix": ", podg."
             }
         ]
     },
@@ -339,28 +664,38 @@
         ]
     },
     {
-        "sceneryName": "Krzemienice",
-        "mainCheckpoint": "Krzemienice",
+        "sceneryName": "Lewków",
+        "mainCheckpoint": "Lewków",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Ligota Grabowska",
+        "mainCheckpoint": "Ligota Grabowska",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Barczewko",
+                "name": "Czystobór",
+                "suffix": ", po."
+            },
+            {
+                "name": "LIGOTA TRZESZCZE",
+                "suffix": null
+            },
+            {
+                "name": "Ligota Stadion",
                 "suffix": ", po."
             }
         ]
     },
     {
-        "sceneryName": "Testowo",
-        "mainCheckpoint": "Testowo",
+        "sceneryName": "Lilianowo",
+        "mainCheckpoint": "Lilianowo",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Kukułka",
-                "suffix": ", po."
-            },
-            {
-                "name": "Piaski",
-                "suffix": ", po."
+                "name": "Lilianowo Wieś",
+                "suffix": null
             }
         ]
     },
@@ -371,100 +706,52 @@
         "checkpoints": []
     },
     {
-        "sceneryName": "Blaszki",
-        "mainCheckpoint": "Blaszki",
+        "sceneryName": "Lisków",
+        "mainCheckpoint": "Lisków",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Blaszki",
+                "name": "Lisków Przedmieście",
                 "suffix": ", po."
             },
             {
-                "name": "Prawylas",
+                "name": "TEFAMA",
+                "suffix": null
+            }
+        ]
+    },
+    {
+        "sceneryName": "Lisków Miasto",
+        "mainCheckpoint": "Lisków Miasto",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Lisków Dąbrówka",
+                "suffix": ", po."
+            },
+            {
+                "name": "Lisków Rynek",
+                "suffix": ", po."
+            },
+            {
+                "name": "Lisków Rynek",
                 "suffix": ", podg."
             },
             {
-                "name": "Prawylas",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Arkadia Zdrój 2012",
-        "mainCheckpoint": "ARKADIA ZDRÓJ",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Wyraj",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Bełchów",
-        "mainCheckpoint": "Bełchów",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Bobrowniki",
+                "name": "Lisków Zarzecze",
                 "suffix": ", po."
             },
             {
-                "name": "Sierakowice Skierniewickie",
-                "suffix": ", po."
+                "name": "Spedpol",
+                "suffix": null
             }
         ]
     },
     {
-        "sceneryName": "Aleksandrów Kujawski",
-        "mainCheckpoint": "Aleksandrów Kujawski",
+        "sceneryName": "Lublinek",
+        "mainCheckpoint": "Lublinek",
         "mainCheckpointSuffix": null,
         "checkpoints": []
-    },
-    {
-        "sceneryName": "Tarkowo",
-        "mainCheckpoint": "Tarkowo",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Rudnik nad Sanem",
-        "mainCheckpoint": "Rudnik nad Sanem",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Rudnik Stróża",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Kowalewo",
-        "mainCheckpoint": "Kowalewo",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Łapanów",
-        "mainCheckpoint": "Łapanów",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Ulanów-Bieliniec",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Łask",
-        "mainCheckpoint": "Łask",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Borszewice",
-                "suffix": ", po."
-            }
-        ]
     },
     {
         "sceneryName": "Lutol Suchy",
@@ -478,122 +765,47 @@
         ]
     },
     {
-        "sceneryName": "Zdroje",
-        "mainCheckpoint": "Zdroje",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Kwadratowa",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Hetmanice",
-        "mainCheckpoint": "Hetmanice",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Niedoradz",
-        "mainCheckpoint": "Niedoradz",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Babimost",
-        "mainCheckpoint": "Babimost",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Stefanowo",
-        "mainCheckpoint": "Stefanowo",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Łebnino",
-        "mainCheckpoint": "Łebnino",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Wielicz Park",
-        "mainCheckpoint": "Wielicz Park",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Wielicz Bogucice",
-                "suffix": ", po."
-            },
-            {
-                "name": "Wielicz Kopalnia",
-                "suffix": null
-            }
-        ]
-    },
-    {
-        "sceneryName": "Parów",
-        "mainCheckpoint": "Parów",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Kliska Przymurze",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Krzęcz",
-        "mainCheckpoint": "Krzęcz",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Kaziopole",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Wełtawa",
-        "mainCheckpoint": "Wełtawa",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Most",
-                "suffix": ", podg."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Głęboszów",
-        "mainCheckpoint": "Głęboszów",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Borsk",
-                "suffix": ", po."
-            },
-            {
-                "name": "Strzelno",
-                "suffix": ", po."
-            },
-            {
-                "name": "Torków",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Torków Centrum",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
         "sceneryName": "Luzino",
         "mainCheckpoint": "Luzino",
         "mainCheckpointSuffix": null,
         "checkpoints": []
+    },
+    {
+        "sceneryName": "Lębork",
+        "mainCheckpoint": "Lębork",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Lębork Mosty",
+                "suffix": ", po."
+            },
+            {
+                "name": "Lębork Nowy Świat",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Milówka",
+        "mainCheckpoint": "Milówka",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Milówka Zabawa",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Minkowice",
+        "mainCheckpoint": "Minkowice",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Podzamcze",
+                "suffix": ", po."
+            }
+        ]
     },
     {
         "sceneryName": "Modlinków",
@@ -611,28 +823,113 @@
         ]
     },
     {
-        "sceneryName": "Szadek",
-        "mainCheckpoint": "Szadek",
+        "sceneryName": "Motławy",
+        "mainCheckpoint": "Motławy",
         "mainCheckpointSuffix": null,
         "checkpoints": []
     },
     {
-        "sceneryName": "Chlorkowice",
-        "mainCheckpoint": "Chlorkowice",
+        "sceneryName": "Mońki",
+        "mainCheckpoint": "Mońki",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Czechowizna",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Murki",
+        "mainCheckpoint": "Murki",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Murki Kopalnia",
+                "suffix": null
+            }
+        ]
+    },
+    {
+        "sceneryName": "Niedoradz",
+        "mainCheckpoint": "Niedoradz",
         "mainCheckpointSuffix": null,
         "checkpoints": []
     },
     {
-        "sceneryName": "Falewo",
-        "mainCheckpoint": "Falewo",
+        "sceneryName": "Orniki",
+        "mainCheckpoint": "Orniki",
         "mainCheckpointSuffix": null,
-        "checkpoints": []
+        "checkpoints": [
+            {
+                "name": "Orniki Rzeka",
+                "suffix": ", po."
+            },
+            {
+                "name": "Peplin",
+                "suffix": ", po."
+            }
+        ]
     },
     {
         "sceneryName": "Otok",
         "mainCheckpoint": "Otok",
         "mainCheckpointSuffix": null,
         "checkpoints": []
+    },
+    {
+        "sceneryName": "Otwocko",
+        "mainCheckpoint": "Otwocko",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Śródborowo",
+                "suffix": ", po."
+            },
+            {
+                "name": "Świderek",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Parów",
+        "mainCheckpoint": "Parów",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Kliska Przymurze",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Poddębice",
+        "mainCheckpoint": "Poddębice",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Poreńsk",
+        "mainCheckpoint": "POREŃSK",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Wola Poreńska",
+                "suffix": null
+            }
+        ]
+    },
+    {
+        "sceneryName": "Psary",
+        "mainCheckpoint": "Psary",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Starzyny",
+                "suffix": ", podg."
+            }
+        ]
     },
     {
         "sceneryName": "Pszczyna",
@@ -654,78 +951,6 @@
         ]
     },
     {
-        "sceneryName": "Berety Kamielskie",
-        "mainCheckpoint": "Berety Kamielskie",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Ostrachowice",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Dobrzyniec",
-        "mainCheckpoint": "Dobrzyniec",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "DOBRZ. MĄCICE",
-                "suffix": null
-            },
-            {
-                "name": "Kasztanki",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Kościerzyn Mały",
-                "suffix": ", po."
-            },
-            {
-                "name": "Kruszki",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Kruszki",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Żerniki",
-        "mainCheckpoint": "Żerniki",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Żerniki Małe",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Włoszczowa Północ",
-        "mainCheckpoint": "Włoszczowa Północ",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Czarnca",
-                "suffix": ", po."
-            },
-            {
-                "name": "Czarnca",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Knapówka",
-                "suffix": ", podg."
-            },
-            {
-                "name": "ŻELISŁAWICE",
-                "suffix": null
-            }
-        ]
-    },
-    {
         "sceneryName": "Płyćwia",
         "mainCheckpoint": "Płyćwia",
         "mainCheckpointSuffix": null,
@@ -741,326 +966,29 @@
         ]
     },
     {
-        "sceneryName": "Warszowice-Strumień",
-        "mainCheckpoint": "Warszowice",
+        "sceneryName": "Radostowice",
+        "mainCheckpoint": "Radostowice",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Dębina",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Strumień",
-                "suffix": null
-            },
-            {
-                "name": "Studzionka",
-                "suffix": ", podg."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Wronowice",
-        "mainCheckpoint": "Wronowice",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Toporki",
+                "name": "Pszczyna Czarków",
                 "suffix": ", po."
             }
         ]
     },
     {
-        "sceneryName": "Poddębice",
-        "mainCheckpoint": "Poddębice",
+        "sceneryName": "Radzikowo",
+        "mainCheckpoint": "Radzikowo",
         "mainCheckpointSuffix": null,
         "checkpoints": []
     },
     {
-        "sceneryName": "Suszec",
-        "mainCheckpoint": "Suszec",
+        "sceneryName": "Rajcza",
+        "mainCheckpoint": "Rajcza",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Rudziczka",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Suszec Kopalnia",
-                "suffix": ", po."
-            },
-            {
-                "name": "Suszec Kopalnia",
-                "suffix": null
-            },
-            {
-                "name": "Suszec Rudziczka",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "LCS Kleszczów",
-        "mainCheckpoint": "KLESZCZÓW",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Bronowice",
-                "suffix": null
-            },
-            {
-                "name": "Straszków",
-                "suffix": ", po."
-            },
-            {
-                "name": "Zaborów",
-                "suffix": ", podg."
-            }
-        ]
-    },
-    {
-        "sceneryName": "LCS Grodzisk Mazowiecki",
-        "mainCheckpoint": "GRODZ MAZ",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Brwinów",
-                "suffix": ", po."
-            },
-            {
-                "name": "Jaktorów",
-                "suffix": ", po."
-            },
-            {
-                "name": "Józefinów",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Milanówek",
-                "suffix": ", po."
-            },
-            {
-                "name": "Międzyborów",
-                "suffix": ", po."
-            },
-            {
-                "name": "PRUSZKÓW",
-                "suffix": null
-            },
-            {
-                "name": "Parzniew",
-                "suffix": ", po."
-            },
-            {
-                "name": "Piastów",
-                "suffix": ", po."
-            },
-            {
-                "name": "W-wa Ursus-Niedźwiadek",
-                "suffix": ", po."
-            },
-            {
-                "name": "Żyrardów",
-                "suffix": null
-            }
-        ]
-    },
-    {
-        "sceneryName": "Grabów",
-        "mainCheckpoint": "Grabów",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Grabów Wschodni",
-                "suffix": null
-            }
-        ]
-    },
-    {
-        "sceneryName": "Brzezinka Średzka",
-        "mainCheckpoint": "Brzezinka Średzka",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Czerna Mała",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Zgliczyn-Glinki",
-        "mainCheckpoint": "Zgliczyn-Glinki",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Bęczkowo",
-                "suffix": ", po."
-            },
-            {
-                "name": "Kącik",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Żory",
-        "mainCheckpoint": "ŻORY",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Ciepłownia",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Kleszczów",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Ryb. Gotartowice",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Szczejkowice",
-                "suffix": ", podst."
-            },
-            {
-                "name": "Szczejkowice",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Tomaszów Mazowiecki",
-        "mainCheckpoint": "TOMASZÓW MAZ.",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Tomaszów Maz. Białobrzegi",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Borki",
-        "mainCheckpoint": "Borki",
-        "mainCheckpointSuffix": ", podg.",
-        "checkpoints": [
-            {
-                "name": "Borki Miasto",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Lewków",
-        "mainCheckpoint": "Lewków",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Torzyn",
-        "mainCheckpoint": "Torzyn",
-        "mainCheckpointSuffix": ", podg.",
-        "checkpoints": [
-            {
-                "name": "Torzyn",
-                "suffix": ", po."
-            },
-            {
-                "name": "Torzyn gt",
-                "suffix": null
-            }
-        ]
-    },
-    {
-        "sceneryName": "Tarkowice",
-        "mainCheckpoint": "Tarkowice",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Jabłowo",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Dziewoszyce",
-        "mainCheckpoint": "Dziewoszyce",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Jasienice",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Jasienice Wielkie",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Grębów",
-        "mainCheckpoint": "Grębów",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Góra Włodowska",
-        "mainCheckpoint": "Góra Włodowska",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Brenno",
-        "mainCheckpoint": "Brenno",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Motławy",
-        "mainCheckpoint": "Motławy",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Hel",
-        "mainCheckpoint": "Hel",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Tomysłów",
-        "mainCheckpoint": "Tomysłów",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Wola Tomska",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Trzymałkowice",
-        "mainCheckpoint": "Trzymałkowice",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Poróżniew",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Otwocko",
-        "mainCheckpoint": "Otwocko",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Śródborowo",
-                "suffix": ", po."
-            },
-            {
-                "name": "Świderek",
+                "name": "Rajcza Centrum",
                 "suffix": ", po."
             }
         ]
@@ -1085,41 +1013,12 @@
         ]
     },
     {
-        "sceneryName": "Ligota Grabowska",
-        "mainCheckpoint": "Ligota Grabowska",
+        "sceneryName": "Rudnik nad Sanem",
+        "mainCheckpoint": "Rudnik nad Sanem",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Czystobór",
-                "suffix": ", po."
-            },
-            {
-                "name": "LIGOTA TRZESZCZE",
-                "suffix": null
-            },
-            {
-                "name": "Ligota Stadion",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Lublinek",
-        "mainCheckpoint": "Lublinek",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Łaskarzew",
-        "mainCheckpoint": "Łaskarzew",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Leokadia",
-                "suffix": ", po."
-            },
-            {
-                "name": "Łaskarzew Przystanek",
+                "name": "Rudnik Stróża",
                 "suffix": ", po."
             }
         ]
@@ -1136,6 +1035,53 @@
             {
                 "name": "Sieniawka",
                 "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Sierakówek",
+        "mainCheckpoint": "Sierakówek",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Skawce",
+        "mainCheckpoint": "Skawce",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Zembrzyce",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Skrzynki",
+        "mainCheckpoint": "Skrzynki",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Wykno",
+                "suffix": ", po."
+            },
+            {
+                "name": "Zaosie",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Sowi Bór",
+        "mainCheckpoint": "Sowi Bór",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Chłopki",
+                "suffix": ", po."
+            },
+            {
+                "name": "Dominików",
+                "suffix": ", podst."
             }
         ]
     },
@@ -1163,136 +1109,25 @@
         ]
     },
     {
-        "sceneryName": "Grzebowilk",
-        "mainCheckpoint": "Grzebowilk",
+        "sceneryName": "Stefanowo",
+        "mainCheckpoint": "Stefanowo",
         "mainCheckpointSuffix": null,
         "checkpoints": []
     },
     {
-        "sceneryName": "Orniki",
-        "mainCheckpoint": "Orniki",
+        "sceneryName": "Stryków",
+        "mainCheckpoint": "Stryków",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Orniki Rzeka",
+                "name": "Bratoszewice",
                 "suffix": ", po."
             },
             {
-                "name": "Peplin",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Gutkowo",
-        "mainCheckpoint": "Gutkowo",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Jaskrów",
+                "name": "Swędów",
                 "suffix": ", po."
             }
         ]
-    },
-    {
-        "sceneryName": "Kraśnica",
-        "mainCheckpoint": "Kraśnica",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Szymbielinowice",
-                "suffix": ", po."
-            },
-            {
-                "name": "Wieś Wielinska",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "LCS Byki",
-        "mainCheckpoint": "Byki Zachód",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Byki Park",
-                "suffix": ", po."
-            },
-            {
-                "name": "Byki Południe",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Byki Północ",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Byki Wschód",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Gądów",
-                "suffix": null
-            },
-            {
-                "name": "Lisie Pola",
-                "suffix": ", po."
-            },
-            {
-                "name": "Stogi",
-                "suffix": null
-            }
-        ]
-    },
-    {
-        "sceneryName": "Zielona Góra Główna",
-        "mainCheckpoint": "Zielona Góra Główna",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Stary Kisielin",
-                "suffix": ", podst."
-            },
-            {
-                "name": "Zielona Góra Nowy Kisielin",
-                "suffix": ", po."
-            },
-            {
-                "name": "Zielona Góra Przylep",
-                "suffix": ", po."
-            },
-            {
-                "name": "Zielona Góra Stary Kisielin",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Gostynin",
-        "mainCheckpoint": "Gostynin",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Skrzynki",
-        "mainCheckpoint": "Skrzynki",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Wykno",
-                "suffix": ", po."
-            },
-            {
-                "name": "Zaosie",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Zawadówka",
-        "mainCheckpoint": "Zawadówka",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
     },
     {
         "sceneryName": "Strzelce Kujawskie",
@@ -1301,79 +1136,185 @@
         "checkpoints": []
     },
     {
-        "sceneryName": "Sierakówek",
-        "mainCheckpoint": "Sierakówek",
+        "sceneryName": "Sufczyn",
+        "mainCheckpoint": "Sufczyn",
         "mainCheckpointSuffix": null,
         "checkpoints": []
     },
     {
-        "sceneryName": "Zimnice",
-        "mainCheckpoint": "Zimnice",
+        "sceneryName": "Sulechów",
+        "mainCheckpoint": "Sulechów",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Folwark",
-                "suffix": null
-            },
-            {
-                "name": "Złotniki",
+                "name": "Łęgowo Sulechowskie",
                 "suffix": ", po."
             }
         ]
     },
     {
-        "sceneryName": "Krnów",
-        "mainCheckpoint": "Krnów",
+        "sceneryName": "Suszec",
+        "mainCheckpoint": "Suszec",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Krnów-Cwilin",
-                "suffix": ", po."
-            }
-        ]
-    },
-    {
-        "sceneryName": "Arkadia Zdrój 2022",
-        "mainCheckpoint": "Arkadia Zdrój",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Bocznica ACT",
-                "suffix": null
-            },
-            {
-                "name": "Nawia",
+                "name": "Rudziczka",
                 "suffix": ", podg."
             },
             {
-                "name": "Wyraj",
+                "name": "Suszec Kopalnia",
+                "suffix": ", po."
+            },
+            {
+                "name": "Suszec Kopalnia",
+                "suffix": null
+            },
+            {
+                "name": "Suszec Rudziczka",
                 "suffix": ", po."
             }
         ]
     },
     {
-        "sceneryName": "Łęka",
-        "mainCheckpoint": "Łęka",
+        "sceneryName": "Szadek",
+        "mainCheckpoint": "Szadek",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Sól",
+        "mainCheckpoint": "Sól",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Stolnica Wielka",
+                "name": "Rycerka",
+                "suffix": ", po."
+            },
+            {
+                "name": "Sól Kiczora",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Tarkowice",
+        "mainCheckpoint": "Tarkowice",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Jabłowo",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Tarkowo",
+        "mainCheckpoint": "Tarkowo",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Tarnowo Górne",
+        "mainCheckpoint": "Tarnowo Górne",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Testowo",
+        "mainCheckpoint": "Testowo",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Kukułka",
+                "suffix": ", po."
+            },
+            {
+                "name": "Piaski",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Tomaszów Mazowiecki",
+        "mainCheckpoint": "TOMASZÓW MAZ.",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Tomaszów Maz. Białobrzegi",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Tomysłów",
+        "mainCheckpoint": "Tomysłów",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Wola Tomska",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Torzyn",
+        "mainCheckpoint": "Torzyn",
+        "mainCheckpointSuffix": ", podg.",
+        "checkpoints": [
+            {
+                "name": "Torzyn",
+                "suffix": ", po."
+            },
+            {
+                "name": "Torzyn gt",
                 "suffix": null
             }
         ]
     },
     {
-        "sceneryName": "Dobrzyca Towarowa",
-        "mainCheckpoint": "Dobrzyca DTA",
+        "sceneryName": "Trzymałkowice",
+        "mainCheckpoint": "Trzymałkowice",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Dobrzyca DTB",
+                "name": "Poróżniew",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Warszowice-Strumień",
+        "mainCheckpoint": "Warszowice",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Dębina",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Strumień",
                 "suffix": null
             },
             {
-                "name": "Dobrzyca DTC",
-                "suffix": null
+                "name": "Studzionka",
+                "suffix": ", podg."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Wasilków",
+        "mainCheckpoint": "Wasilków",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Wełtawa",
+        "mainCheckpoint": "Wełtawa",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Most",
+                "suffix": ", podg."
             }
         ]
     },
@@ -1405,82 +1346,92 @@
         ]
     },
     {
-        "sceneryName": "Biała Sudecka",
-        "mainCheckpoint": "Biała Sudecka",
+        "sceneryName": "Wielicz Park",
+        "mainCheckpoint": "Wielicz Park",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "B. Sudecka BSA",
-                "suffix": ", podg."
-            },
-            {
-                "name": "B. Sudecka BSB",
-                "suffix": ", podg."
-            },
-            {
-                "name": "B. Sudecka Duczków",
+                "name": "Wielicz Bogucice",
                 "suffix": ", po."
             },
             {
-                "name": "B. Sudecka GT",
+                "name": "Wielicz Kopalnia",
                 "suffix": null
-            },
-            {
-                "name": "Podkowa Polna",
-                "suffix": ", po."
-            },
-            {
-                "name": "Podkowa Polna",
-                "suffix": ", podg."
-            },
-            {
-                "name": "Stare Przytuły",
-                "suffix": ", po."
             }
         ]
     },
     {
-        "sceneryName": "Czermin",
-        "mainCheckpoint": "Czermin",
+        "sceneryName": "Wijewo",
+        "mainCheckpoint": "Wijewo",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Witonia",
+        "mainCheckpoint": "Witonia",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Wola",
+        "mainCheckpoint": "Wola",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Wronowice",
+        "mainCheckpoint": "Wronowice",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Czermin Kolonia",
-                "suffix": ", po."
-            },
-            {
-                "name": "Czermin Podgórze",
-                "suffix": ", po."
-            },
-            {
-                "name": "Czermin Południe",
+                "name": "Toporki",
                 "suffix": ", po."
             }
         ]
     },
     {
-        "sceneryName": "Psary",
-        "mainCheckpoint": "Psary",
+        "sceneryName": "Węglowce",
+        "mainCheckpoint": "Węglowce",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Starzyny",
+                "name": "Chełminiwaźnice",
                 "suffix": ", podg."
+            },
+            {
+                "name": "Chełminiwaźnice",
+                "suffix": ", po."
+            },
+            {
+                "name": "Duże Groby",
+                "suffix": ", po."
+            },
+            {
+                "name": "Małe Groby",
+                "suffix": ", po."
             }
         ]
     },
     {
-        "sceneryName": "Chełmik Wołowski",
-        "mainCheckpoint": "Chełmik Wołowski",
-        "mainCheckpointSuffix": ", podg.",
+        "sceneryName": "Włoszczowa Północ",
+        "mainCheckpoint": "Włoszczowa Północ",
+        "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Chełmik Wołowski",
+                "name": "Czarnca",
                 "suffix": ", po."
             },
             {
-                "name": "Tymowa",
-                "suffix": ", po."
+                "name": "Czarnca",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Knapówka",
+                "suffix": ", podg."
+            },
+            {
+                "name": "ŻELISŁAWICE",
+                "suffix": null
             }
         ]
     },
@@ -1491,41 +1442,158 @@
         "checkpoints": []
     },
     {
-        "sceneryName": "Mońki",
-        "mainCheckpoint": "Mońki",
+        "sceneryName": "Zawadówka",
+        "mainCheckpoint": "Zawadówka",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Zdroje",
+        "mainCheckpoint": "Zdroje",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Czechowizna",
+                "name": "Kwadratowa",
                 "suffix": ", po."
             }
         ]
     },
     {
-        "sceneryName": "Beznazwa",
-        "mainCheckpoint": "Beznazwa",
+        "sceneryName": "Zgierz",
+        "mainCheckpoint": "Zgierz",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Ciermięcice",
+                "name": "Zgierz Jaracza",
                 "suffix": ", po."
             }
         ]
     },
     {
-        "sceneryName": "LCS Perzów",
-        "mainCheckpoint": "Perzów",
+        "sceneryName": "Zgierz Kontrewers",
+        "mainCheckpoint": "Zgierz Kontrewers",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Osowo",
-                "suffix": ", podg."
+                "name": "Grotniki",
+                "suffix": ", po."
             },
             {
-                "name": "Rogalin",
-                "suffix": null
+                "name": "Zgierz Północ",
+                "suffix": ", po."
             }
         ]
+    },
+    {
+        "sceneryName": "Zgliczyn-Glinki",
+        "mainCheckpoint": "Zgliczyn-Glinki",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Bęczkowo",
+                "suffix": ", po."
+            },
+            {
+                "name": "Kącik",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Zielona Góra Główna",
+        "mainCheckpoint": "Zielona Góra Główna",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Stary Kisielin",
+                "suffix": ", podst."
+            },
+            {
+                "name": "Zielona Góra Nowy Kisielin",
+                "suffix": ", po."
+            },
+            {
+                "name": "Zielona Góra Przylep",
+                "suffix": ", po."
+            },
+            {
+                "name": "Zielona Góra Stary Kisielin",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Zimnice",
+        "mainCheckpoint": "Zimnice",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Folwark",
+                "suffix": null
+            },
+            {
+                "name": "Złotniki",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Zwardoń",
+        "mainCheckpoint": "Zwardoń",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Laliki",
+                "suffix": ", po."
+            },
+            {
+                "name": "Skalite-Serafinov",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Łapanów",
+        "mainCheckpoint": "Łapanów",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Ulanów-Bieliniec",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Łask",
+        "mainCheckpoint": "Łask",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Borszewice",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Łaskarzew",
+        "mainCheckpoint": "Łaskarzew",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Leokadia",
+                "suffix": ", po."
+            },
+            {
+                "name": "Łaskarzew Przystanek",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Łebnino",
+        "mainCheckpoint": "Łebnino",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
     },
     {
         "sceneryName": "Łąck",
@@ -1539,63 +1607,66 @@
         ]
     },
     {
-        "sceneryName": "Wijewo",
-        "mainCheckpoint": "Wijewo",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Lilianowo",
-        "mainCheckpoint": "Lilianowo",
+        "sceneryName": "Łęczyca",
+        "mainCheckpoint": "Łęczyca",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Lilianowo Wieś",
+                "name": "Gawrony",
+                "suffix": ", po."
+            },
+            {
+                "name": "Sierpów",
+                "suffix": ", po."
+            }
+        ]
+    },
+    {
+        "sceneryName": "Łęka",
+        "mainCheckpoint": "Łęka",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Stolnica Wielka",
                 "suffix": null
             }
         ]
     },
     {
-        "sceneryName": "Wasilków",
-        "mainCheckpoint": "Wasilków",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Bystra Woda",
-        "mainCheckpoint": "Bystra Woda",
+        "sceneryName": "Żerniki",
+        "mainCheckpoint": "Żerniki",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Bystra Jezioro",
+                "name": "Żerniki Małe",
                 "suffix": ", po."
             }
         ]
     },
     {
-        "sceneryName": "Sufczyn",
-        "mainCheckpoint": "Sufczyn",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "Radzikowo",
-        "mainCheckpoint": "Radzikowo",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
-        "sceneryName": "LCS Sandomierz",
-        "mainCheckpoint": "Sandomierz",
+        "sceneryName": "Żory",
+        "mainCheckpoint": "ŻORY",
         "mainCheckpointSuffix": null,
         "checkpoints": [
             {
-                "name": "Wielowieś",
-                "suffix": ", po."
+                "name": "Ciepłownia",
+                "suffix": ", podg."
             },
             {
-                "name": "Zalesie Gorzyckie",
+                "name": "Kleszczów",
                 "suffix": ", podg."
+            },
+            {
+                "name": "Ryb. Gotartowice",
+                "suffix": ", podg."
+            },
+            {
+                "name": "Szczejkowice",
+                "suffix": ", podst."
+            },
+            {
+                "name": "Szczejkowice",
+                "suffix": ", po."
             }
         ]
     }
