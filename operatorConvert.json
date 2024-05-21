@@ -3446,6 +3446,12 @@
             "trainNo": ["18254", "18255", "81254", "81255"],
             "categoryOverwrite": "TLK",
             "trainName": "Tetyda"
+        },
+        {
+            "operator": "KMŁ",
+            "trainNo": ["39146", "39145"],
+            "categoryOverwrite": "OsP",
+            "trainName": "Luxtorpeda"
         }
     ]
 }
