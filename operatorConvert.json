@@ -1134,7 +1134,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["15122", "15123", "51122", "51123"],
+            "trainNo": ["15122", "15123", "51122"],
             "categoryOverwrite": "IC",
             "trainName": "Mazury-Bis"
         },
