@@ -315,6 +315,13 @@
             "remarks": "SKA1"
         },
         {
+            "operator": "PR",
+            "operatorOverwrite": "KMŁ",
+            "trainNoStartsWith": ["39146", "39145"],
+            "category": { "RO": "OsP", "RP": "OsP", "MP": "OsP", "EI": "OsP" },
+            "remarks": "Luxtorpeda"
+        },
+        {
             "operator": "SKMT",
             "operatorOverwrite": "SKMT",
             "trainNoStartsWith": ["593", "594", "595", "596", "597", "598", "953", "954", "955", "956", "957", "958"],
