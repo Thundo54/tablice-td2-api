@@ -659,6 +659,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["68160", "68161", "86160", "86161"],
+            "categoryOverwrite": "IC",
+            "trainName": "Malczewski BIS"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["62100", "62101", "26100", "26101"],
             "categoryOverwrite": "IC",
             "trainName": "Bolko"
@@ -668,6 +674,12 @@
             "trainNo": ["5600", "5601", "6500", "6501"],
             "categoryOverwrite": "IC",
             "trainName": "Pomorzanin"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["56126", "56127", "65126", "65127"],
+            "categoryOverwrite": "IC",
+            "trainName": "Pomorzanin BIS"
         },
         {
             "operator": "IC",
@@ -734,6 +746,12 @@
             "trainNo": ["20100", "20101", "22100", "22101", "2700", "2701", "7200", "7201"],
             "categoryOverwrite": "IC",
             "trainName": "Hetman"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["8650", "8651"],
+            "categoryOverwrite": "IC",
+            "trainName": "Hetman BIS"
         },
         {
             "operator": "IC",
@@ -815,7 +833,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["3604", "3605", "6304", "6305"],
+            "trainNo": ["3604", "3605", "6304", "6305", "3828", "3829", "8328", "8329"],
             "categoryOverwrite": "IC",
             "trainName": "Grottger"
         },
@@ -875,7 +893,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["33010", "33013", "33014", "33017", "15146", "15147", "15154", "15155"],
+            "trainNo": ["33010", "33013", "33014", "33017", "15146", "15147", "15154", "15155", "8140", "8141"],
             "categoryOverwrite": "IC",
             "trainName": ""
         },
@@ -1181,13 +1199,19 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["17152", "17153"],
+            "categoryOverwrite": "IC",
+            "trainName": "Strzelecki BIS"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["17102", "17103", "71102", "71103"],
             "categoryOverwrite": "IC",
             "trainName": "Zielonogórzanin"
         },
         {
             "operator": "IC",
-            "trainNo": ["17104", "17105", "71104", "71105"],
+            "trainNo": ["17104", "17105", "71104", "71105", "75123", "75124"],
             "categoryOverwrite": "IC",
             "trainName": "Warta"
         },
@@ -1202,6 +1226,12 @@
             "trainNo": ["18102", "18103", "81102", "81103"],
             "categoryOverwrite": "IC",
             "trainName": "Podlasiak"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["17150", "17151"],
+            "categoryOverwrite": "IC",
+            "trainName": "Podlasiak BIS"
         },
         {
             "operator": "IC",
@@ -1244,6 +1274,12 @@
             "trainNo": ["18154", "18155", "81154", "81155"],
             "categoryOverwrite": "IC",
             "trainName": "Lazur"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["51123", "51124"],
+            "categoryOverwrite": "IC",
+            "trainName": "Lazur BIS"
         },
         {
             "operator": "IC",
@@ -1346,6 +1382,12 @@
             "trainNo": ["38100", "38101", "83100", "83101", "80100", "80101", "88100", "88101"],
             "categoryOverwrite": "IC",
             "trainName": "Zamoyski"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["81142", "81143"],
+            "categoryOverwrite": "IC",
+            "trainName": "Zamoyski BIS"
         },
         {
             "operator": "IC",
@@ -1454,6 +1496,12 @@
             "trainNo": ["3720", "3721", "7320", "7321"],
             "categoryOverwrite": "IC",
             "trainName": "Cegielski"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["83050", "83051", "8353", "8354"],
+            "categoryOverwrite": "IC",
+            "trainName": "Cegielski BIS"
         },
         {
             "operator": "IC",
@@ -1568,6 +1616,12 @@
             "trainNo": ["57104", "57105", "75104", "75105"],
             "categoryOverwrite": "IC",
             "trainName": "Bachus"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["57172", "57173"],
+            "categoryOverwrite": "IC",
+            "trainName": "Bachus BIS"
         },
         {
             "operator": "IC",
@@ -3446,6 +3500,12 @@
             "trainNo": ["18254", "18255", "81254", "81255"],
             "categoryOverwrite": "TLK",
             "trainName": "Tetyda"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["17012", "17013", "17014", "17015", "17030", "17031", "71012", "71013", "71014", "71015","71030", "71031"],
+            "categoryOverwrite": "EIC",
+            "trainName": ""
         }
     ]
 }
