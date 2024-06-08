@@ -3182,7 +3182,7 @@
             "operator": "IC",
             "trainNo": ["77206"],
             "categoryOverwrite": "P",
-            "trai,nName": "Pyra"
+            "trainName": "Pyra"
         },
         {
             "operator": "IC",
