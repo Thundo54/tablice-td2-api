@@ -3350,7 +3350,7 @@
             "operator": "IC",
             "trainNo": ["77206"],
             "categoryOverwrite": "P",
-            "trai,nName": "Pyra"
+            "trainName": "Pyra"
         },
         {
             "operator": "IC",
@@ -3680,7 +3680,7 @@
             "operator": "IC",
             "trainNo": ["17012", "17013", "17014", "17015", "17030", "17031", "71012", "71013", "71014", "71015","71030", "71031"],
             "categoryOverwrite": "EIC",
-            "trainName": ""
+            "trainName": "specjalny-1"
         }
     ]
 }
