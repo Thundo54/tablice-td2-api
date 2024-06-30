@@ -509,6 +509,118 @@
             "trainNoStartsWith": ["5985", "9585"],
             "category": { "RO": "R91", "RP": "R91", "M": "R91", "EI": "R91" },
             "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["1915", "9115"],
+            "category": { "RO": "RE1", "RP": "RE1", "M": "RE1", "EI": "RE1" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["19300", "19301", "19992", "19993", "91994", "91995"],
+            "category": { "RO": "RE10", "RP": "RE10", "M": "RE10", "EI": "RE10" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["1011", "1012", "1112", "9112", "9316"],
+            "category": { "RO": "RE2", "RP": "RE2", "M": "RE2", "EI": "RE2" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["91124", "91125"],
+            "category": { "RO": "RE3", "RP": "RE3", "M": "RE3", "EI": "RE3" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["19458", "19459"],
+            "category": { "RO": "RE30", "RP": "RE30", "M": "RE30", "EI": "RE30" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["19124", "19125"],
+            "category": { "RO": "RE31", "RP": "RE31", "M": "RE31", "EI": "RE31" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["11109", "11142", "99100", "99101"],
+            "category": { "RO": "RE6", "RP": "RE6", "M": "RE6", "EI": "RE6" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["11908"],
+            "category": { "RO": "RE60", "RP": "RE60", "M": "RE60", "EI": "RE60" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["99102", "99103"],
+            "category": { "RO": "RE61", "RP": "RE61", "M": "RE61", "EI": "RE61" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["21726", "21727"],
+            "category": { "RO": "RE7", "RP": "RE7", "M": "RE7", "EI": "RE7" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["12124", "12125", "19900", "19901", "21126", "21127", "21650", "21651", "52120", "52121", "91928", "91929"],
+            "category": { "RO": "RE80", "RP": "RE80", "M": "RE80", "EI": "RE80" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["51160", "51162", "51164", "93150", "93151"],
+            "category": { "RO": "RE9", "RP": "RE9", "M": "RE9", "EI": "RE9" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["15111", "51126", "51130", "51138", "91426", "91427", "93100", "93101", "93600", "93601"],
+            "category": { "RO": "RE90", "RP": "RE90", "M": "RE90", "EI": "RE90" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["15140", "15141", "15142", "15143", "15161", "15163"],
+            "category": { "RO": "RE91", "RP": "RE91", "M": "RE91", "EI": "RE91" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["51140", "51141", "51142", "51143"],
+            "category": { "RO": "RE92", "RP": "RE92", "M": "RE92", "EI": "RE92" },
+            "remarks": ""
+        },
+        {
+            "operator": "KM",
+            "operatorOverwrite": "KM",
+            "trainNoStartsWith": ["9311", "9312", "9313", "9314", "9315", "9711", "9712", "9713", "9714", "9715"],
+            "category": { "RO": "RL", "RP": "RL", "M": "RL", "EI": "RL" },
+            "remarks": ""
         }
     ],
     "trainNames":
