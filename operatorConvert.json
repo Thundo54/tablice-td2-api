@@ -699,7 +699,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["34602", "34603", "43608", "43609"],
+            "trainNo": ["34603", "43608"],
             "categoryOverwrite": "R",
             "trainName": "Leskowiec"
         },
@@ -717,37 +717,37 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["34604", "34605", "43610", "43611"],
+            "trainNo": ["34605", "43610"],
             "categoryOverwrite": "R",
             "trainName": "Beskidek"
         },
         {
             "operator": "PR",
-            "trainNo": ["43600", "43601", "34612", "34613"],
+            "trainNo": ["43600", "34613"],
             "categoryOverwrite": "R",
             "trainName": "Wanda"
         },
         {
             "operator": "PR",
-            "trainNo": ["30504", "30505", "30542", "30543"],
+            "trainNo": ["30505", "30542"],
             "categoryOverwrite": "R",
             "trainName": "Kasprowy"
         },
         {
             "operator": "PR",
-            "trainNo": ["30538", "30539", "30512", "30513"],
+            "trainNo": ["30538", "30513"],
             "categoryOverwrite": "R",
             "trainName": "Gubałówka"
         },
         {
             "operator": "PR",
-            "trainNo": ["34606", "34607", "43606", "43607"],
+            "trainNo": ["34607", "43606"],
             "categoryOverwrite": "R",
             "trainName": "Bolek i Lolek"
         },
         {
             "operator": "PR",
-            "trainNo": ["43604", "43605", "34610", "34611"],
+            "trainNo": ["43604", "34611"],
             "categoryOverwrite": "R",
             "trainName": "Biała"
         },
