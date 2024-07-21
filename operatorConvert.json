@@ -845,7 +845,7 @@
             "operator": "IC",
             "trainNo": ["51128", "51129"],
             "categoryOverwrite": "IC",
-            "trainName": "Mieszko Bis"
+            "trainName": "Mieszko BIS"
         },
         {
             "operator": "IC",
@@ -952,12 +952,12 @@
         {
             "operator": "IC",
             "trainNo": ["16100", "16101", "61100", "61101"],
-            "categoryOverwrite": "TLK",
+            "categoryOverwrite": "IC",
             "trainName": "Orzeszkowa"
         },
         {
             "operator": "IC",
-            "trainNo": ["38174", "38175", "46174", "46175", "64174", "64175", "83174", "83175"],
+            "trainNo": ["64174", "64175", "46174", "46175", "38174", "38175", "83174", "83175", "64174", "64175"],
             "categoryOverwrite": "TLK",
             "trainName": "Wolin"
         },
@@ -1223,7 +1223,7 @@
             "operator": "IC",
             "trainNo": ["12160", "12161", "21160", "21161"],
             "categoryOverwrite": "IC",
-            "trainName": "Chełmianin Bis"
+            "trainName": "Chełmianin BIS"
         },
         {
             "operator": "IC",
@@ -1251,7 +1251,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["12170", "12171", "21170", "21171", "38170", "38171", "83170", "83171", "38202", "38208", "83202", "83208", "55271", "55272"],
+            "trainNo": ["12171", "21170", "83170", "83171", "38170", "38171"],
             "categoryOverwrite": "TLK",
             "trainName": "Ustronie"
         },
@@ -1367,7 +1367,7 @@
             "operator": "IC",
             "trainNo": ["15122", "15123", "51122"],
             "categoryOverwrite": "IC",
-            "trainName": "Mazury-Bis"
+            "trainName": "Mazury BIS"
         },
         {
             "operator": "IC",
@@ -1379,7 +1379,7 @@
             "operator": "IC",
             "trainNo": ["5750", "5751"],
             "categoryOverwrite": "IC",
-            "trainName": "Bałtyk-Bis"
+            "trainName": "Bałtyk BIS"
         },
         {
             "operator": "IC",
@@ -2093,7 +2093,7 @@
             "operator": "PR",
             "trainNo": ["88116", "88117"],
             "categoryOverwrite": "RP",
-            "trainName": "Błękitny Bis"
+            "trainName": "Błękitny BIS"
         },
         {
             "operator": "PR",
@@ -3745,5 +3745,11 @@
             "categoryOverwrite": "EIC",
             "trainName": "specjalny-1"
         }
+        {
+            "operator": "IC",
+            "trainNo": ["37104", "37105", "73104", "73105"],
+            "categoryOverwrite": "IC",
+            "trainName": "Mehoffer"
+        },
     ]
 }
