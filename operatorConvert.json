@@ -777,6 +777,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["6104", "6105"],
+            "categoryOverwrite": "IC",
+            "trainName": "Fredro BIS"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["16102", "16103", "61102", "61103"],
             "categoryOverwrite": "IC",
             "trainName": "Konopnicka"
@@ -852,6 +858,12 @@
             "trainNo": ["6300", "6301", "3600", "3601"],
             "categoryOverwrite": "IC",
             "trainName": "Wyspiański"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["36122", "36123", "63122", "63123"],
+            "categoryOverwrite": "IC",
+            "trainName": "Wyspiański BIS"
         },
         {
             "operator": "IC",
@@ -933,6 +945,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["62124", "26125"],
+            "categoryOverwrite": "IC",
+            "trainName": "Wyczółkowski BIS"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["3804", "3805", "8304", "8305", "60105", "66104"],
             "categoryOverwrite": "IC",
             "trainName": "Matejko"
@@ -1008,6 +1026,12 @@
             "trainNo": ["5620", "5621", "6520", "6521"],
             "categoryOverwrite": "IC",
             "trainName": "Słowacki"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["61122", "61123"],
+            "categoryOverwrite": "IC",
+            "trainName": "Słowacki BIS"
         },
         {
             "operator": "IC",
@@ -1122,6 +1146,12 @@
             "trainNo": ["34004", "34005", "43004", "43005"],
             "categoryOverwrite": "IC",
             "trainName": "Galicja"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["943004", "943005"],
+            "categoryOverwrite": "IC",
+            "trainName": "Galicja BIS"
         },
         {
             "operator": "IC",
@@ -1377,7 +1407,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["5750", "5751"],
+            "trainNo": ["5750", "5751", "51134", "51135"],
             "categoryOverwrite": "IC",
             "trainName": "Bałtyk BIS"
         },
@@ -1437,7 +1467,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["17152", "17153"],
+            "trainNo": ["17152", "17153", "71152", "71153"],
             "categoryOverwrite": "IC",
             "trainName": "Strzelecki BIS"
         },
@@ -1467,7 +1497,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["17150", "17151"],
+            "trainNo": ["17150", "17151", "71150", "71151"],
             "categoryOverwrite": "IC",
             "trainName": "Podlasiak BIS"
         },
@@ -1503,6 +1533,12 @@
         },
         {
             "operator": "IC",
+            "trainNo": ["15134", "15135"],
+            "categoryOverwrite": "IC",
+            "trainName": "Pobrzeże BIS"
+        },
+        {
+            "operator": "IC",
             "trainNo": ["18150", "18151", "81150", "81151"],
             "categoryOverwrite": "IC",
             "trainName": "Słupia"
@@ -1515,7 +1551,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["51123", "51124"],
+            "trainNo": ["51124", "51125"],
             "categoryOverwrite": "IC",
             "trainName": "Lazur BIS"
         },
@@ -1524,6 +1560,12 @@
             "trainNo": ["18170", "18171", "81170", "81171"],
             "categoryOverwrite": "IC",
             "trainName": "Uznam"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["18172", "18173"],
+            "categoryOverwrite": "IC",
+            "trainName": "Uznam BIS"
         },
         {
             "operator": "IC",
@@ -1632,6 +1674,12 @@
             "trainNo": ["30104", "30105", "33104", "33105", "35104", "35105", "53104", "53105"],
             "categoryOverwrite": "TLK",
             "trainName": "Małopolska"
+        },
+        {
+            "operator": "IC",
+            "trainNo": ["15122", "15123", "51122", "51123"],
+            "categoryOverwrite": "TLK",
+            "trainName": "Małopolska BIS"
         },
         {
             "operator": "IC",
@@ -1857,7 +1905,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["57172", "57173"],
+            "trainNo": ["57172", "57173", "75152", "75153"],
             "categoryOverwrite": "IC",
             "trainName": "Bachus BIS"
         },
@@ -3744,12 +3792,12 @@
             "trainNo": ["17012", "17013", "17014", "17015", "17030", "17031", "71012", "71013", "71014", "71015","71030", "71031"],
             "categoryOverwrite": "EIC",
             "trainName": "specjalny-1"
-        }
+        },
         {
             "operator": "IC",
             "trainNo": ["37104", "37105", "73104", "73105"],
             "categoryOverwrite": "IC",
             "trainName": "Mehoffer"
-        },
+        }
     ]
 }
