@@ -12,7 +12,7 @@
         "checkpoints": [
             {
                 "name": "Wyraj",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -27,11 +27,11 @@
             },
             {
                 "name": "Nawia",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Wyraj",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -42,7 +42,7 @@
         "checkpoints": [
             {
                 "name": "Ostrachowice",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -53,7 +53,7 @@
         "checkpoints": [
             {
                 "name": "Ciermięcice",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -64,11 +64,11 @@
         "checkpoints": [
             {
                 "name": "Bobrowniki",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Sierakowice Skierniewickie",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -79,15 +79,15 @@
         "checkpoints": [
             {
                 "name": "B. Sudecka BSA",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "B. Sudecka BSB",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "B. Sudecka Duczków",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "B. Sudecka GT",
@@ -95,15 +95,15 @@
             },
             {
                 "name": "Podkowa Polna",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Podkowa Polna",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Stare Przytuły",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -114,26 +114,26 @@
         "checkpoints": [
             {
                 "name": "Blaszki",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Prawylas",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Prawylas",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
     {
         "sceneryName": "Borki",
         "mainCheckpoint": "Borki",
-        "mainCheckpointSuffix": ", podg.",
+        "mainCheckpointSuffix": ", podg",
         "checkpoints": [
             {
                 "name": "Borki Miasto",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -150,7 +150,7 @@
         "checkpoints": [
             {
                 "name": "Czerna Mała",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -161,22 +161,22 @@
         "checkpoints": [
             {
                 "name": "Bystra Jezioro",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
     {
         "sceneryName": "Chełmik Wołowski",
         "mainCheckpoint": "Chełmik Wołowski",
-        "mainCheckpointSuffix": ", podg.",
+        "mainCheckpointSuffix": ", podg",
         "checkpoints": [
             {
                 "name": "Chełmik Wołowski",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Tymowa",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -193,15 +193,15 @@
         "checkpoints": [
             {
                 "name": "Czermin Kolonia",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Czermin Podgórze",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Czermin Południe",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -231,19 +231,19 @@
             },
             {
                 "name": "Kasztanki",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Kościerzyn Mały",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Kruszki",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Kruszki",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -254,11 +254,11 @@
         "checkpoints": [
             {
                 "name": "Jasienice",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Jasienice Wielkie",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -275,11 +275,11 @@
         "checkpoints": [
             {
                 "name": "Glinnik Wieś",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Smardzew",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -319,7 +319,7 @@
         "checkpoints": [
             {
                 "name": "Jaskrów",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -336,7 +336,7 @@
         "checkpoints": [
             {
                 "name": "Głębce Kopydło",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -347,19 +347,19 @@
         "checkpoints": [
             {
                 "name": "Borsk",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Strzelno",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Torków",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Torków Centrum",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -394,11 +394,11 @@
         "checkpoints": [
             {
                 "name": "Szymbielinowice",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Wieś Wielinska",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -409,7 +409,7 @@
         "checkpoints": [
             {
                 "name": "Krnów-Cwilin",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -420,7 +420,7 @@
         "checkpoints": [
             {
                 "name": "Barczewko",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -431,7 +431,7 @@
         "checkpoints": [
             {
                 "name": "Kaziopole",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -442,19 +442,19 @@
         "checkpoints": [
             {
                 "name": "Byki Południe",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Byki Północ",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Byki Wiadukt",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Byki Wschód",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Gądów",
@@ -462,7 +462,7 @@
             },
             {
                 "name": "Kociewie Małe",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Stogi",
@@ -477,23 +477,23 @@
         "checkpoints": [
             {
                 "name": "Brwinów",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Jaktorów",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Józefinów",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Milanówek",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Międzyborów",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "PRUSZKÓW",
@@ -501,15 +501,15 @@
             },
             {
                 "name": "Parzniew",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Piastów",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "W-wa Ursus-Niedźwiadek",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Żyrardów",
@@ -528,15 +528,15 @@
             },
             {
                 "name": "Domaniewice Centrum",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Grudze",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Kamień Łowicki",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -551,11 +551,11 @@
             },
             {
                 "name": "Straszków",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Zaborów",
-                "suffix": ", podg."
+                "suffix": ", podg"
             }
         ]
     },
@@ -570,7 +570,7 @@
             },
             {
                 "name": "Ozorków Nowe Miasto",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -581,7 +581,7 @@
         "checkpoints": [
             {
                 "name": "Osowo",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Rogalin",
@@ -596,11 +596,11 @@
         "checkpoints": [
             {
                 "name": "Wielowieś",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Zalesie Gorzyckie",
-                "suffix": ", podg."
+                "suffix": ", podg"
             }
         ]
     },
@@ -615,35 +615,35 @@
             },
             {
                 "name": "BB Lipnik",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "BB Lipnik",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "BB Mikuszowice",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Cisiec",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Cięcina",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Cięcina Dolna",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Pietrzykowice Żywieckie",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Radziechowy Wieprz",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Wilkowice Bystra",
@@ -659,7 +659,7 @@
             },
             {
                 "name": "Łodygowice Górne",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -676,7 +676,7 @@
         "checkpoints": [
             {
                 "name": "Czystobór",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "LIGOTA TRZESZCZE",
@@ -684,7 +684,7 @@
             },
             {
                 "name": "Ligota Stadion",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -712,7 +712,7 @@
         "checkpoints": [
             {
                 "name": "Lisków Przedmieście",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "TEFAMA",
@@ -727,19 +727,19 @@
         "checkpoints": [
             {
                 "name": "Lisków Dąbrówka",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Lisków Rynek",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Lisków Rynek",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Lisków Zarzecze",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Spedpol",
@@ -760,7 +760,7 @@
         "checkpoints": [
             {
                 "name": "Panowice",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -777,11 +777,11 @@
         "checkpoints": [
             {
                 "name": "Lębork Mosty",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Lębork Nowy Świat",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -792,7 +792,7 @@
         "checkpoints": [
             {
                 "name": "Milówka Zabawa",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -803,22 +803,22 @@
         "checkpoints": [
             {
                 "name": "Podzamcze",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
     {
         "sceneryName": "Modlinków",
         "mainCheckpoint": "Modlinków",
-        "mainCheckpointSuffix": ", podg.",
+        "mainCheckpointSuffix": ", podg",
         "checkpoints": [
             {
                 "name": "Kobiernice",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Modlinków Wieś",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -835,7 +835,7 @@
         "checkpoints": [
             {
                 "name": "Czechowizna",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -863,11 +863,11 @@
         "checkpoints": [
             {
                 "name": "Orniki Rzeka",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Peplin",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -884,11 +884,11 @@
         "checkpoints": [
             {
                 "name": "Śródborowo",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Świderek",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -899,7 +899,7 @@
         "checkpoints": [
             {
                 "name": "Kliska Przymurze",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -927,7 +927,7 @@
         "checkpoints": [
             {
                 "name": "Starzyny",
-                "suffix": ", podg."
+                "suffix": ", podg"
             }
         ]
     },
@@ -938,15 +938,15 @@
         "checkpoints": [
             {
                 "name": "Kobiór",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Kobiór",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Piasek",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -957,11 +957,11 @@
         "checkpoints": [
             {
                 "name": "Lipce Reymontowskie",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Maków",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -972,7 +972,7 @@
         "checkpoints": [
             {
                 "name": "Pszczyna Czarków",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -989,7 +989,7 @@
         "checkpoints": [
             {
                 "name": "Rajcza Centrum",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1000,15 +1000,15 @@
         "checkpoints": [
             {
                 "name": "Krosnowa",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Przyłęk Duży",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Wągry",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1019,7 +1019,7 @@
         "checkpoints": [
             {
                 "name": "Rudnik Stróża",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1030,11 +1030,11 @@
         "checkpoints": [
             {
                 "name": "Sieniawka",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Sieniawka",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1051,7 +1051,7 @@
         "checkpoints": [
             {
                 "name": "Zembrzyce",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1062,11 +1062,11 @@
         "checkpoints": [
             {
                 "name": "Wykno",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Zaosie",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1077,34 +1077,34 @@
         "checkpoints": [
             {
                 "name": "Chłopki",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Dominików",
-                "suffix": ", podst."
+                "suffix": ", pe"
             }
         ]
     },
     {
         "sceneryName": "Sroka",
         "mainCheckpoint": "Sroka",
-        "mainCheckpointSuffix": ", podg.",
+        "mainCheckpointSuffix": ", podg",
         "checkpoints": [
             {
                 "name": "Ryś",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Ryś",
-                "suffix": ", podst."
+                "suffix": ", pe"
             },
             {
                 "name": "Sroka Południe",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Sławociesze",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1121,11 +1121,11 @@
         "checkpoints": [
             {
                 "name": "Bratoszewice",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Swędów",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1148,7 +1148,7 @@
         "checkpoints": [
             {
                 "name": "Łęgowo Sulechowskie",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1159,11 +1159,11 @@
         "checkpoints": [
             {
                 "name": "Rudziczka",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Suszec Kopalnia",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Suszec Kopalnia",
@@ -1171,7 +1171,7 @@
             },
             {
                 "name": "Suszec Rudziczka",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1188,11 +1188,11 @@
         "checkpoints": [
             {
                 "name": "Rycerka",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Sól Kiczora",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1203,7 +1203,7 @@
         "checkpoints": [
             {
                 "name": "Jabłowo",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1226,11 +1226,11 @@
         "checkpoints": [
             {
                 "name": "Kukułka",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Piaski",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1241,7 +1241,7 @@
         "checkpoints": [
             {
                 "name": "Tomaszów Maz. Białobrzegi",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1252,18 +1252,18 @@
         "checkpoints": [
             {
                 "name": "Wola Tomska",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
     {
         "sceneryName": "Torzyn",
         "mainCheckpoint": "Torzyn",
-        "mainCheckpointSuffix": ", podg.",
+        "mainCheckpointSuffix": ", podg",
         "checkpoints": [
             {
                 "name": "Torzyn",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Torzyn gt",
@@ -1278,7 +1278,7 @@
         "checkpoints": [
             {
                 "name": "Poróżniew",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1289,7 +1289,7 @@
         "checkpoints": [
             {
                 "name": "Dębina",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Strumień",
@@ -1297,7 +1297,7 @@
             },
             {
                 "name": "Studzionka",
-                "suffix": ", podg."
+                "suffix": ", podg"
             }
         ]
     },
@@ -1314,7 +1314,7 @@
         "checkpoints": [
             {
                 "name": "Most",
-                "suffix": ", podg."
+                "suffix": ", podg"
             }
         ]
     },
@@ -1325,11 +1325,11 @@
         "checkpoints": [
             {
                 "name": "Borowiki",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Borowiki",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Wielichowo Główne gt",
@@ -1341,7 +1341,7 @@
             },
             {
                 "name": "Żakówek",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1352,7 +1352,7 @@
         "checkpoints": [
             {
                 "name": "Wielicz Bogucice",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Wielicz Kopalnia",
@@ -1385,7 +1385,7 @@
         "checkpoints": [
             {
                 "name": "Toporki",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1396,19 +1396,19 @@
         "checkpoints": [
             {
                 "name": "Chełminiwaźnice",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Chełminiwaźnice",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Duże Groby",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Małe Groby",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1419,15 +1419,15 @@
         "checkpoints": [
             {
                 "name": "Czarnca",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Czarnca",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Knapówka",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "ŻELISŁAWICE",
@@ -1454,7 +1454,7 @@
         "checkpoints": [
             {
                 "name": "Kwadratowa",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1465,7 +1465,7 @@
         "checkpoints": [
             {
                 "name": "Zgierz Jaracza",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1476,11 +1476,11 @@
         "checkpoints": [
             {
                 "name": "Grotniki",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Zgierz Północ",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1491,11 +1491,11 @@
         "checkpoints": [
             {
                 "name": "Bęczkowo",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Kącik",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1506,19 +1506,19 @@
         "checkpoints": [
             {
                 "name": "Stary Kisielin",
-                "suffix": ", podst."
+                "suffix": ", pe"
             },
             {
                 "name": "Zielona Góra Nowy Kisielin",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Zielona Góra Przylep",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Zielona Góra Stary Kisielin",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1533,7 +1533,7 @@
             },
             {
                 "name": "Złotniki",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1544,11 +1544,11 @@
         "checkpoints": [
             {
                 "name": "Laliki",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Skalite-Serafinov",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1559,7 +1559,7 @@
         "checkpoints": [
             {
                 "name": "Ulanów-Bieliniec",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1570,7 +1570,7 @@
         "checkpoints": [
             {
                 "name": "Borszewice",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1581,11 +1581,11 @@
         "checkpoints": [
             {
                 "name": "Leokadia",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Łaskarzew Przystanek",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1602,7 +1602,7 @@
         "checkpoints": [
             {
                 "name": "Rogożew",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1613,11 +1613,11 @@
         "checkpoints": [
             {
                 "name": "Gawrony",
-                "suffix": ", po."
+                "suffix": ", po"
             },
             {
                 "name": "Sierpów",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1639,7 +1639,7 @@
         "checkpoints": [
             {
                 "name": "Żerniki Małe",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     },
@@ -1650,23 +1650,23 @@
         "checkpoints": [
             {
                 "name": "Ciepłownia",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Kleszczów",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Ryb. Gotartowice",
-                "suffix": ", podg."
+                "suffix": ", podg"
             },
             {
                 "name": "Szczejkowice",
-                "suffix": ", podst."
+                "suffix": ", pe"
             },
             {
                 "name": "Szczejkowice",
-                "suffix": ", po."
+                "suffix": ", po"
             }
         ]
     }
