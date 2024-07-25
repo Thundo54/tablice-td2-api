@@ -779,7 +779,7 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["16108", "16109", "61108", "61109"],
+      "trainNo": ["16108", "16109", "61108", "61109", "56124", "56125"],
       "categoryOverwrite": "IC",
       "trainName": "Oleńka"
     },
@@ -1076,6 +1076,12 @@
       "trainNo": ["21010", "21011", "12010", "12011"],
       "categoryOverwrite": "TLK",
       "trainName": "Kyiv‑Express"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["21240", "21241"],
+      "categoryOverwrite": "TLK",
+      "trainName": "Kyiv‑Express BIS"
     },
     {
       "operator": "IC",
@@ -2891,7 +2897,7 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["61200", "61201"],
+      "trainNo": ["61200", "61201", "77232", "77365"],
       "categoryOverwrite": "S",
       "trainName": "Włókniarz"
     },
@@ -3413,104 +3419,32 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["36200", "36201", "63200", "63201", "17208", "17209", "71200", "71201", "81200", "18200", "88204", "14209", "53200", "53201"],
-      "categoryOverwrite": "P",
-      "trainName": "Kibice"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["14210", "14211"],
-      "categoryOverwrite": "P",
-      "trainName": "Kibice I"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["68200", "14230" ,"14231", "86200", "86201", "41234", "41235"],
-      "categoryOverwrite": "P",
-      "trainName": "Kibice II"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["14232", "14233", "41214", "41215"],
-      "categoryOverwrite": "P",
-      "trainName": "Kibice III"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["41222", "41223"],
-      "categoryOverwrite": "P",
-      "trainName": "Kibice IV"
-    },
-    {
-      "operator": "IC",
       "trainNo": ["77206"],
-      "categoryOverwrite": "P",
+      "categoryOverwrite": "S",
       "trainName": "Pyra"
     },
     {
       "operator": "IC",
       "trainNo": ["57200", "57201"],
-      "categoryOverwrite": "P",
+      "categoryOverwrite": "S",
       "trainName": "Mebelek"
     },
     {
       "operator": "IC",
       "trainNo": ["77230", "77231"],
-      "categoryOverwrite": "P",
+      "categoryOverwrite": "S",
       "trainName": "Franek"
     },
     {
       "operator": "IC",
-      "trainNo": ["14216", "14217", "41210", "41211"],
-      "categoryOverwrite": "P",
-      "trainName": "Pielgrzymka 1"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["14212", "14213", "41206", "41207"],
-      "categoryOverwrite": "P",
-      "trainName": "Pielgrzymka 2"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["42200", "42201"],
-      "categoryOverwrite": "P",
-      "trainName": "Pielgrzymka 3"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["54202", "54203", "45202", "45203"],
-      "categoryOverwrite": "P",
-      "trainName": "Pielgrzymka 4"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["34206", "34207", "43202", "43203"],
-      "categoryOverwrite": "P",
-      "trainName": "Pielgrzymka 5"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["84202", "84203", "48202", "48203"],
-      "categoryOverwrite": "P",
-      "trainName": "Pielgrzymka 6"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["84200", "84201", "48200", "48201"],
-      "categoryOverwrite": "P",
-      "trainName": "Pielgrzymka 7"
-    },
-    {
-      "operator": "IC",
       "trainNo": ["44254", "44255"],
-      "categoryOverwrite": "P",
+      "categoryOverwrite": "S",
       "trainName": "Pilot"
     },
     {
       "operator": "IC",
       "trainNo": ["35200", "35201"],
-      "categoryOverwrite": "P",
+      "categoryOverwrite": "S",
       "trainName": "X-KOM"
     },
     {
@@ -3782,6 +3716,96 @@
       "trainNo": ["37104", "37105", "73104", "73105"],
       "categoryOverwrite": "IC",
       "trainName": "Mehoffer"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["44221", "44222"],
+      "categoryOverwrite": "S",
+      "trainName": "Turystka"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["44006", "44007", "46002", "46003"],
+      "categoryOverwrite": "S",
+      "trainName": "Ślązak"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["44215"],
+      "categoryOverwrite": "S",
+      "trainName": "Szyndzielnia"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["44256", "44257"],
+      "categoryOverwrite": "S",
+      "trainName": "Spodek"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["44225", "44236"],
+      "categoryOverwrite": "S",
+      "trainName": "Soła"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["44002", "44003", "44004", "44005", "97031", "97032"],
+      "categoryOverwrite": "S",
+      "trainName": "Olza"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["44200", "44201", "44202", "44203"],
+      "categoryOverwrite": "S",
+      "trainName": "Narciarz"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["34206", "34207", "43206", "44240"],
+      "categoryOverwrite": "S",
+      "trainName": "Beskidy"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["55206", "55207", "55222", "55223"],
+      "categoryOverwrite": "S",
+      "trainName": "Tężnia"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["88204", "88205", "88209"],
+      "categoryOverwrite": "S",
+      "trainName": "Kapitan"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["88222", "88223", "88224", "88225", "88232", "88233"],
+      "categoryOverwrite": "S",
+      "trainName": "Kamień"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["88205", "88208", "88209"],
+      "categoryOverwrite": "S",
+      "trainName": "Hetman"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["88213", "88220", "88221"],
+      "categoryOverwrite": "S",
+      "trainName": "Gryf"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["87202"],
+      "categoryOverwrite": "S",
+      "trainName": "Fala"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["68201"],
+      "categoryOverwrite": "S",
+      "trainName": "Błękitny"
     }
   ]
 }
