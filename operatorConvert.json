@@ -959,7 +959,7 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["64174", "64175", "46174", "46175", "38174", "38175", "83174", "83175", "64174", "64175"],
+      "trainNo": ["64174", "64175", "46174", "46175", "38174", "38175", "83174", "83175"],
       "categoryOverwrite": "TLK",
       "trainName": "Wolin"
     },
@@ -1385,7 +1385,7 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["15122", "15123", "51122"],
+      "trainNo": ["15122", "15123"],
       "categoryOverwrite": "IC",
       "trainName": "Mazury BIS"
     },
@@ -1667,7 +1667,7 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["15122", "15123", "51122", "51123"],
+      "trainNo": ["51122", "51123"],
       "categoryOverwrite": "TLK",
       "trainName": "Małopolska BIS"
     },
@@ -3767,13 +3767,13 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["55206", "55207", "55222", "55223"],
+      "trainNo": ["55206", "55222", "55223"],
       "categoryOverwrite": "S",
       "trainName": "Tężnia"
     },
     {
       "operator": "IC",
-      "trainNo": ["88204", "88205", "88209"],
+      "trainNo": ["88204", "88209"],
       "categoryOverwrite": "S",
       "trainName": "Kapitan"
     },
@@ -3785,7 +3785,7 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["88205", "88208", "88209"],
+      "trainNo": ["88205", "88208"],
       "categoryOverwrite": "S",
       "trainName": "Hetman"
     },
