@@ -1139,12 +1139,6 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["943004", "943005"],
-      "categoryOverwrite": "IC",
-      "trainName": "Galicja BIS"
-    },
-    {
-      "operator": "IC",
       "trainNo": ["22001", "22002", "22004", "22005", "22006", "22007", "22008", "22009", "33001", "33002", "33025", "33026", "33007", "33008"],
       "categoryOverwrite": "TLK",
       "trainName": ""
@@ -1253,13 +1247,7 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["12120", "12121", "21120", "21121"],
-      "categoryOverwrite": "TLK",
-      "trainName": "Inka"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["12106", "12107", "21106", "21107"],
+      "trainNo": ["12120", "12121", "21120", "21121", "12106", "12107", "21106", "21107"],
       "categoryOverwrite": "TLK",
       "trainName": "Inka"
     },
@@ -1559,7 +1547,7 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["1900", "1901"],
+      "trainNo": ["1900", "1901", "9101", "9100"],
       "categoryOverwrite": "IC",
       "trainName": "Boryna"
     },
@@ -1853,7 +1841,7 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["47100", "47101", "74100", "74101"],
+      "trainNo": ["47101", "74100"],
       "categoryOverwrite": "IC",
       "trainName": "Spodek"
     },
@@ -2687,7 +2675,7 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["10160", "10161", "11160", "11161"],
+      "trainNo": ["1106", "1107", "1007", "1006"],
       "categoryOverwrite": "IC",
       "trainName": "Esperanto"
     },
@@ -3806,6 +3794,18 @@
       "trainNo": ["68201"],
       "categoryOverwrite": "S",
       "trainName": "Błękitny"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["8104", "8105", "1804", "1805"],
+      "categoryOverwrite": "EIC",
+      "trainName": "Sedina"
+    },
+    {
+      "operator": "IC",
+      "trainNo": ["1604", "1605", "6105", "6104"],
+      "categoryOverwrite": "EIC",
+      "trainName": "Lech"
     }
   ]
 }
