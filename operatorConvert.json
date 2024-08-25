@@ -768,12 +768,6 @@
     },
     {
       "operator": "IC",
-      "trainNo": ["6104", "6105"],
-      "categoryOverwrite": "IC",
-      "trainName": "Fredro BIS"
-    },
-    {
-      "operator": "IC",
       "trainNo": ["16102", "16103", "61102", "61103"],
       "categoryOverwrite": "IC",
       "trainName": "Konopnicka"
