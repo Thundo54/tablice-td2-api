@@ -605,6 +605,13 @@
       "trainNoStartsWith": ["9311", "9312", "9313", "9314", "9315", "9711", "9712", "9713", "9714", "9715"],
       "category": { "R": "RL", "M": "RL", "E": "RL" },
       "remarks": ""
+    },
+    {
+      "operator": "PR",
+      "operatorOverwrite": "KMŁ",
+      "trainNoStartsWith": ["395"],
+      "category": { "R": "Os", "M": "Os", "E": "Os" },
+      "remarks": "SKA2"
     }
   ],
   "trainNames":
@@ -758,12 +765,6 @@
       "trainNo": ["1624", "1625", "6124", "6125", "6224", "6225"],
       "categoryOverwrite": "IC",
       "trainName": "Fredro"
-    },
-    {
-      "operator": "IC",
-      "trainNo": ["6104", "6105"],
-      "categoryOverwrite": "IC",
-      "trainName": "Fredro BIS"
     },
     {
       "operator": "IC",
