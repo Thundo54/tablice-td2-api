@@ -181,12 +181,6 @@
         ]
     },
     {
-        "sceneryName": "Chlorkowice",
-        "mainCheckpoint": "Chlorkowice",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
         "sceneryName": "Czermin",
         "mainCheckpoint": "Czermin",
         "mainCheckpointSuffix": null,
@@ -263,10 +257,38 @@
         ]
     },
     {
-        "sceneryName": "Falewo",
-        "mainCheckpoint": "Falewo",
+        "sceneryName": "Dąbrówno",
+        "mainCheckpoint": "Dąbrówno",
         "mainCheckpointSuffix": null,
-        "checkpoints": []
+        "checkpoints": [
+            {
+                "name": "Anicze",
+                "suffix": ", podg"
+            },
+            {
+                "name": "Anicze gt",
+                "suffix": null
+            },
+            {
+                "name": "Dąbrówno Buły",
+                "suffix": ", po"
+            },
+            {
+                "name": "Dęba Hermicka",
+                "suffix": ", po"
+            }
+        ]
+    },
+    {
+        "sceneryName": "Florek",
+        "mainCheckpoint": "Florek",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Raciborów Kutnowski",
+                "suffix": ", po"
+            }
+        ]
     },
     {
         "sceneryName": "Glinnik",
@@ -288,17 +310,6 @@
         "mainCheckpoint": "Gostynin",
         "mainCheckpointSuffix": null,
         "checkpoints": []
-    },
-    {
-        "sceneryName": "Grabów",
-        "mainCheckpoint": "Grabów",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Grabów Wschodni",
-                "suffix": null
-            }
-        ]
     },
     {
         "sceneryName": "Grzebowilk",
@@ -382,25 +393,16 @@
         "checkpoints": []
     },
     {
-        "sceneryName": "Kowalewo",
-        "mainCheckpoint": "Kowalewo",
+        "sceneryName": "Koszalin",
+        "mainCheckpoint": "Koszalin",
         "mainCheckpointSuffix": null,
         "checkpoints": []
     },
     {
-        "sceneryName": "Kraśnica",
-        "mainCheckpoint": "Kraśnica",
+        "sceneryName": "Kowalewo",
+        "mainCheckpoint": "Kowalewo",
         "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Szymbielinowice",
-                "suffix": ", po"
-            },
-            {
-                "name": "Wieś Wielinska",
-                "suffix": ", po"
-            }
-        ]
+        "checkpoints": []
     },
     {
         "sceneryName": "Krnów",
@@ -765,12 +767,6 @@
         ]
     },
     {
-        "sceneryName": "Luzino",
-        "mainCheckpoint": "Luzino",
-        "mainCheckpointSuffix": null,
-        "checkpoints": []
-    },
-    {
         "sceneryName": "Lębork",
         "mainCheckpoint": "Lębork",
         "mainCheckpointSuffix": null,
@@ -781,6 +777,17 @@
             },
             {
                 "name": "Lębork Nowy Świat",
+                "suffix": ", po"
+            }
+        ]
+    },
+    {
+        "sceneryName": "Maków Podhalański",
+        "mainCheckpoint": "Maków Podhalański",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Juszczyn",
                 "suffix": ", po"
             }
         ]
@@ -803,21 +810,6 @@
         "checkpoints": [
             {
                 "name": "Podzamcze",
-                "suffix": ", po"
-            }
-        ]
-    },
-    {
-        "sceneryName": "Modlinków",
-        "mainCheckpoint": "Modlinków",
-        "mainCheckpointSuffix": ", podg",
-        "checkpoints": [
-            {
-                "name": "Kobiernice",
-                "suffix": ", po"
-            },
-            {
-                "name": "Modlinków Wieś",
                 "suffix": ", po"
             }
         ]
@@ -855,6 +847,31 @@
         "mainCheckpoint": "Niedoradz",
         "mainCheckpointSuffix": null,
         "checkpoints": []
+    },
+    {
+        "sceneryName": "Nowa Wies Wielka",
+        "mainCheckpoint": "NOWA WIEŚ WIELKA",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Odolany",
+        "mainCheckpoint": "Wwa Gł Tow WOA",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Wwa Gł Tow WOB",
+                "suffix": null
+            },
+            {
+                "name": "Wwa Gł Tow WOC",
+                "suffix": null
+            },
+            {
+                "name": "Wwa Jelonki",
+                "suffix": null
+            }
+        ]
     },
     {
         "sceneryName": "Orniki",
@@ -902,6 +919,12 @@
                 "suffix": ", po"
             }
         ]
+    },
+    {
+        "sceneryName": "Pilichowice",
+        "mainCheckpoint": "Pilichowice",
+        "mainCheckpointSuffix": ", podg",
+        "checkpoints": []
     },
     {
         "sceneryName": "Poddębice",
@@ -1024,21 +1047,6 @@
         ]
     },
     {
-        "sceneryName": "Sieniawka",
-        "mainCheckpoint": "Sieniawka",
-        "mainCheckpointSuffix": null,
-        "checkpoints": [
-            {
-                "name": "Sieniawka",
-                "suffix": ", podg"
-            },
-            {
-                "name": "Sieniawka",
-                "suffix": ", po"
-            }
-        ]
-    },
-    {
         "sceneryName": "Sierakówek",
         "mainCheckpoint": "Sierakówek",
         "mainCheckpointSuffix": null,
@@ -1081,7 +1089,7 @@
             },
             {
                 "name": "Dominików",
-                "suffix": ", pe"
+                "suffix": ", podst"
             }
         ]
     },
@@ -1096,7 +1104,7 @@
             },
             {
                 "name": "Ryś",
-                "suffix": ", pe"
+                "suffix": ", podst"
             },
             {
                 "name": "Sroka Południe",
@@ -1132,6 +1140,12 @@
     {
         "sceneryName": "Strzelce Kujawskie",
         "mainCheckpoint": "Strzelce Kujawskie",
+        "mainCheckpointSuffix": null,
+        "checkpoints": []
+    },
+    {
+        "sceneryName": "Sucha Beskidzka",
+        "mainCheckpoint": "Sucha Beskidzka",
         "mainCheckpointSuffix": null,
         "checkpoints": []
     },
@@ -1315,6 +1329,17 @@
             {
                 "name": "Most",
                 "suffix": ", podg"
+            }
+        ]
+    },
+    {
+        "sceneryName": "Wielgowo",
+        "mainCheckpoint": "Wielgowo",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Wielgowo Wieś",
+                "suffix": ", po"
             }
         ]
     },
@@ -1506,7 +1531,7 @@
         "checkpoints": [
             {
                 "name": "Stary Kisielin",
-                "suffix": ", pe"
+                "suffix": ", podst"
             },
             {
                 "name": "Zielona Góra Nowy Kisielin",
@@ -1596,6 +1621,29 @@
         "checkpoints": []
     },
     {
+        "sceneryName": "Łopiennik",
+        "mainCheckpoint": "Łopiennik",
+        "mainCheckpointSuffix": null,
+        "checkpoints": [
+            {
+                "name": "Janówka",
+                "suffix": ", podg"
+            },
+            {
+                "name": "Janówka",
+                "suffix": ", po"
+            },
+            {
+                "name": "Łopiennik",
+                "suffix": ", po"
+            },
+            {
+                "name": "Łopiennik Dolny",
+                "suffix": null
+            }
+        ]
+    },
+    {
         "sceneryName": "Łąck",
         "mainCheckpoint": "Łąck",
         "mainCheckpointSuffix": null,
@@ -1662,7 +1710,7 @@
             },
             {
                 "name": "Szczejkowice",
-                "suffix": ", pe"
+                "suffix": ", podst"
             },
             {
                 "name": "Szczejkowice",
