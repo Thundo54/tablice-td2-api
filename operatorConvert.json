@@ -690,7 +690,7 @@
     },
     {
       "operator": "PR",
-      "trainNo": ["34603", "43608"],
+      "trainNo": ["34603", "43612"],
       "categoryOverwrite": "R",
       "trainName": "Leskowiec"
     },
@@ -708,13 +708,13 @@
     },
     {
       "operator": "PR",
-      "trainNo": ["34605", "43610"],
+      "trainNo": ["34605", "43614"],
       "categoryOverwrite": "R",
       "trainName": "Beskidek"
     },
     {
       "operator": "PR",
-      "trainNo": ["43600", "34613"],
+      "trainNo": ["43602", "34617"],
       "categoryOverwrite": "R",
       "trainName": "Wanda"
     },
@@ -732,13 +732,13 @@
     },
     {
       "operator": "PR",
-      "trainNo": ["34607", "43606"],
+      "trainNo": ["34609", "43610"],
       "categoryOverwrite": "R",
       "trainName": "Bolek i Lolek"
     },
     {
       "operator": "PR",
-      "trainNo": ["43604", "34611"],
+      "trainNo": ["43606", "34613"],
       "categoryOverwrite": "R",
       "trainName": "Biała"
     },
@@ -2724,7 +2724,7 @@
     },
     {
       "operator": "PR",
-      "trainNo": ["34609", "43602"],
+      "trainNo": ["34611", "43604"],
       "categoryOverwrite": "R",
       "trainName": "Stanisław Stojałowski"
     },
