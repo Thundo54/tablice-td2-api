@@ -797,7 +797,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["3814", "3819", "8315", "8319", "8355", "8359"],
+            "trainNo": ["3814", "3819", "8314", "8319", "8355", "8359"],
             "categoryOverwrite": "EIC",
             "trainName": "Matejko"
         },
@@ -893,7 +893,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["3812", "3815", "8313", "8315"],
+            "trainNo": ["3812", "3815", "8312", "8315"],
             "categoryOverwrite": "EIC",
             "trainName": "Szkuner"
         },
@@ -911,7 +911,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["3808", "3817", "3858", "3867", "8309", "8317", "8358", "8367"],
+            "trainNo": ["3808", "3817", "3858", "3867", "8317", "8358", "8367"],
             "categoryOverwrite": "EIC",
             "trainName": "Wyczółkowski"
         },
@@ -1271,7 +1271,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["13108", "13117", "22019", "22020", "31109", "31117"],
+            "trainNo": ["13108", "13117", "22019", "22020", "31108", "31117"],
             "categoryOverwrite": "IC",
             "trainName": "Wisłok"
         },
@@ -1301,7 +1301,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["58105", "58109", "85105", "85109"],
+            "trainNo": ["58104", "58109", "85105", "85109"],
             "categoryOverwrite": "IC",
             "trainName": "Bryza"
         },
@@ -1499,7 +1499,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["38105", "38109", "83104", "83109"],
+            "trainNo": ["38104", "38109", "83104", "83109"],
             "categoryOverwrite": "IC",
             "trainName": "Noteć"
         },
@@ -1745,13 +1745,13 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["12104", "12109", "21105", "21109"],
+            "trainNo": ["12104", "12109", "21104", "21109"],
             "categoryOverwrite": "IC",
             "trainName": "Czechowicz"
         },
         {
             "operator": "IC",
-            "trainNo": ["23112", "23115", "32113", "32115"],
+            "trainNo": ["23112", "23115", "32112", "32115"],
             "categoryOverwrite": "IC",
             "trainName": "Hetman"
         },
