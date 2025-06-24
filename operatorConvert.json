@@ -1283,7 +1283,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["57104", "57109", "75105", "75109"],
+            "trainNo": ["57104", "57109", "75104", "75109"],
             "categoryOverwrite": "IC",
             "trainName": "Bachus"
         },
@@ -1301,7 +1301,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["58104", "58109", "85105", "85109"],
+            "trainNo": ["58104", "58109", "85104", "85109"],
             "categoryOverwrite": "IC",
             "trainName": "Bryza"
         },
@@ -1433,7 +1433,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["38108", "38117", "83109", "83117"],
+            "trainNo": ["38108", "38117", "83108", "83117"],
             "categoryOverwrite": "IC",
             "trainName": "Lubomirski"
         },
@@ -1487,7 +1487,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["16104", "16109", "61105", "61109"],
+            "trainNo": ["16104", "16109", "61104", "61109"],
             "categoryOverwrite": "IC",
             "trainName": "Nałkowska"
         },
@@ -1535,13 +1535,13 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["16108", "16117", "61109", "61117"],
+            "trainNo": ["16108", "16117", "61108", "61117"],
             "categoryOverwrite": "IC",
             "trainName": "Porazińska"
         },
         {
             "operator": "IC",
-            "trainNo": ["68105", "86104"],
+            "trainNo": ["68104", "86104"],
             "categoryOverwrite": "IC",
             "trainName": "Promenada"
         },
@@ -1601,7 +1601,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["57108", "57117", "75109", "75117"],
+            "trainNo": ["57108", "57117", "75108", "75117"],
             "categoryOverwrite": "IC",
             "trainName": "Stoczniowiec"
         },
@@ -1871,7 +1871,7 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["66105", "66108", "66109", "66117"],
+            "trainNo": ["66108", "66109", "66117"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Bystrzyca"
         },
@@ -1931,7 +1931,7 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["66134", "67053", "76110"],
+            "trainNo": ["67053", "76110"],
             "categoryOverwrite": "OsP",
             "trainName": "KD Sprinter Jan Wyżykowski"
         },
@@ -2081,7 +2081,7 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["60248", "60250", "60257", "69906", "69913"],
+            "trainNo": ["60248", "60250", "69906", "69913"],
             "categoryOverwrite": "OsP",
             "trainName": "Radunia"
         },
@@ -2117,13 +2117,13 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["60700", "60701", "67759", "67767", "76702", "76705"],
+            "trainNo": ["60700", "60701", "67767", "76702", "76705"],
             "categoryOverwrite": "OsP",
             "trainName": "Szczupak"
         },
         {
             "operator": "KD",
-            "trainNo": ["60275", "60277", "60279", "60283", "60287", "60293"],
+            "trainNo": ["60275", "60279", "60283", "60287", "60293"],
             "categoryOverwrite": "OsP",
             "trainName": "Ślęża"
         },
@@ -2141,7 +2141,7 @@
         },
         {
             "operator": "KD",
-            "trainNo": ["69751", "69753", "69755", "76716", "76718", "76723", "76727"],
+            "trainNo": ["69751", "69753", "76716", "76718", "76723", "76727"],
             "categoryOverwrite": "OsP",
             "trainName": "Widawa"
         },
@@ -2237,7 +2237,7 @@
         },
         {
             "operator": "KM",
-            "trainNo": ["11156", "11160", "11161", "11163"],
+            "trainNo": ["11156", "11160", "11161"],
             "categoryOverwrite": "REx",
             "trainName": "Łukowianka"
         },
@@ -2285,7 +2285,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["33126", "33133", "33136"],
+            "trainNo": ["33126", "33136"],
             "categoryOverwrite": "OsP",
             "trainName": "Dunajec"
         },
@@ -2507,7 +2507,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["70405", "70409", "79603", "79605"],
+            "trainNo": ["70409", "79603", "79605"],
             "categoryOverwrite": "R",
             "trainName": "Gęśnik"
         },
@@ -2687,7 +2687,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["10482", "10485", "10487", "10493"],
+            "trainNo": ["10482", "10487"],
             "categoryOverwrite": "R",
             "trainName": "Orlanka"
         },
@@ -2741,7 +2741,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["78943", "78945", "87930"],
+            "trainNo": ["78943", "87930"],
             "categoryOverwrite": "R",
             "trainName": "Radew"
         },
@@ -2759,7 +2759,7 @@
         },
         {
             "operator": "PR",
-            "trainNo": ["70407", "70413", "79605", "79609"],
+            "trainNo": ["70407", "70413", "79609"],
             "categoryOverwrite": "R",
             "trainName": "Rusałka"
         },
