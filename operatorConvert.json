@@ -773,7 +773,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1005", "1009", "1104", "1109"],
+            "trainNo": ["1009", "1104", "1109"],
             "categoryOverwrite": "EIC",
             "trainName": "Leśmian"
         },
@@ -815,13 +815,13 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1628", "1637", "6129", "6137"],
+            "trainNo": ["1628", "1637", "6137"],
             "categoryOverwrite": "EIC",
             "trainName": "Mickiewicz"
         },
         {
             "operator": "IC",
-            "trainNo": ["5604", "5609", "6505", "6509"],
+            "trainNo": ["5604", "5609", "6504", "6509"],
             "categoryOverwrite": "EIC",
             "trainName": "Mieszko"
         },
@@ -869,7 +869,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1808", "1817", "70109", "70117", "77109", "77117", "8109", "8117"],
+            "trainNo": ["1808", "1817", "70109", "70117", "77109", "77117", "8117"],
             "categoryOverwrite": "EIC",
             "trainName": "Podlasiak"
         },
@@ -935,7 +935,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1622", "1625", "6123", "6125"],
+            "trainNo": ["1622", "1625", "6123"],
             "categoryOverwrite": "EIC",
             "trainName": "Baczyński"
         },
@@ -1019,7 +1019,7 @@
         },
         {
             "operator": "IC",
-            "trainNo": ["1529", "1537", "5128", "5137"],
+            "trainNo": ["1537", "5128", "5137"],
             "categoryOverwrite": "EIC",
             "trainName": "Kociewie"
         },
